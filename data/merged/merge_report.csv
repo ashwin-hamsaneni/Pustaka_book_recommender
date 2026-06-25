@@ -1,0 +1,14 @@
+Metric,Value
+Users Before Merge,1013
+Users After Merge,1000
+Users Removed,13
+Books Before Merge,614
+Books After Merge,600
+Books Removed,14
+Transactions Before Merge,3889
+Transactions After Merge,3839
+Transactions Removed,50
+Unique Users,1000
+Unique Books,600
+Orphan Users,21
+Orphan Books,19

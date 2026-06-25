@@ -1,0 +1,6 @@
+Users: 1000
+Books: 600
+Actual Interactions: 3728
+Possible Interactions: 600000
+Density: 0.006213
+Sparsity: 0.993787

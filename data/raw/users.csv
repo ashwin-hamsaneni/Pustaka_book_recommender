@@ -1,0 +1,506 @@
+user_id,user_name,age,gender,city,state,preferred_language,signup_date,subscription_type,subscription_start_date,subscription_end_date
+U0001,Meenakshi Menon,150.0,Male,Salem,Tamil Nadu,Tamil,2019-12-23,Annual Ebook,2019-12-27,2020-12-26
+U0002,Ananya Rao,50.0,Female,Thiruvananthapuram,Kerala,Malayalam,2023-09-15,None,,
+U0003,BHARATI Srinivasan,18.0,Female,Belagavi,Karnataka,,2021-05-31,Audiobook Subscription,2021-07-13,2022-07-13
+U0004,Pooja Rao,40.0,Female,Kollam,Kerala,Malayalam,2020-05-26,Audiobook Subscription,2020-07-13,2021-07-13
+U0005,Karthik Chaudhari,58.0,Female,Ahmedabad,Gujarat,English,2019-07-07,Annual Ebook,2019-08-13,2020-08-12
+U0006,KARTHIK Sundaram,42.0,Male,Hubballi,Karnataka,Kannada,2021-05-08,Annual Ebook,2021-08-05,2022-08-05
+U0007,Brindha Banerjee,58.0,Male,Tirunelveli,Tamil Nadu,Tamil,2021-06-18,Annual Ebook,2021-06-25,2022-06-25
+U0008,UMA Reddy,43.0,Male,Visakhapatnam,Andhra Pradesh,Telugu,2024-08-06,Quarterly Ebook,2024-10-27,2025-01-25
+U0009,Vignesh Murugesan,33.0,Female,Kozhikode,Kerala,Malayalam,2023-06-24,Quarterly Ebook,2023-07-11,2023-10-09
+U0010,Sumathi Agarwal,21.0,Female,Tirunelveli,Tamil Nadu,Tamil,2019-09-18,Quarterly Ebook,2019-12-03,2020-03-02
+U0011,Saroja Tiwari,,Female,Kozhikode,Kerala,Malayalam,2021-12-28,Annual Ebook,,2023-02-09
+U0012,Murugan Raghunathan,47.0,Male,Kozhikode,Kerala,Malayalam,2021-01-01,Quarterly Ebook,2021-01-14,2021-04-14
+U0013,AJITH Natarajan,50.0,Female,Thrissur,Kerala,Malayalam,2024-12-12,Audiobook Subscription,2025-02-26,2026-02-26
+U0014,Savitha Agarwal,41.0,Female,,Rajasthan,,2021-09-13,Audiobook Subscription,2021-09-23,2022-09-23
+U0015,KARTHIK Agarwal,66.0,Female,Kochi,Kerala,Malayalam,2020-11-07,None,,
+U0016, Amudha Desai ,52.0,,Thiruvananthapuram,Kerala,,2023-03-10,Quarterly Ebook,2023-05-15,2023-08-13
+U0017,Radha Menon,22.0,Male,Erode,Tamil Nadu,English,2019-10-18,Annual Ebook,2019-10-25,
+U0018, Uma Pillai ,39.0,Male,Kochi,Kerala,English,2020-06-25,Annual Ebook,2020-09-06,2021-09-06
+U0019,Selvi Kaur,48.0,Female,Salem,Tamil Nadu,Tamil,2023-10-01,Quarterly Ebook,,2024-01-05
+U0020, Balaji Banerjee ,24.0,Male,,Kerala,English,2021-02-18,Quarterly Ebook,2021-03-07,2021-06-05
+U0021,Praveen Ramaswamy,33.0,Female,Kollam,Kerala,English,2019-03-02,Audiobook Subscription,2019-04-01,2020-03-31
+U0022,Revathi Joshi,31.0,Female,Delhi,Delhi,Hindi,2023-05-19,None,,
+U0023,Vignesh Raghunathan,64.0,Other,Thiruvananthapuram,Kerala,English,2022-04-30,None,,
+U0024,kavitha varma,-1.0,Female,Visakhapatnam,Andhra Pradesh,Telugu,2024-12-15,None,,
+U0025,SUMATHI Rao,22.0,Female,Erode,Tamil Nadu,English,2021-10-05,Annual Ebook,2021-10-10,2022-10-10
+U0026,Kalai Rao,55.0,Female,Thanjavur,Tamil Nadu,Tamil,2022-07-10,None,,
+U0027,Ashwin Krishnan,37.0,Male,Pune,Maharashtra,Hindi,2020-02-14,None,,
+U0028,Sowmya Mishra,40.0,Female,Kolkata,West Bengal,Hindi,2023-11-30,Audiobook Subscription,2024-02-28,2025-02-27
+U0029, Sunil Rajput ,69.0,Female,Kannur,Kerala,Malayalam,2020-02-29,Audiobook Subscription,2020-03-17,
+U0030,GEETHA Menon,65.0,Female,Vijayawada,Andhra Pradesh,Telugu,2021-04-13,Annual Ebook,2021-05-16,2022-05-16
+U0031,Rohan Agarwal,21.0,Male,,Tamil Nadu,English,2020-06-19,Annual Ebook,2020-07-22,2021-07-22
+U0032,Ganesh Kulkarni,45.0,Female,Thiruvananthapuram,Kerala,Malayalam,2023-02-21,Annual Ebook,2023-03-11,2024-03-10
+U0033,Kamala Krishnan,41.0,Female,Coimbatore,Tamil Nadu,English,2021-10-19,Annual Ebook,2021-12-03,2022-12-03
+U0034,PREMA Chaudhari,44.0,Other,Erode,Tamil Nadu,Tamil,2020-12-26,Audiobook Subscription,2020-12-29,
+U0035,harish patel,44.0,Female,Ahmedabad,Gujarat,Hindi,2020-03-18,Quarterly Ebook,2020-03-22,2020-06-20
+U0036,Akash Sundaram,47.0,Male,Ahmedabad,Gujarat,Hindi,2021-03-02,Quarterly Ebook,2021-04-06,2021-07-05
+U0037,Rajesh Srinivasan,50.0,Male,Kolkata,West Bengal,Telugu,2020-04-17,Audiobook Subscription,2020-05-20,2021-05-20
+U0038, Harish Varma ,34.0,Male,Hubballi,Karnataka,Kannada,2023-11-23,Annual Ebook,2024-01-27,2025-01-26
+U0039,MURUGAN Verma,30.0,Male,Chennai,Tamil Nadu,Tamil,2021-03-18,Quarterly Ebook,2021-03-26,2021-06-24
+U0040,Parvathi Patel,60.0,Female,Bengaluru,Karnataka,Kannada,2023-07-31,None,,
+U0041,Kala Raghunathan,30.0,Male,Delhi,Delhi,English,2022-05-17,Quarterly Ebook,2022-05-17,2022-08-15
+U0042,Sunil Raghunathan,68.0,Female,Davangere,Karnataka,Kannada,2021-05-25,Quarterly Ebook,2021-06-15,2021-09-13
+U0043,Surya Rao,,Female,Kannur,Kerala,Malayalam,2021-07-09,Audiobook Subscription,2021-07-27,2022-07-27
+U0044,Ananya Reddy,48.0,Female,Davangere,Karnataka,Kannada,2021-03-07,Annual Ebook,2021-04-25,2022-04-25
+U0045,Anitha Mehta,59.0,Female,Pune,Maharashtra,Tamil,2021-06-15,None,,
+U0046,Kala Tiwari,53.0,Male,Lucknow,Uttar Pradesh,Hindi,2024-03-18,Annual Ebook,2024-05-28,2025-05-28
+U0047, Gopal Rajan ,46.0,Female,Warangal,Telangana,Telugu,00-00-0000,Audiobook Subscription,2024-03-01,2025-03-01
+U0048,radha chandrasekaran,58.0,Male,,Telangana,English,2023-12-07,None,,
+U0049,Vijay Balasubramanian,38.0,Female,Tiruchirappalli,Tamil Nadu,Tamil,2020-09-17,Annual Ebook,2020-09-25,2021-09-25
+U0050,Nirmala Joshi,47.0,Male,,Karnataka,Kannada,2019-03-22,Audiobook Subscription,2019-06-03,2020-06-02
+U0051,Kumar Kaur,40.0,Male,Kannur,Kerala,Malayalam,2021-06-22,Quarterly Ebook,2021-07-26,2021-10-24
+U0052,Kamala Agarwal,39.0,Female,Kozhikode,Kerala,Malayalam,2020-06-06,Audiobook Subscription,2020-08-13,2021-08-13
+U0053,Ananya Mehta,60.0,Male,Tiruchirappalli,Tamil Nadu,English,2021-12-01,Quarterly Ebook,2021-12-28,2022-03-28
+U0054,Vignesh Rajan,42.0,Male,Bhopal,Madhya Pradesh,Hindi,2019-12-02,Quarterly Ebook,2020-02-09,2020-05-09
+U0055,Suresh Gupta,22.0,Female,Thrissur,Kerala,Malayalam,2021-03-27,Audiobook Subscription,2021-06-14,2022-06-14
+U0056,Bhavana Balasubramanian,60.0,Male,Lucknow,Uttar Pradesh,English,2023-02-19,None,,
+U0057,Amudha Chakraborty,70.0,Male,Visakhapatnam,Andhra Pradesh,Telugu,2023-03-18,Quarterly Ebook,2023-04-12,2023-07-11
+U0058,Meena Varma,58.0,,Bengaluru,Karnataka,Kannada,2020-05-10,Annual Ebook,2020-07-21,2021-07-21
+U0059,Deepa Gupta,60.0,Male,Mysuru,Karnataka,Kannada,2024-06-30,None,,
+U0060,BALU Das,47.0,Female,Kozhikode,Kerala,Malayalam,2022-01-11,Annual Ebook,2022-03-20,2023-03-20
+U0061,Prema Kaur,70.0,Female,Erode,Tamil Nadu,Tamil,2024-01-21,None,,
+U0062,Saroja Naidu,42.0,Male,Mysuru,Karnataka,Kannada,2022-12-24,Annual Ebook,2023-02-05,2024-02-05
+U0063,hema prasad,35.0,Female,Vellore,Tamil Nadu,English,2023-07-23,Quarterly Ebook,2023-08-22,2023-11-20
+U0064,Karthi Kaur,49.0,,Bengaluru,Karnataka,Kannada,2021-09-23,None,,
+U0065,Deepak Singh,51.0,Male,Kolkata,West Bengal,Hindi,2024-02-02,None,,
+U0066,Babu Sundaram,30.0,Male,Thrissur,Kerala,English,2021-06-05,Annual Ebook,2021-07-10,2022-07-10
+U0067, Sathish Varma ,51.0,Female,Ahmedabad,Gujarat,Hindi,2023-01-18,None,,
+U0068,Priya Chakraborty,35.0,Male,Bengaluru,Karnataka,Kannada,2024-07-03,None,,
+U0069,Priya Naidu,48.0,Male,Coimbatore,Tamil Nadu,Tamil,2024-05-10,None,,
+U0070,Rajesh Mehta,54.0,Female,Tiruchirappalli,Tamil Nadu,Tamil,2019-12-15,Audiobook Subscription,2019-12-30,2020-12-29
+U0071,Vasantha Joshi,68.0,Female,Mangaluru,Karnataka,Kannada,2022-05-02,Audiobook Subscription,2022-06-25,2023-06-25
+U0072,Rekha Naidu,57.0,Female,Thrissur,Kerala,Malayalam,2021-12-19,Annual Ebook,2022-01-08,2023-01-08
+U0073,Senthil Ramaswamy,,Male,Vijayawada,Andhra Pradesh,Telugu,2021-08-06,None,,
+U0074,VIJAY Bose,22.0,Female,,Gujarat,English,2021-07-09,Annual Ebook,2021-08-12,2022-08-12
+U0075,Arun Pillai,68.0,Male,Visakhapatnam,Andhra Pradesh,Telugu,2024-04-03,Annual Ebook,2024-07-01,2025-07-01
+U0076,Asha Srinivasan,49.0,Male,Belagavi,Karnataka,Kannada,2021-10-22,None,,
+U0077,UMA Ghosh,54.0,Female,Thrissur,Kerala,,2019-06-14,Annual Ebook,2019-07-06,2020-07-05
+U0078,Akash Tiwari,35.0,Male,Guntur,Andhra Pradesh,Telugu,2024-04-09,None,,
+U0079,Mani Rajan,28.0,Male,Bengaluru,Karnataka,Kannada,2019-05-31,Quarterly Ebook,2019-07-10,2019-10-08
+U0080,Babu Rajan,67.0,Male,Chennai,Tamil Nadu,Tamil,2024-03-07,Quarterly Ebook,2024-03-31,2024-06-29
+U0081,Dev Singh,200.0,Female,Vellore,Tamil Nadu,Tamil,2022-03-25,Quarterly Ebook,,2022-09-20
+U0082,Nithin Menon,58.0,Female,Tirunelveli,Tamil Nadu,Tamil,2023-07-30,None,,
+U0083, Murugan Patil ,59.0,Female,Thiruvananthapuram,Kerala,Malayalam,2022-01-24,Quarterly Ebook,2022-03-26,2022-06-24
+U0084,Akash Balasubramanian,27.0,Male,Delhi,Delhi,Tamil,2022-02-05,Annual Ebook,2022-03-30,2023-03-30
+U0085,Thenmozhi Mishra,18.0,Male,Visakhapatnam,Andhra Pradesh,Telugu,2024-06-28,Audiobook Subscription,2024-08-24,2025-08-24
+U0086,Aditya Kaur,53.0,Female,Mysuru,Karnataka,Kannada,2021-09-05,Annual Ebook,2021-10-04,2022-10-04
+U0087,Prema Joshi,65.0,Male,Bhopal,Madhya Pradesh,Hindi,2020-09-15,Quarterly Ebook,2020-09-19,2020-12-18
+U0088, Venkat Mishra ,39.0,Female,Lucknow,Uttar Pradesh,Hindi,2024-02-15,None,,
+U0089,ARUN Joshi,27.0,Male,Thanjavur,Tamil Nadu,Tamil,2023-06-17,Annual Ebook,2023-07-29,2024-07-28
+U0090,Balaji Pandey,38.0,Female,Lucknow,Uttar Pradesh,Tamil,2019-05-28,Annual Ebook,2019-06-27,2020-06-26
+U0091, Ajith Ghosh ,32.0,Female,Salem,Tamil Nadu,Tamil,2020-02-16,Quarterly Ebook,2020-05-14,2020-08-12
+U0092,Sunil Sharma,68.0,Male,Belagavi,Karnataka,English,2023-08-15,Annual Ebook,2023-09-07,2024-09-06
+U0093,Revathi Ramaswamy,42.0,Female,Visakhapatnam,Andhra Pradesh,English,2021-11-06,Quarterly Ebook,2022-01-30,2022-04-30
+U0094, Priya Patil ,61.0,Female,Hubballi,Karnataka,Kannada,2023-10-04,Annual Ebook,2023-12-01,2024-11-30
+U0095, Sunil Venkatesh ,48.0,Male,Hubballi,Karnataka,Kannada,2022-04-24,None,,
+U0096,Surya Mehta,54.0,Female,Coimbatore,Tamil Nadu,Tamil,2022-03-18,Annual Ebook,2022-04-16,2023-04-16
+U0097,Amudha Gupta,30.0,Female,Kozhikode,Kerala,Malayalam,2020-07-14,Annual Ebook,2020-10-02,2021-10-02
+U0098,Yuvan Reddy,46.0,Male,Tiruchirappalli,Tamil Nadu,Tamil,2022-08-31,Annual Ebook,2022-09-22,2023-09-22
+U0099,nithya krishnan,,Female,Delhi,Delhi,Hindi,2024-05-27,Audiobook Subscription,2024-07-03,2025-07-03
+U0100,TAMILARASI Patel,47.0,Female,Erode,Tamil Nadu,Tamil,2023-06-16,Audiobook Subscription,2023-08-26,2024-08-25
+U0101,balu rao,5.0,Male,Hubballi,Karnataka,Kannada,2021-12-09,Annual Ebook,2022-02-28,2023-02-28
+U0102,Shanthi Iyer,48.0,Male,Kolkata,West Bengal,Telugu,2021-06-25,Annual Ebook,2021-09-14,2022-09-14
+U0103,Saroja Bose,44.0,Male,Coimbatore,Tamil Nadu,Tamil,2020-04-20,None,,
+U0104,Aditya Krishnan,41.0,Female,Nizamabad,Telangana,Telugu,2020-09-24,Audiobook Subscription,2020-12-16,2021-12-16
+U0105,Srinivas Agarwal,35.0,Male,Davangere,Karnataka,Kannada,2023-01-25,None,,
+U0106,Brindha Singh,59.0,Male,Vellore,Tamil Nadu,Tamil,2024-02-06,None,,
+U0107,Sowmya Banerjee,19.0,Male,Tiruchirappalli,Tamil Nadu,English,2021-04-28,Annual Ebook,2021-05-27,2022-05-27
+U0108,mani murugesan,56.0,Male,Delhi,Delhi,Telugu,2021-10-23,Annual Ebook,2021-11-06,2022-11-06
+U0109,Surya Sharma,40.0,Female,Mysuru,Karnataka,English,2019-08-03,None,,
+U0110,Nirmala Tiwari,22.0,Male,Warangal,Telangana,English,2024-08-25,None,,
+U0111,ramesh reddy,60.0,,Chennai,Tamil Nadu,Tamil,2023-07-04,Quarterly Ebook,2023-07-17,2023-10-15
+U0112, Nithin Chakraborty ,22.0,Female,Tiruchirappalli,Tamil Nadu,English,2022-08-24,Quarterly Ebook,2022-11-08,
+U0113,Chandra Raghunathan,56.0,Male,Salem,Tamil Nadu,Tamil,2021-05-30,Quarterly Ebook,2021-06-28,2021-09-26
+U0114,NAVEEN Patel,43.0,Male,Belagavi,Karnataka,Kannada,2023-03-14,Audiobook Subscription,2023-06-09,2024-06-08
+U0115,Akash Pillai,23.0,Male,Kozhikode,Kerala,Malayalam,2019-09-03,Annual Ebook,2019-11-13,2020-11-12
+U0116,Vasantha Patel,44.0,Male,Thrissur,Kerala,Malayalam,2019-07-30,Audiobook Subscription,2019-10-14,2020-10-13
+U0117,Rekha Gupta,50.0,Male,Erode,Tamil Nadu,Tamil,2023-02-14,None,,
+U0118,Hema Naidu,45.0,Female,Mumbai,Maharashtra,English,2021-12-31,None,,
+U0119,krishna bose,39.0,Male,Tiruchirappalli,Tamil Nadu,Tamil,2019-10-13,None,,
+U0120,Meenakshi Sharma,51.0,Male,Mysuru,Karnataka,Kannada,2022-08-21,Annual Ebook,2022-11-01,2023-11-01
+U0121,GOPAL Rao,27.0,Male,Kochi,Kerala,Malayalam,2023-10-03,Quarterly Ebook,2023-11-28,2024-02-26
+U0122,Nirmala Srinivasan,50.0,Male,Bengaluru,Karnataka,Kannada,2024-06-16,Quarterly Ebook,2024-07-25,2024-10-23
+U0123,Deepa Sundaram,56.0,Male,Vellore,Tamil Nadu,Tamil,2022-03-31,None,,
+U0124,arjun agarwal,29.0,Male,Erode,Tamil Nadu,Tamil,2022-12-21,None,,
+U0125,Guru Reddy,47.0,Female,Bhopal,Madhya Pradesh,English,2023-09-07,None,,
+U0126, Asha Sharma ,28.0,Female,Kannur,Kerala,Malayalam,2019-12-27,Quarterly Ebook,2020-01-09,2020-04-08
+U0127,Padma Desai,51.0,Male,Kolkata,West Bengal,Hindi,2020-11-19,None,,
+U0128,Meenakshi Menon,30.0,Female,Kozhikode,Kerala,Malayalam,2021-08-25,None,,
+U0129,Babu Venkatesh,,,Tirunelveli,Tamil Nadu,Tamil,2024-01-13,Annual Ebook,2024-03-25,2025-03-25
+U0130, Yuvan Das ,38.0,Female,Tiruchirappalli,Tamil Nadu,English,2023-12-17,Annual Ebook,2024-01-21,2025-01-20
+U0131,Bharati Nair,22.0,Male,Coimbatore,Tamil Nadu,Tamil,2019-11-11,Annual Ebook,2019-11-22,2020-11-21
+U0132,Ramesh Prasad,47.0,Female,Mumbai,Maharashtra,English,2021-02-10,None,,
+U0133,Akash Mishra,21.0,Male,Kolkata,West Bengal,Telugu,2019-12-12,Quarterly Ebook,2020-01-03,
+U0134,deepa balasubramanian,46.0,Female,Hubballi,Karnataka,Kannada,2023-05-06,Quarterly Ebook,2023-06-18,2023-09-16
+U0135,Balaji Prasad,58.0,Female,Salem,Tamil Nadu,Tamil,2022-03-09,None,,
+U0136,SURYA Prasad,39.0,Male,Hubballi,Karnataka,Kannada,2023-05-25,None,,
+U0137,Ilaiyaraja Rao,42.0,Female,Tiruchirappalli,Tamil Nadu,Tamil,2024-11-26,None,,
+U0138,Parvathi Desai,19.0,Male,Vellore,Tamil Nadu,Tamil,2024-06-14,None,,
+U0139,Sunita Murugesan,68.0,Male,Kannur,Kerala,Malayalam,2019-06-04,Annual Ebook,2019-08-22,2020-08-21
+U0140,Venkat Prasad,28.0,Male,Vijayawada,Andhra Pradesh,Telugu,2019-06-28,Quarterly Ebook,2019-09-22,2019-12-21
+U0141, Sathish Balasubramanian ,57.0,,Davangere,Karnataka,Kannada,2022-06-21,Audiobook Subscription,2022-08-20,2023-08-20
+U0142,Mohan Singh,54.0,Other,Bengaluru,Karnataka,Kannada,2023-09-11,Audiobook Subscription,2023-10-06,2024-10-05
+U0143,AMUDHA Krishnan,21.0,Female,Pune,Maharashtra,English,2024-10-14,Audiobook Subscription,2024-11-19,2025-11-19
+U0144,Karthik Subramaniam,50.0,Male,Erode,Tamil Nadu,Tamil,2019-04-20,Quarterly Ebook,2019-06-09,2019-09-07
+U0145,Rohan Singh,23.0,Male,Salem,Tamil Nadu,Tamil,2020-08-21,None,,
+U0146,Vijay Kaur,,Female,Vijayawada,Andhra Pradesh,Telugu,2019-03-19,None,,
+U0147, Bhavana Chaudhari ,56.0,Female,Bengaluru,Karnataka,Kannada,2019-07-15,None,,
+U0148,Meenakshi Rajput,25.0,Female,Nizamabad,Telangana,Telugu,2021-09-17,Annual Ebook,2021-10-24,2022-10-24
+U0149,Praveen Kumar,33.0,Female,Kochi,Kerala,Malayalam,2023-01-17,None,,
+U0150,Chandra Pandey,50.0,Female,Hyderabad,Telangana,Telugu,2023-03-10,None,,
+U0151,rahul gupta,40.0,Male,Salem,Tamil Nadu,,2022-09-23,None,,
+U0152,Jayanthi Pandey,59.0,Male,Davangere,Karnataka,Kannada,2021-01-16,Audiobook Subscription,2021-01-24,2022-01-24
+U0153,Gomathi Patil,30.0,Male,Coimbatore,Tamil Nadu,Tamil,2024-10-12,Quarterly Ebook,2024-12-20,2025-03-20
+U0154,Akash Chandrasekaran,59.0,Male,Thrissur,Kerala,Malayalam,2022-09-21,None,,
+U0155,SHANTHI Desai,65.0,Male,Kolkata,West Bengal,Telugu,2024-07-25,Annual Ebook,2024-09-10,2025-09-10
+U0156,DEV Srinivasan,64.0,Male,Kannur,Kerala,Malayalam,2022-08-08,None,,
+U0157,Savitha Chatterjee,46.0,Female,Thiruvananthapuram,Kerala,Malayalam,2019-06-23,Annual Ebook,2019-08-07,2020-08-06
+U0158,Ramesh Desai,68.0,Female,Guntur,Andhra Pradesh,Telugu,2020-10-17,Audiobook Subscription,2020-11-04,2021-11-04
+U0159,amudha ghosh,20.0,Male,Guntur,Andhra Pradesh,Telugu,2019-05-13,Annual Ebook,2019-08-07,2020-08-06
+U0160,Radha Singh,66.0,Male,,Karnataka,Kannada,2022-02-15,None,,
+U0161,murugan sharma,49.0,Female,Pune,Maharashtra,Hindi,2021-12-02,Annual Ebook,2021-12-29,2022-12-29
+U0162,Ramesh Raghunathan,49.0,Male,Madurai,Tamil Nadu,English,2023-12-29,Audiobook Subscription,2024-03-25,2025-03-25
+U0163,Dinesh Chatterjee,22.0,Female,Bengaluru,Karnataka,Kannada,2020-12-14,Annual Ebook,2021-02-17,2022-02-17
+U0164, Ravi Menon ,68.0,Male,Chennai,Tamil Nadu,Tamil,2023-02-20,Quarterly Ebook,2023-05-01,2023-07-30
+U0165,VENKAT Rajput,22.0,Male,Lucknow,Uttar Pradesh,English,2023-08-05,Audiobook Subscription,2023-08-14,2024-08-13
+U0166,Venkat Rajan,46.0,Male,Tiruchirappalli,Tamil Nadu,Tamil,2021-01-15,Annual Ebook,2021-01-31,2022-01-31
+U0167, Kamala Mishra ,21.0,Female,Bengaluru,Karnataka,English,2021-07-12,None,,
+U0168,DEV Raghunathan,34.0,Male,Jaipur,Rajasthan,Hindi,2022-05-25,Annual Ebook,2022-06-05,2023-06-05
+U0169,Rohan Banerjee,55.0,Male,,Kerala,Malayalam,2019-06-18,Audiobook Subscription,2019-06-21,2020-06-20
+U0170, Karthik Reddy ,67.0,Female,Thrissur,Kerala,Malayalam,2019-05-05,Quarterly Ebook,2019-07-24,2019-10-22
+U0171,Vimala Raghunathan,37.0,Male,Bhopal,Madhya Pradesh,Hindi,2019-10-26,Annual Ebook,2019-11-15,2020-11-14
+U0172,Sundar Joshi,,Male,Thiruvananthapuram,Kerala,Malayalam,2022-11-15,Audiobook Subscription,2022-12-01,2023-12-01
+U0173,Indira Singh,24.0,Male,Thanjavur,Tamil Nadu,English,2020-02-01,None,,
+U0174,Valli Rajput,28.0,Female,Kolkata,West Bengal,Hindi,2020-10-14,Quarterly Ebook,2020-12-18,2021-03-18
+U0175,SAROJA Agarwal,49.0,Male,Lucknow,Uttar Pradesh,Telugu,2021-05-31,Annual Ebook,2021-06-06,2022-06-06
+U0176,Suresh Raghunathan,59.0,Female,Chennai,Tamil Nadu,Tamil,2021-12-19,Annual Ebook,2022-02-08,2023-02-08
+U0177,Balu Reddy,54.0,Female,Bengaluru,Karnataka,Kannada,2024-01-19,Annual Ebook,2024-02-23,2025-02-22
+U0178,Kalai Ghosh,26.0,Other,Kollam,Kerala,Malayalam,2023-02-06,Annual Ebook,2023-03-03,2024-03-02
+U0179,Amudha Mishra,20.0,Male,Mysuru,Karnataka,Kannada,2020-09-02,Annual Ebook,2020-11-06,2021-11-06
+U0180, Sunita Rajan ,38.0,Male,Jaipur,Rajasthan,English,2024-09-08,Audiobook Subscription,2024-11-15,2025-11-15
+U0181,Nithin Chakraborty,48.0,Female,Kochi,Kerala,Malayalam,2022-06-14,Annual Ebook,2022-09-10,2023-09-10
+U0182,Ajith Sharma,34.0,Female,Thrissur,Kerala,Malayalam,2019-07-30,Annual Ebook,2019-08-20,2020-08-19
+U0183,chandra das,0.0,Female,Kochi,Kerala,English,2020-03-26,None,,
+U0184,Sundar Rajan,44.0,Female,Thrissur,Kerala,Malayalam,2019-09-13,Annual Ebook,2019-11-18,2020-11-17
+U0185,Prasad Chaudhari,60.0,Male,Tirunelveli,Tamil Nadu,Tamil,2022-11-03,Quarterly Ebook,2023-01-28,2023-04-28
+U0186,Anbu Ghosh,62.0,Male,Erode,Tamil Nadu,Tamil,2021-07-10,Audiobook Subscription,2021-08-17,
+U0187,anbu raghunathan,62.0,Female,Hubballi,Karnataka,Kannada,2022-01-25,None,,
+U0188,Selvi Ghosh,43.0,Female,Delhi,Delhi,Hindi,2022-03-24,Audiobook Subscription,2022-04-03,2023-04-03
+U0189,Selvam Kulkarni,65.0,Male,Nizamabad,Telangana,Telugu,2022-01-17,None,,
+U0190,Ramesh Varma,21.0,Female,Guntur,Andhra Pradesh,English,2023-08-20,None,,
+U0191,Akash Iyer,26.0,Male,Tirunelveli,Tamil Nadu,Tamil,2024-05-02,Quarterly Ebook,2024-05-27,2024-08-25
+U0192,Sathya Raghunathan,59.0,Male,Guntur,Andhra Pradesh,English,2019-06-02,Audiobook Subscription,2019-06-24,2020-06-23
+U0193, Nirmala Ramaswamy ,20.0,Other,Hyderabad,Telangana,Telugu,2022-03-31,Audiobook Subscription,2022-04-01,
+U0194,Sunil Naidu,39.0,Male,Lucknow,Uttar Pradesh,Tamil,2020-07-03,Audiobook Subscription,2020-08-31,2021-08-31
+U0195,KRISHNA Venkatesh,39.0,Male,Thanjavur,Tamil Nadu,English,2022-10-12,Annual Ebook,2022-12-23,2023-12-23
+U0196,Balaji Venkatesh,58.0,Female,Kolkata,West Bengal,Hindi,2020-01-26,None,,
+U0197,Sunita Kaur,33.0,Male,Davangere,Karnataka,,2022-05-21,Annual Ebook,2022-08-02,2023-08-02
+U0198,Priya Chandrasekaran,62.0,Male,Davangere,Karnataka,English,2024-08-20,Audiobook Subscription,2024-11-18,2025-11-18
+U0199,Anbu Natarajan,58.0,Female,Vijayawada,Andhra Pradesh,English,2020-07-01,Quarterly Ebook,2020-08-28,2020-11-26
+U0200,Tamilarasi Prasad,62.0,Female,Nizamabad,Telangana,Telugu,2021-10-10,Annual Ebook,2021-12-25,2022-12-25
+U0201,Karthik Tiwari,63.0,Male,Pune,Maharashtra,Hindi,2024-09-01,None,,
+U0202,Aditya Murugesan,51.0,Male,,Kerala,Malayalam,2024-09-21,Quarterly Ebook,2024-09-28,2024-12-27
+U0203,Vignesh Krishnan,47.0,Female,,Kerala,Malayalam,2023-06-10,None,,
+U0204,Arjun Narayanan,20.0,Male,Nizamabad,Telangana,Telugu,2019-10-10,Audiobook Subscription,2019-12-09,
+U0205,Vikram Raghunathan,67.0,Male,Kozhikode,Kerala,Malayalam,2023-03-14,Audiobook Subscription,2023-05-01,2024-04-30
+U0206,Radha Verma,,Female,Delhi,Delhi,English,2022-11-25,None,,
+U0207,Aditya Mehta,64.0,Other,Mumbai,Maharashtra,Telugu,2024-03-11,Annual Ebook,2024-05-19,2025-05-19
+U0208,Praveen Pandey,32.0,Male,Thanjavur,Tamil Nadu,Tamil,2020-04-07,None,,
+U0209,Surya Joshi,,Male,Vijayawada,Andhra Pradesh,Telugu,2019-07-19,None,,
+U0210,Deepa Mehta,52.0,Male,Mumbai,Maharashtra,Hindi,2022-03-30,None,,
+U0211,Nandini Naidu,56.0,Female,Ahmedabad,Gujarat,Hindi,2020-08-09,Audiobook Subscription,2020-10-14,2021-10-14
+U0212,Ravi Joshi,21.0,Female,Kozhikode,Kerala,Malayalam,2023-10-16,Annual Ebook,2023-10-22,2024-10-21
+U0213,Selvam Banerjee,68.0,Female,Belagavi,Karnataka,Kannada,2021-01-23,Annual Ebook,,2022-03-24
+U0214,Senthil Sundaram,63.0,Male,Coimbatore,Tamil Nadu,Tamil,2023-09-03,Annual Ebook,2023-09-20,2024-09-19
+U0215,Valli Balasubramanian,39.0,Female,Kolkata,West Bengal,Hindi,2021-02-19,None,,
+U0216,Kumar Ghosh,20.0,Female,Thrissur,Kerala,Malayalam,2021-06-07,Quarterly Ebook,2021-07-19,2021-10-17
+U0217,Sunil Kumar,30.0,Female,Thrissur,Kerala,Malayalam,2021-04-17,Quarterly Ebook,2021-05-17,2021-08-15
+U0218,siva rajan,42.0,Male,Bengaluru,Karnataka,Kannada,2024-07-29,Quarterly Ebook,2024-09-27,2024-12-26
+U0219, Indira Rajan ,41.0,Male,Erode,Tamil Nadu,English,2021-12-04,Annual Ebook,2022-02-16,2023-02-16
+U0220,Deepak Joshi,30.0,Male,Kannur,Kerala,Malayalam,2022-10-14,None,,
+U0221,nithin banerjee,47.0,Male,Tirunelveli,Tamil Nadu,Tamil,2024-06-23,None,,
+U0222, Vimala Banerjee ,51.0,Male,Mumbai,Maharashtra,Tamil,2023-08-17,None,,
+U0223,Ajith Sundaram,27.0,Male,Hubballi,Karnataka,Kannada,2024-06-02,Annual Ebook,2024-06-04,2025-06-04
+U0224,Arjun Pandey,18.0,Male,Nizamabad,Telangana,English,2023-10-30,Audiobook Subscription,2023-11-21,2024-11-20
+U0225,Pooja Iyer,33.0,Male,Kannur,Kerala,Malayalam,2023-06-14,None,,
+U0226,Asha Patil,62.0,Male,Madurai,Tamil Nadu,Tamil,31-13-2022,None,,
+U0227,Kumar Verma,21.0,Female,Madurai,Tamil Nadu,Tamil,2022-09-18,Annual Ebook,2022-09-30,2023-09-30
+U0228,Chandra Reddy,62.0,Female,Coimbatore,Tamil Nadu,Tamil,2022-02-22,Audiobook Subscription,2022-05-05,2023-05-05
+U0229,Surya Reddy,38.0,Male,Tiruchirappalli,Tamil Nadu,Tamil,2019-11-12,None,,
+U0230,Manoj Balasubramanian,42.0,Female,Mangaluru,Karnataka,English,2019-11-18,Quarterly Ebook,2020-01-01,2020-03-31
+U0231,Suresh Iyer,22.0,Male,Vijayawada,Andhra Pradesh,Telugu,2022-08-29,None,,
+U0232,Krishna Kulkarni,40.0,Female,Tirunelveli,Tamil Nadu,Tamil,2023-04-06,None,,
+U0233,kalai raghunathan,63.0,Male,Mangaluru,Karnataka,Kannada,2020-09-23,Annual Ebook,2020-11-02,2021-11-02
+U0234,Balu Iyer,37.0,Male,,Tamil Nadu,English,2023-11-01,Quarterly Ebook,2024-01-11,2024-04-10
+U0235,Sumathi Joshi,23.0,Male,Vijayawada,Andhra Pradesh,Telugu,2019-02-20,None,,
+U0236,valli rao,53.0,Female,Delhi,Delhi,English,2020-11-25,None,,
+U0237,Sunil Srinivasan,22.0,Male,Bengaluru,Karnataka,Kannada,2023-01-19,None,,
+U0238,Padma Das,,Male,Bengaluru,Karnataka,Kannada,2022-09-22,Audiobook Subscription,2022-11-09,2023-11-09
+U0239,Mani Kulkarni,70.0,Female,Vijayawada,Andhra Pradesh,Telugu,2021-04-02,Quarterly Ebook,2021-04-24,2021-07-23
+U0240,Ashwin Rajan,62.0,Female,Ahmedabad,Gujarat,Hindi,2022-02-22,Audiobook Subscription,2022-04-13,2023-04-13
+U0241, Balu Menon ,30.0,Female,Kochi,Kerala,English,2024-03-05,Audiobook Subscription,2024-03-31,2025-03-31
+U0242,SUNDAR Raghunathan,22.0,Female,Belagavi,Karnataka,Kannada,2022-05-25,None,,
+U0243,surya murugesan,68.0,Male,Vijayawada,Andhra Pradesh,Telugu,2024-12-28,Quarterly Ebook,2025-03-26,2025-06-24
+U0244,Nirmala Pandey,41.0,Female,Pune,Maharashtra,,2021-10-13,Annual Ebook,2021-11-27,2022-11-27
+U0245,Revathi Banerjee,,Other,Mangaluru,Karnataka,Kannada,2023-10-30,None,,
+U0246,Srinivas Chandrasekaran,65.0,Female,Visakhapatnam,Andhra Pradesh,Telugu,2023-05-22,Quarterly Ebook,2023-08-16,2023-11-14
+U0247,Bharati Bose,40.0,Other,Bengaluru,Karnataka,,2019-12-18,None,,
+U0248,Nandini Murugesan,39.0,Male,,Telangana,Telugu,2023-11-30,Annual Ebook,2024-01-26,2025-01-25
+U0249,Dinesh Pillai,69.0,Female,Mysuru,Karnataka,English,2020-11-04,Audiobook Subscription,2020-12-05,2021-12-05
+U0250,Dev Ramaswamy,39.0,Female,Ahmedabad,Gujarat,Tamil,2021-01-25,None,,
+U0251,Surya Desai,65.0,Female,Visakhapatnam,Andhra Pradesh,Telugu,2021-05-29,None,,
+U0252,SATHYA Chakraborty,22.0,Female,Nizamabad,Telangana,Telugu,2021-03-18,Quarterly Ebook,2021-04-20,2021-07-19
+U0253,Parvathi Agarwal,58.0,Male,Mangaluru,Karnataka,,2022-12-12,Audiobook Subscription,2023-03-01,2024-02-29
+U0254,harish ghosh,37.0,Female,Kochi,Kerala,Malayalam,2021-09-04,None,,
+U0255,Saranya Singh,50.0,Male,Visakhapatnam,Andhra Pradesh,Telugu,2024-06-16,Annual Ebook,2024-09-12,2025-09-12
+U0256,Yuvan Ramaswamy,49.0,Male,Kannur,Kerala,Malayalam,2023-01-10,Audiobook Subscription,2023-03-13,2024-03-12
+U0257,SUNITA Venkatesh,53.0,Female,Kochi,Kerala,Malayalam,2023-12-24,Quarterly Ebook,2024-01-03,2024-04-02
+U0258,manoj sharma,32.0,Male,Nizamabad,Telangana,English,2024-02-17,Annual Ebook,2024-04-20,2025-04-20
+U0259,Siva Mishra,25.0,Male,Hubballi,Karnataka,Kannada,2019-06-20,Annual Ebook,2019-08-15,2020-08-14
+U0260, Vimala Narayanan ,24.0,Female,Erode,Tamil Nadu,Tamil,2019-05-13,Quarterly Ebook,2019-06-26,2019-09-24
+U0261,LAKSHMI Kulkarni,25.0,Female,Kollam,Kerala,Malayalam,2022-12-07,Audiobook Subscription,2023-02-23,2024-02-23
+U0262,Ajith Desai,26.0,Female,Mumbai,Maharashtra,English,not_a_date,None,,
+U0263,Aditya Subramaniam,63.0,Male,Warangal,Telangana,Telugu,2020-07-09,Audiobook Subscription,2020-08-30,2021-08-30
+U0264,KAVITHA Srinivasan,26.0,Female,Tiruchirappalli,Tamil Nadu,Tamil,2021-10-10,Annual Ebook,2022-01-04,2023-01-04
+U0265,Ashwin Agarwal,58.0,,,Karnataka,Kannada,2020-01-17,Quarterly Ebook,2020-02-21,2020-05-21
+U0266,Karthi Singh,49.0,Male,Thrissur,Kerala,English,2024-02-21,Annual Ebook,2024-05-20,2025-05-20
+U0267,jayanthi pillai,43.0,Male,Vellore,Tamil Nadu,Tamil,2022-03-07,None,,
+U0268,Selvi Krishnan,49.0,Female,Mumbai,Maharashtra,Hindi,2024-02-26,None,,
+U0269,Ganesh Kulkarni,45.0,Male,Tiruchirappalli,Tamil Nadu,Tamil,2022-01-27,None,,
+U0270,Balu Chandrasekaran,60.0,Female,Mangaluru,Karnataka,Kannada,2021-08-17,Quarterly Ebook,2021-08-28,2021-11-26
+U0271,Ilaiyaraja Iyer,48.0,Male,Warangal,Telangana,Telugu,2019-02-03,Annual Ebook,2019-02-18,2020-02-18
+U0272,Praveen Bose,22.0,Male,Kollam,Kerala,English,2023-02-14,Audiobook Subscription,2023-03-03,2024-03-02
+U0273,Kumar Krishnan,61.0,Male,Chennai,Tamil Nadu,Tamil,2023-12-08,Quarterly Ebook,2024-01-04,2024-04-03
+U0274, Ajith Murugesan ,57.0,Female,,Maharashtra,Tamil,2020-07-27,Annual Ebook,2020-10-10,2021-10-10
+U0275,Nandini Verma,45.0,Male,Thanjavur,Tamil Nadu,English,2022-03-13,Annual Ebook,2022-06-09,2023-06-09
+U0276,ANANYA Chatterjee,31.0,Female,Kozhikode,Kerala,Malayalam,2019-08-12,Annual Ebook,2019-09-11,2020-09-10
+U0277,Anitha Verma,49.0,Female,Chennai,Tamil Nadu,Tamil,2020-06-24,Quarterly Ebook,2020-09-04,2020-12-03
+U0278,Nirmala Singh,29.0,Female,Pune,Maharashtra,Hindi,2019-10-04,None,,
+U0279, Sowmya Reddy ,68.0,Male,Thiruvananthapuram,Kerala,Malayalam,2023-10-01,Annual Ebook,2023-10-11,2024-10-10
+U0280,Meenakshi Pandey,27.0,Male,Warangal,Telangana,Telugu,2020-09-28,Quarterly Ebook,2020-11-17,2021-02-15
+U0281,bharati das,59.0,Female,Thiruvananthapuram,Kerala,,2021-09-04,None,,
+U0282,Lakshmi Desai,57.0,Female,Kozhikode,Kerala,Malayalam,2020-05-04,None,,
+U0283,Sunita Bose,49.0,Female,Kollam,Kerala,Malayalam,2023-03-04,None,,
+U0284,prema srinivasan,25.0,Female,,Kerala,Malayalam,2019-09-19,None,,
+U0285,Selvi Das,47.0,Female,Visakhapatnam,Andhra Pradesh,Telugu,2021-11-10,Annual Ebook,2022-01-22,2023-01-22
+U0286,Balaji Menon,,Male,Mumbai,Maharashtra,Hindi,2024-04-16,Quarterly Ebook,2024-05-05,2024-08-03
+U0287,Harish Reddy,63.0,Female,Mysuru,Karnataka,Kannada,2022-08-03,None,,
+U0288,Meena Naidu,50.0,Female,Erode,Tamil Nadu,Tamil,2023-07-01,None,,
+U0289,saroja raghunathan,37.0,Male,,Tamil Nadu,English,2022-05-29,Annual Ebook,2022-06-29,2023-06-29
+U0290,Saroja Singh,49.0,Other,Kozhikode,Kerala,Malayalam,2021-10-01,None,,
+U0291,Naveen Sharma,,Female,Chennai,Tamil Nadu,English,2023-03-22,Audiobook Subscription,2023-04-30,2024-04-29
+U0292,Pooja Narayanan,,Male,Delhi,Delhi,English,2020-01-17,None,,
+U0293,Uma Tiwari,41.0,Male,Visakhapatnam,Andhra Pradesh,Telugu,2023-06-04,None,,
+U0294,Manoj Nair,26.0,Male,Mysuru,Karnataka,Kannada,2022-08-29,None,,
+U0295,Krishna Sundaram,30.0,,Salem,Tamil Nadu,English,2024-01-16,Quarterly Ebook,,2024-06-06
+U0296,Divya Pandey,67.0,Male,Thanjavur,Tamil Nadu,English,2022-05-31,Audiobook Subscription,,2023-08-28
+U0297,Amudha Reddy,999.0,Male,Hubballi,Karnataka,Kannada,2022-05-09,None,,
+U0298, Harish Sharma ,46.0,Female,Salem,Tamil Nadu,English,2020-07-26,None,,
+U0299,Kavitha Sundaram,70.0,Male,Guntur,Andhra Pradesh,Telugu,2021-11-26,Audiobook Subscription,2021-12-05,2022-12-05
+U0300,Rahul Pillai,59.0,Male,Kannur,Kerala,,2024-03-03,None,,
+U0301,SELVI Desai,43.0,Male,,Karnataka,Kannada,2021-02-05,None,,
+U0302,Radha Murugesan,57.0,Female,Hyderabad,Telangana,Telugu,2024-05-16,None,,
+U0303,Hema Verma,30.0,Female,Erode,Tamil Nadu,Tamil,2019-03-21,Audiobook Subscription,2019-05-05,2020-05-04
+U0304,sangeetha pandey,40.0,Female,Mangaluru,Karnataka,English,2022-07-30,Annual Ebook,2022-08-02,2023-08-02
+U0305,Prema Srinivasan,48.0,Female,Erode,Tamil Nadu,English,2021-09-14,None,,
+U0306,guru nair,32.0,Female,Bhopal,Madhya Pradesh,Hindi,2020-12-12,None,,
+U0307,BHARATI Rajan,62.0,Male,Thiruvananthapuram,Kerala,Malayalam,2020-08-05,Annual Ebook,2020-08-29,2021-08-29
+U0308,Anitha Pandey,49.0,Male,Vijayawada,Andhra Pradesh,English,2024-05-11,None,,
+U0309,RAMESH Venkatesh,39.0,Female,Kolkata,West Bengal,Hindi,2020-08-28,Annual Ebook,2020-09-15,2021-09-15
+U0310,PREMA Menon,41.0,Female,Kochi,Kerala,Malayalam,2022-10-10,None,,
+U0311,sunita subramaniam,45.0,Female,Kolkata,West Bengal,Hindi,2023-01-01,None,,
+U0312,Bharati Ramaswamy,64.0,Female,Kozhikode,Kerala,Malayalam,2023-05-23,Audiobook Subscription,2023-08-03,2024-08-02
+U0313,Vikram Ramaswamy,,Female,Visakhapatnam,Andhra Pradesh,Telugu,2020-07-30,None,,
+U0314,Meena Balasubramanian,38.0,Male,Pune,Maharashtra,,2022-10-07,Quarterly Ebook,2022-11-09,2023-02-07
+U0315,Prasad Balasubramanian,40.0,Male,Chennai,Tamil Nadu,Tamil,2023-09-15,Audiobook Subscription,2023-11-06,2024-11-05
+U0316,Anitha Verma,42.0,Male,Visakhapatnam,Andhra Pradesh,Telugu,2021-07-12,None,,
+U0317,Meena Reddy,38.0,Male,Mysuru,Karnataka,Kannada,2020-10-21,Annual Ebook,2020-12-30,2021-12-30
+U0318,Lakshmi Patel,57.0,Female,Belagavi,Karnataka,English,2023-11-14,None,,
+U0319,Srinivas Patel,30.0,Male,Kozhikode,Kerala,Malayalam,2022-02-27,None,,
+U0320,Srinivas Nair,53.0,Female,Hubballi,Karnataka,Kannada,2022-04-21,Audiobook Subscription,2022-07-10,2023-07-10
+U0321,Gopal Kaur,19.0,Male,Madurai,Tamil Nadu,Tamil,2022-06-17,Annual Ebook,2022-08-16,2023-08-16
+U0322,Nithin Chatterjee,59.0,,Mangaluru,Karnataka,English,2019-07-02,None,,
+U0323,Saroja Chandrasekaran,35.0,Female,Thiruvananthapuram,Kerala,English,2022-11-09,Audiobook Subscription,2022-12-31,2023-12-31
+U0324,Sathya Varma,21.0,Female,Bhopal,Madhya Pradesh,Telugu,2024-04-28,Annual Ebook,2024-05-28,2025-05-28
+U0325,Akash Natarajan,63.0,Male,Warangal,Telangana,Telugu,2020-08-26,None,,
+U0326,Sathya Kulkarni,28.0,Other,Delhi,Delhi,Hindi,2019-11-17,Audiobook Subscription,2020-01-11,2021-01-10
+U0327,Nithya Das,56.0,Male,Pune,Maharashtra,Hindi,2023-06-16,Annual Ebook,2023-07-21,2024-07-20
+U0328, Dev Patil ,18.0,Female,Warangal,Telangana,English,2020-09-04,None,,
+U0329,bharati varma,24.0,Female,Salem,Tamil Nadu,Tamil,2022-11-09,Audiobook Subscription,2022-12-12,2023-12-12
+U0330,Valli Banerjee,56.0,Male,Mangaluru,Karnataka,Kannada,2023-07-04,None,,
+U0331,Mani Bose,65.0,Male,Hubballi,Karnataka,Kannada,2022-05-26,None,,
+U0332,Nithin Bose,32.0,Male,Lucknow,Uttar Pradesh,Tamil,2022-08-07,None,,
+U0333,Nirmala Prasad,,Male,Bhopal,Madhya Pradesh,English,2024-10-16,Audiobook Subscription,2024-10-23,2025-10-23
+U0334,Sumathi Subramaniam,63.0,Female,Warangal,Telangana,English,2021-02-28,Audiobook Subscription,2021-03-25,2022-03-25
+U0335,Kavitha Balasubramanian,21.0,Female,Thanjavur,Tamil Nadu,Tamil,2024-08-30,Quarterly Ebook,2024-09-14,2024-12-13
+U0336,Brindha Sharma,49.0,Female,Hyderabad,Telangana,Telugu,2022-11-11,None,,
+U0337,Geetha Bose,19.0,Male,Visakhapatnam,Andhra Pradesh,Telugu,2021-07-11,Annual Ebook,2021-08-14,2022-08-14
+U0338,Mythili Joshi,67.0,Female,Hyderabad,Telangana,Telugu,2019-02-04,None,,
+U0339,amudha natarajan,63.0,Female,Mangaluru,Karnataka,Kannada,2021-06-12,Quarterly Ebook,2021-09-06,2021-12-05
+U0340,Dev Rajput,24.0,Male,,West Bengal,English,2022-03-03,None,,
+U0341,Pooja Kaur,35.0,,Jaipur,Rajasthan,English,2022-05-08,None,,
+U0342,DEV Balasubramanian,69.0,Female,Bhopal,Madhya Pradesh,English,2020-07-27,Annual Ebook,2020-10-18,2021-10-18
+U0343,Anitha Raghunathan,44.0,Male,Visakhapatnam,Andhra Pradesh,Telugu,2021-02-16,None,,
+U0344,Gomathi Sundaram,58.0,Female,Kolkata,West Bengal,English,2020-11-27,Audiobook Subscription,2021-02-06,2022-02-06
+U0345,Saranya Raghunathan,26.0,Female,Nizamabad,Telangana,Telugu,2022-10-06,Annual Ebook,2022-11-03,2023-11-03
+U0346,jayanthi sundaram,37.0,Male,Kolkata,West Bengal,Hindi,2022-04-19,Quarterly Ebook,2022-05-04,2022-08-02
+U0347,AKASH Nair,55.0,Female,Hyderabad,Telangana,Telugu,2023-04-13,Quarterly Ebook,2023-06-04,2023-09-02
+U0348,Suresh Murugesan,30.0,Male,Lucknow,Uttar Pradesh,Hindi,2021-01-08,Annual Ebook,2021-03-11,2022-03-11
+U0349, Mani Das ,38.0,Female,Thanjavur,Tamil Nadu,Tamil,2020-11-21,Annual Ebook,2020-12-11,2021-12-11
+U0350,Nithin Rao,45.0,Female,Hyderabad,Telangana,English,2024-12-26,None,,
+U0351,SHANTHI Kumar,66.0,Female,Kochi,Kerala,Malayalam,2021-10-16,None,,
+U0352,Selvam Natarajan,42.0,Female,Madurai,Tamil Nadu,Tamil,2022-04-06,Quarterly Ebook,2022-06-11,2022-09-09
+U0353,Gopal Tiwari,61.0,Other,Hyderabad,Telangana,Telugu,2020-11-06,Audiobook Subscription,2020-12-27,2021-12-27
+U0354,Rahul Sundaram,26.0,Male,Warangal,Telangana,English,2019-06-03,Quarterly Ebook,2019-08-23,2019-11-21
+U0355,Babu Pandey,56.0,Other,Guntur,Andhra Pradesh,English,2020-04-19,Quarterly Ebook,2020-06-06,2020-09-04
+U0356,Divya Chaudhari,62.0,Male,Guntur,Andhra Pradesh,Telugu,2020-02-18,Annual Ebook,2020-03-23,2021-03-23
+U0357,kalai prasad,,,Kozhikode,Kerala,English,2020-04-11,Annual Ebook,2020-06-13,2021-06-13
+U0358,Nithya Prasad,34.0,Female,Kolkata,West Bengal,English,2022-04-24,None,,
+U0359, Siva Agarwal ,62.0,Female,Chennai,Tamil Nadu,Tamil,2020-03-28,Audiobook Subscription,2020-06-21,
+U0360, Anitha Murugesan ,67.0,Female,Salem,Tamil Nadu,Tamil,2024-02-14,Audiobook Subscription,2024-03-22,2025-03-22
+U0361,Geetha Patil,70.0,Male,Bengaluru,Karnataka,Kannada,2022-07-04,Quarterly Ebook,,2022-10-16
+U0362,Srinivas Reddy,26.0,Female,Hubballi,Karnataka,Kannada,2022-01-03,Audiobook Subscription,2022-01-14,2023-01-14
+U0363,Shanthi Patel,43.0,Male,Kannur,Kerala,Malayalam,2024-05-12,Annual Ebook,2024-08-03,2025-08-03
+U0364,Revathi Menon,64.0,Male,Delhi,Delhi,Hindi,2024-05-31,Audiobook Subscription,2024-08-25,2025-08-25
+U0365,Sundar Ramaswamy,67.0,Male,Kochi,Kerala,Malayalam,2020-06-19,Quarterly Ebook,2020-08-20,2020-11-18
+U0366,Murugan Joshi,22.0,Male,Thiruvananthapuram,Kerala,Malayalam,2021-07-06,Audiobook Subscription,2021-09-29,2022-09-29
+U0367,Thenmozhi Tiwari,62.0,Female,Kozhikode,Kerala,Malayalam,2023-04-26,None,,
+U0368,Vasantha Rajput,59.0,Female,Hyderabad,Telangana,Telugu,2019-11-03,Annual Ebook,2019-12-14,2020-12-13
+U0369, Senthil Patel ,21.0,Female,Mangaluru,Karnataka,Kannada,2019-11-19,Quarterly Ebook,2020-01-31,2020-04-30
+U0370,RADHA Rao,46.0,Male,Mumbai,Maharashtra,Hindi,2023-08-16,None,,
+U0371,SIVA Kumar,68.0,Female,Bengaluru,Karnataka,Kannada,2024-02-12,Audiobook Subscription,2024-03-29,2025-03-29
+U0372,SURESH Sundaram,,Female,Hyderabad,Telangana,Telugu,2024-01-28,None,,
+U0373,Indira Chatterjee,39.0,Male,Kollam,Kerala,Malayalam,2023-03-12,Annual Ebook,2023-03-17,2024-03-16
+U0374,Revathi Agarwal,63.0,Female,Thanjavur,Tamil Nadu,English,2020-05-09,Audiobook Subscription,2020-06-28,2021-06-28
+U0375,SOWMYA Patil,30.0,,Belagavi,Karnataka,Kannada,2020-05-19,Annual Ebook,2020-07-15,2021-07-15
+U0376,Vignesh Chatterjee,50.0,Male,Warangal,Telangana,English,2023-11-08,Audiobook Subscription,2024-01-08,2025-01-07
+U0377,Sumathi Ramaswamy,29.0,Female,Mangaluru,Karnataka,Kannada,2022-08-11,Quarterly Ebook,2022-09-29,2022-12-28
+U0378, Nirmala Prasad ,,Male,Mysuru,Karnataka,Kannada,2020-06-30,None,,
+U0379,AMUDHA Bose,50.0,,Mysuru,Karnataka,Kannada,2021-06-09,None,,
+U0380,Kalai Chakraborty,40.0,Female,Thiruvananthapuram,Kerala,Malayalam,2020-12-29,Quarterly Ebook,2021-03-27,2021-06-25
+U0381,meenakshi rajan,66.0,Male,Visakhapatnam,Andhra Pradesh,Telugu,2024-12-26,None,,
+U0382,Praveen Kumar,19.0,Male,Coimbatore,Tamil Nadu,Tamil,2020-10-21,Audiobook Subscription,2021-01-16,2022-01-16
+U0383,BABU Murugesan,62.0,,Nizamabad,Telangana,Telugu,2024-01-28,None,,
+U0384,BALAJI Chaudhari,65.0,Female,Warangal,Telangana,Telugu,2019-07-12,Audiobook Subscription,2019-08-30,2020-08-29
+U0385,Nirmala Ghosh,53.0,Male,Vellore,Tamil Nadu,Tamil,2023-12-20,Audiobook Subscription,2024-03-10,2025-03-10
+U0386,Ilaiyaraja Chakraborty,66.0,Female,Vellore,Tamil Nadu,Tamil,2022-04-19,Quarterly Ebook,2022-07-15,2022-10-13
+U0387, Meena Ramaswamy ,65.0,Female,Belagavi,Karnataka,,2020-06-16,None,,
+U0388,Babu Kumar,63.0,Female,Mysuru,Karnataka,English,2022-05-18,Quarterly Ebook,2022-07-30,2022-10-28
+U0389,Siva Gupta,63.0,Male,Tirunelveli,Tamil Nadu,English,2024-08-31,None,,
+U0390,Vimala Pandey,40.0,Male,Mysuru,Karnataka,Kannada,2021-06-13,Audiobook Subscription,2021-08-31,2022-08-31
+U0391, Chandra Kaur ,70.0,Female,Salem,Tamil Nadu,Tamil,2021-09-11,Audiobook Subscription,2021-11-28,2022-11-28
+U0392, Kalai Balasubramanian ,61.0,Female,Kollam,Kerala,Malayalam,2022-03-04,None,,
+U0393,Dev Singh,50.0,Male,Guntur,Andhra Pradesh,Telugu,2099-01-01,Audiobook Subscription,2019-12-25,2020-12-24
+U0394,Anbu Pandey,58.0,Male,Thrissur,Kerala,Malayalam,2023-10-04,Audiobook Subscription,2023-10-30,2024-10-29
+U0395,ADITYA Bose,65.0,Female,Madurai,Tamil Nadu,Tamil,2019-04-08,Quarterly Ebook,2019-05-20,2019-08-18
+U0396,Vikram Rao,29.0,Female,Visakhapatnam,Andhra Pradesh,Telugu,2023-07-28,Quarterly Ebook,2023-10-16,2024-01-14
+U0397,Asha Desai,42.0,Female,Guntur,Andhra Pradesh,Telugu,2019-07-06,Annual Ebook,2019-07-15,2020-07-14
+U0398,Jayanthi Mishra,68.0,Female,Bengaluru,Karnataka,Kannada,2019-05-07,Quarterly Ebook,,2019-10-12
+U0399,ravi krishnan,68.0,,Guntur,Andhra Pradesh,Telugu,2023-03-09,Audiobook Subscription,2023-03-10,2024-03-09
+U0400,Siva Chaudhari,20.0,Male,Nizamabad,Telangana,Telugu,2022-06-02,None,,
+U0401,Guru Gupta,59.0,Female,Tirunelveli,Tamil Nadu,Tamil,2021-11-01,None,,
+U0402,saranya chatterjee,21.0,,Lucknow,Uttar Pradesh,,2019-10-27,None,,
+U0403,Rajesh Chandrasekaran,64.0,Female,,West Bengal,Hindi,2021-08-18,None,,
+U0404, Kalai Pillai ,38.0,Male,Kochi,Kerala,,2020-09-16,Annual Ebook,2020-11-01,2021-11-01
+U0405,Dinesh Desai,38.0,Male,Kozhikode,Kerala,Malayalam,2023-01-12,None,,
+U0406,NANDINI Patel,47.0,Male,Hyderabad,Telangana,English,2019-12-02,Audiobook Subscription,2019-12-19,2020-12-18
+U0407,Aditya Venkatesh,58.0,Male,Chennai,Tamil Nadu,Tamil,2023-07-18,Annual Ebook,2023-08-14,2024-08-13
+U0408,Vikram Chaudhari,,Male,Hubballi,Karnataka,English,2022-04-06,None,,
+U0409,Rohan Mishra,41.0,Female,Kollam,Kerala,Malayalam,2024-10-06,None,,
+U0410,Ganesh Ramaswamy,54.0,Female,Lucknow,Uttar Pradesh,Telugu,2019-06-15,None,,
+U0411,Nithin Sundaram,41.0,Male,Warangal,Telangana,Telugu,2024-02-06,Audiobook Subscription,2024-02-11,2025-02-10
+U0412,Mythili Rajan,51.0,Female,Kozhikode,Kerala,Malayalam,2020-12-13,Quarterly Ebook,2021-01-30,
+U0413,Balu Varma,22.0,Female,Erode,Tamil Nadu,Tamil,2022-11-14,Quarterly Ebook,2023-01-14,2023-04-14
+U0414,Amudha Kumar,26.0,Male,Warangal,Telangana,Telugu,2020-09-07,None,,
+U0415,balu prasad,25.0,Female,Mysuru,Karnataka,English,2024-05-15,Quarterly Ebook,2024-07-29,2024-10-27
+U0416,GANESH Banerjee,19.0,Male,Visakhapatnam,Andhra Pradesh,English,2024-09-30,None,,
+U0417,Selvi Murugesan,34.0,Female,,Karnataka,Kannada,2019-03-18,Audiobook Subscription,2019-06-10,2020-06-09
+U0418,Vijay Rao,56.0,Other,Delhi,Delhi,Hindi,2023-08-10,Annual Ebook,,2024-10-22
+U0419,Anbu Ramaswamy,50.0,Male,Mysuru,Karnataka,Kannada,2019-10-09,None,,
+U0420,Valli Krishnan,30.0,Female,Bhopal,Madhya Pradesh,Tamil,2020-01-30,None,,
+U0421,Ramesh Prasad,68.0,Female,Madurai,Tamil Nadu,Tamil,2019-01-05,Audiobook Subscription,2019-04-01,2020-03-31
+U0422,Mythili Desai,41.0,Female,Belagavi,Karnataka,,2024-05-28,Annual Ebook,,2025-07-15
+U0423,SELVAM Varma,66.0,Female,Belagavi,Karnataka,Kannada,2021-08-10,Audiobook Subscription,2021-08-20,2022-08-20
+U0424,VIJAY Prasad,44.0,Male,Kozhikode,Kerala,Malayalam,2020-04-27,Quarterly Ebook,2020-06-14,2020-09-12
+U0425,Mythili Narayanan,38.0,Male,Belagavi,Karnataka,Kannada,2021-12-06,Audiobook Subscription,2022-01-29,2023-01-29
+U0426,Manoj Singh,61.0,,Nizamabad,Telangana,Telugu,2023-02-25,Annual Ebook,2023-04-27,2024-04-26
+U0427,Babu Natarajan,67.0,Female,,Kerala,Malayalam,2024-01-04,Annual Ebook,2024-01-24,2025-01-23
+U0428,Srinivas Narayanan,68.0,Male,Thiruvananthapuram,Kerala,Malayalam,2020-10-20,Quarterly Ebook,2021-01-09,2021-04-09
+U0429,ARJUN Rao,48.0,Female,Madurai,Tamil Nadu,English,2019-11-24,Annual Ebook,2020-01-12,2021-01-11
+U0430,Asha Rajput,36.0,Female,Thrissur,Kerala,Malayalam,2023-12-04,None,,
+U0431,Surya Tiwari,20.0,Female,Thiruvananthapuram,Kerala,Malayalam,2019-05-28,Quarterly Ebook,2019-08-19,2019-11-17
+U0432,Arjun Subramaniam,35.0,Female,Mangaluru,Karnataka,Kannada,2024-10-21,None,,
+U0433, Ilaiyaraja Pillai ,53.0,Male,Kolkata,West Bengal,Hindi,2022-02-06,None,,
+U0434, Mohan Patil ,54.0,Male,Warangal,Telangana,Telugu,2024-08-22,None,,
+U0435, Murugan Mishra ,-5.0,Female,Thiruvananthapuram,Kerala,Malayalam,2024-06-03,Annual Ebook,2024-07-16,2025-07-16
+U0436,Prema Patil,55.0,Female,,Tamil Nadu,Tamil,2021-06-21,Annual Ebook,2021-07-20,2022-07-20
+U0437, Dinesh Joshi ,51.0,,Thanjavur,Tamil Nadu,Tamil,2023-06-23,Annual Ebook,2023-08-05,2024-08-04
+U0438, Meena Chaudhari ,48.0,Male,Visakhapatnam,Andhra Pradesh,English,2021-02-17,Quarterly Ebook,2021-03-14,2021-06-12
+U0439,SENTHIL Balasubramanian,31.0,Male,Kolkata,West Bengal,Hindi,2020-03-12,None,,
+U0440, Karthik Ghosh ,49.0,Female,Nizamabad,Telangana,Telugu,2023-03-01,Annual Ebook,2023-05-03,2024-05-02
+U0441,Selvi Srinivasan,66.0,Female,Erode,Tamil Nadu,English,2024-11-23,Annual Ebook,2025-01-23,2026-01-23
+U0442,Vimala Reddy,43.0,Female,Davangere,Karnataka,Kannada,2024-02-28,None,,
+U0443,Priya Kumar,42.0,Female,Vijayawada,Andhra Pradesh,English,2021-12-12,None,,
+U0444,Akash Rajput,29.0,Male,Thiruvananthapuram,Kerala,Malayalam,2023-06-29,None,,
+U0445,Saranya Naidu,54.0,Female,Jaipur,Rajasthan,Tamil,2023-11-06,Audiobook Subscription,2023-12-01,2024-11-30
+U0446,Arun Murugesan,18.0,,Guntur,Andhra Pradesh,Telugu,2022-07-17,Annual Ebook,2022-08-24,2023-08-24
+U0447,BABU Chaudhari,21.0,Male,Coimbatore,Tamil Nadu,Tamil,2024-05-05,Audiobook Subscription,2024-05-17,2025-05-17
+U0448,Radha Patel,41.0,Female,Jaipur,Rajasthan,Hindi,2023-08-14,None,,
+U0449,Balaji Prasad,54.0,Female,Thrissur,Kerala,Malayalam,2024-09-21,Quarterly Ebook,2024-11-17,2025-02-15
+U0450,Karthik Verma,47.0,Female,Tirunelveli,Tamil Nadu,Tamil,2022-10-13,Quarterly Ebook,2022-12-30,2023-03-30
+U0451,SELVI Mehta,22.0,Male,Mysuru,Karnataka,Kannada,2021-12-31,Annual Ebook,2022-02-19,2023-02-19
+U0452,krishna kulkarni,41.0,Female,Davangere,Karnataka,English,2019-04-05,None,,
+U0453,Senthil Chatterjee,65.0,Female,Tirunelveli,Tamil Nadu,English,2019-09-19,Audiobook Subscription,2019-11-18,2020-11-17
+U0454,Siva Nair,43.0,Female,Pune,Maharashtra,Hindi,2020-09-28,None,,
+U0455,Valli Natarajan,65.0,Male,,Tamil Nadu,Tamil,2019-04-28,None,,
+U0456,JAYANTHI Rajan,47.0,Other,Thanjavur,Tamil Nadu,Tamil,2020-12-26,Annual Ebook,2021-02-22,2022-02-22
+U0457,AJITH Das,,Female,Bengaluru,Karnataka,Kannada,2021-07-19,Audiobook Subscription,2021-09-13,2022-09-13
+U0458,Rekha Singh,27.0,Male,Kannur,Kerala,Malayalam,2024-04-05,Quarterly Ebook,2024-07-02,2024-09-30
+U0459,Nithin Kaur,67.0,Male,Erode,Tamil Nadu,Tamil,2021-02-11,Quarterly Ebook,2021-04-23,2021-07-22
+U0460,Kamala Mehta,63.0,Female,Mangaluru,Karnataka,Kannada,2023-09-26,Annual Ebook,2023-12-01,2024-11-30
+U0461,INDIRA Rajput,61.0,Male,Nizamabad,Telangana,Telugu,2019-10-08,None,,
+U0462,Malathi Menon,57.0,Male,Hyderabad,Telangana,Telugu,2020-09-15,None,,
+U0463,Aditya Sharma,24.0,Male,Davangere,Karnataka,English,2020-01-05,None,,
+U0464,Anitha Narayanan,37.0,Female,Hubballi,Karnataka,Kannada,2019-05-10,None,,
+U0465,Sathya Murugesan,67.0,Male,Tirunelveli,Tamil Nadu,Tamil,2021-10-21,Audiobook Subscription,2021-10-22,2022-10-22
+U0466,Divya Chakraborty,67.0,Other,Coimbatore,Tamil Nadu,Tamil,2020-01-20,Quarterly Ebook,2020-02-15,2020-05-15
+U0467,Akash Verma,37.0,Female,Kozhikode,Kerala,Malayalam,2024-11-03,None,,
+U0468,Sangeetha Das,41.0,Female,Ahmedabad,Gujarat,Telugu,2021-08-24,Annual Ebook,,2022-10-04
+U0469,priya subramaniam,55.0,Male,Chennai,Tamil Nadu,Tamil,2024-04-30,Annual Ebook,2024-05-19,2025-05-19
+U0470,Shanthi Rao,49.0,Male,Thrissur,Kerala,,2022-12-27,Annual Ebook,2023-03-26,2024-03-25
+U0471,Aditya Iyer,,Male,Guntur,Andhra Pradesh,,2023-12-02,Annual Ebook,2023-12-04,2024-12-03
+U0472,Karthi Verma,26.0,Male,Thiruvananthapuram,Kerala,Malayalam,2024-06-30,None,,
+U0473,Saranya Pandey,64.0,Male,Delhi,Delhi,Hindi,2020-09-26,Quarterly Ebook,2020-10-29,2021-01-27
+U0474,Vimala Singh,67.0,Female,Tirunelveli,Tamil Nadu,Tamil,2023-01-31,Annual Ebook,2023-03-02,2024-03-01
+U0475,Savitha Pillai,52.0,,Kochi,Kerala,Malayalam,2020-09-23,Annual Ebook,2020-11-03,2021-11-03
+U0476,Naveen Banerjee,24.0,Female,Kannur,Kerala,English,2019-05-09,None,,
+U0477,Nithin Venkatesh,54.0,Female,Hyderabad,Telangana,Telugu,2021-11-14,None,,
+U0478,ravi prasad,18.0,Female,Hyderabad,Telangana,Telugu,2019-09-06,Quarterly Ebook,2019-10-29,
+U0479,Shanthi Chakraborty,57.0,Male,Madurai,Tamil Nadu,English,2021-06-03,Audiobook Subscription,2021-06-15,2022-06-15
+U0480,Srinivas Sundaram,30.0,Male,Visakhapatnam,Andhra Pradesh,Telugu,2023-08-28,Annual Ebook,2023-11-17,2024-11-16
+U0481,Selvi Gupta,62.0,Female,Delhi,Delhi,Tamil,2023-07-03,Quarterly Ebook,2023-09-25,2023-12-24
+U0482, Ganesh Pandey ,46.0,Female,Kolkata,West Bengal,Tamil,2023-08-16,Annual Ebook,2023-10-10,2024-10-09
+U0483,Sathish Rajan,54.0,Female,Nizamabad,Telangana,Telugu,2024-01-28,Quarterly Ebook,2024-03-18,2024-06-16
+U0484, Arjun Reddy ,56.0,Male,,Karnataka,Kannada,2021-06-27,None,,
+U0485,dinesh sharma,62.0,Female,Delhi,Delhi,Hindi,2024-02-29,Quarterly Ebook,2024-03-17,2024-06-15
+U0486,GEETHA Singh,33.0,Male,Pune,Maharashtra,English,2021-06-09,Annual Ebook,2021-07-20,2022-07-20
+U0487,Sangeetha Ramaswamy,62.0,Female,Pune,Maharashtra,English,2022-05-15,None,,
+U0488,Selvi Verma,21.0,Female,Kannur,Kerala,Malayalam,2020-05-08,Audiobook Subscription,2020-06-06,2021-06-06
+U0489,TAMILARASI Banerjee,18.0,Female,Coimbatore,Tamil Nadu,Tamil,2022-07-31,Quarterly Ebook,2022-08-19,2022-11-17
+U0490,Savitha Mishra,27.0,Male,Mangaluru,Karnataka,Kannada,2024-08-29,None,,
+U0491,kamala raghunathan,27.0,Male,Visakhapatnam,Andhra Pradesh,English,2023-06-24,None,,
+U0492,Asha Mishra,62.0,Male,Nizamabad,Telangana,Telugu,2021-03-14,Annual Ebook,2021-05-20,2022-05-20
+U0493,Padma Balasubramanian,67.0,Male,Visakhapatnam,Andhra Pradesh,English,2023-08-22,Quarterly Ebook,2023-10-05,2024-01-03
+U0494,Mohan Rajan,59.0,Male,Hubballi,Karnataka,Kannada,2023-12-17,Annual Ebook,2024-02-11,2025-02-10
+U0495,Deepa Sundaram,41.0,Male,Madurai,Tamil Nadu,Tamil,2021-09-22,Audiobook Subscription,2021-10-10,2022-10-10
+U0496,Vijay Kumar,69.0,Male,Chennai,Tamil Nadu,English,2021-05-17,None,,
+U0497,Dev Chandrasekaran,57.0,Female,Thiruvananthapuram,Kerala,English,2024-11-27,None,,
+U0498,Revathi Nair,68.0,Female,Davangere,Karnataka,Kannada,2019-09-30,Quarterly Ebook,2019-11-03,2020-02-01
+U0499,Surya Chatterjee,24.0,Male,Bhopal,Madhya Pradesh,Hindi,2023-04-09,Quarterly Ebook,2023-07-08,2023-10-06
+U0500,Srinivas Rajan,-12.0,Female,Warangal,Telangana,Telugu,2019-03-30,None,,
+U0305,Prema Srinivasan,48.0,Female,Erode,Tamil Nadu,English,2021-09-14,None,,
+U0341,Pooja Kaur,35.0,,Jaipur,Rajasthan,English,2022-05-08,None,,
+U0048,radha chandrasekaran,58.0,Male,,Telangana,English,2023-12-07,None,,
+U0068,Priya Chakraborty,35.0,Male,Bengaluru,Karnataka,Kannada,2024-07-03,None,,
+U0480,Srinivas Sundaram,30.0,Male,Visakhapatnam,Andhra Pradesh,Telugu,2023-08-28,Annual Ebook,2023-11-17,2024-11-16

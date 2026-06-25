@@ -1,0 +1,7 @@
+Metric,Value
+Train Rows,2982.0
+Test Rows,746.0
+Users,895.0
+Books,516.0
+Density,0.005818284179983544
+Sparsity,0.9941817158200165

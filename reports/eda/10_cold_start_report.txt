@@ -1,0 +1,2 @@
+Cold Users: 10
+Cold Books: 77

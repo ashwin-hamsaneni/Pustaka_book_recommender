@@ -1,0 +1,307 @@
+book_id,title,author,genre,language,format,rating,total_downloads,page_count,publication_year,price
+BOK_001,Web of Lies,Aravind Adiga,thriller,kannada,paperback,3.65,1123,293,2022,212
+BOK_002,Coffee and Conversations,Dale Carnegie,Romance,Tamil,ebook,2.97,402,,2000,70
+BOK_003,The Inheritance of Loss,Kalki R. Krishnamurthy,Fiction,Tamil,ebook,4.24,,231,2007,242
+BOK_004,The Chronicles of Vikramaditya,Yuval Noah Harari,Fantasy,telugu,ebook,4.12,612,419,2011,144
+BOK_005,The Taj Mahal Story,Sidney Sheldon,History,Malayalam,audiobook,3.99,427,222,1990,333
+BOK_006,The Legend of Trishanku,Dan Brown,Fantasy,Hindi,ebook,3.41,258,443,2022,155
+BOK_007,Shadows of the Past,R.K. Narayan,Fiction,Kannada,ebook,3.97,1700,427,2004,205
+BOK_008,Whispers of the Dead,Dan Brown,thriller,Kannada,ebook,4.04,1050,397,2008,205
+BOK_009,The Cursed Amulet,J.K. Rowling,Fantasy,Malayalam,paperback,4.1,4363,428,1997,593
+BOK_010,The Inheritance of Loss (Vol. 1),Ashwin Sanghi,FICTION  ,Tamil,ebook,4.65,476,331,2020,221
+BOK_011,Realm of the Gods,Stephen King,Fantasy,Hindi,paperback,4.67,1070,395,2025,547
+BOK_012,The Inheritance of Loss (Vol. 2),Kalki R. Krishnamurthy,fiction,TAMIL,ebook,3.76,789,360,2014,197
+BOK_013,Behind Closed Doors,Stephen King,THRILLER,Kannada,paperback,5.05,279,264,2023,
+BOK_014,The Midnight Sun,Jeyamohan,Fiction,Tamil,ebook,4.49,,275,2008,87
+BOK_015,"Love, Chai, and Everything Nice",Arundhati Roy,Romance,Tamil,ebook,3.99,642,392,1993,135
+BOK_016,Making of a Legend,Sidney Sheldon,Biography,Tamil,paperback,3.21,9840,426,2000,122
+BOK_017,The Hunt for Red October,Amish Tripathi,THRILLER,Telugu,paperback,3.9,152,299,2025,503
+BOK_018,Monsoon Dreams,Agatha Christie,fiction,Telugu,paperback,3.61,884,447,2008,248
+BOK_019,The Train to Malgudi,Ashwin Sanghi,Fiction,Telugu,ebook,4.29,161,442,2001,63
+BOK_020,Ancient Indian Civilizations,Chetan Bhagat,History,Telugu,paperback,4.28,617,296,2014,786
+BOK_021,The Power of Focus,Anita Desai,Self Help,Malayalam,ebook,4.3,75,641,2004,55
+BOK_022,The Safe House,Ruskin Bond,Thriller,Telugu,ebook,4.06,483,250,2010,66
+BOK_023,Terminal Vector,Agatha Christie,Thriller,telugu,audiobook,4.27,633,499,2024,163
+BOK_024,The Blockchain Revolution,Ashwin Sanghi,Technology,Hindi,paperback,4.03,938,382,1992,186
+BOK_025,The Mystery of Royapuram,Agatha Christie,mystery,Kannada,ebook,,155,360,2023,140
+BOK_026,The Chronicles of Vikramaditya (Vol. 1),Vikram Seth,Fantasy,Telugu,ebook,3.72,869,383,2007,82
+BOK_027,The Golden Threshold,Sudha Murty,fiction,Tamil,audiobook,3.57,128,337,2002,290
+BOK_028,The Chennai Syndicate,Yuval Noah Harari,Thriller,tamil,ebook,4.63,242,480,2016,66
+BOK_029,The Half Girlfriend Journey,Shashi Tharoor,Romance,Kannada,paperback,3.88,129,356,2021,197
+BOK_030,The Dragon of Sahyadri,Devdutt Pattanaik,Fantasy,Malayalam,ebook,3.47,3762,482,2015,172
+BOK_031,Blackout,,Thriller,Telugu,ebook,3.58,1109,389,2005,223
+BOK_032,Shadow of the Yeti,Chetan Bhagat,Fantasy,Tamil,paperback,4.1,51,317,2009,750
+BOK_033,The Tech Boom in Bangalore,R.K. Narayan,Technology,Kannada,paperback,4.23,368,178,1995,392
+BOK_034,Lead from the Front,Dan Brown,Self Help,Tamil,audiobook,4.09,1448,247,2015,107
+BOK_035,Scale Up,Stephen King,Business,Telugu,paperback,4.38,771,579,2000,790
+BOK_036,Life in a Metro,Ashwin Sanghi,fiction,Kannada,audiobook,4.77,447,257,2011,227
+BOK_037,Murder on High Street,R.K. Narayan,Thriller,Kannada,ebook,4.57,,463,1992,168
+BOK_038,The Midnight Sun (Vol. 1),Arundhati Roy,Fiction,Tamil,ebook,4.51,476,451,2002,12500
+BOK_039,The Silent Witness,Simon Sinek,Thriller,Hindi,ebook,4.27,489,419,2001,187
+BOK_040,The Midnight Sun (Vol. 2),Dale Carnegie,fiction,Kannada,ebook,3.88,70,301,1997,98
+BOK_041,Shadows of the Past (Vol. 1),R.K. Narayan,Fiction,Kannada,paperback,3.74,585,336,1997,531
+BOK_042,"Love, Chai, and Everything Nice (Vol. 1)",Amish Tripathi,Romance,telugu,ebook,5.0,313,399,1998,78
+BOK_043,Wealth and Wisdom,Dale Carnegie,Self-Help,tamil,audiobook,4.4,1162,128,2017,345
+BOK_044,The Chennai Syndicate (Vol. 1),Vikram Seth,Thriller,Tamil,ebook,3.49,72,334,2005,220
+BOK_045,The God of Small Things,Simon Sinek,fiction,Telugu,paperback,4.1,952,267,2015,139
+BOK_046,Ancient Indian Civilizations (Vol. 1),Sandilyan,History,Hindi,ebook,3.88,245,182,2022,159
+BOK_047,Murder on High Street (Vol. 1),Robin Sharma,Thriller,tamil,paperback,4.34,1797,200,1993,776
+BOK_048,The Last Letter,Jeffrey Archer,fiction,kannada,ebook,3.93,1439,369,2013,239
+BOK_049,The Cursed Amulet (Vol. 1),Dan Brown,Fantasy,Kannada,ebook,4.26,80,266,1997,60
+BOK_050,The God of Small Things (Vol. 1),Ken Follett,Fiction,Kannada,ebook,4.16,73,222,1998,99
+BOK_051,Autumn Leaves,Simon Sinek,Romance,Tamil,paperback,4.71,143,457,1991,270
+BOK_052,The Chronicles of Vikramaditya (Vol. 2),John Grisham,Fantasy,Tamil,paperback,4.09,685,424,2022,493
+BOK_053,Cold Case Files,Stephen King,Thriller,Tamil,ebook,4.25,701,468,2006,127
+BOK_054,Echoes of Betrayal,Ashwin Sanghi,Thriller,Tamil,ebook,3.59,69,327,2003,186
+BOK_055,The Last Letter (Vol. 1),Sujatha Rangarajan,Fiction,Tamil,paperback,,220,343,2001,
+BOK_056,The Lock and Key,Stephen King,Mystery,English,paperback,4.36,174,482,2003,552
+BOK_057,The Deception Game,Chetan Bhagat,Thriller,Tamil,paperback,4.36,88,388,1999,590
+BOK_058,The Poisoned Chalice,Ruskin Bond,mystery,kannada,paperback,3.58,2541,210,2009,266
+BOK_059,Unlocking Your Potential,John Grisham,Self-Help,Telugu,ebook,3.61,116,132,1996,146
+BOK_060,A Suitable Match,Yuval Noah Harari,fiction,Malayalam,ebook,4.42,6343,204,1996,9999
+BOK_061,The Legend of Ramanujan,Simon Sinek,Biography,Tamil,audiobook,4.2,235,278,2005,128
+BOK_062,Under the Banyan Tree,Stephen King,Romance,TAMIL,ebook,4.14,2593,200,2004,56
+BOK_063,The Deception Game (Vol. 1),Dale Carnegie,Thriller,Tamil,ebook,4.66,3384,256,2004,76
+BOK_064,Echoes of Betrayal (Vol. 1),Amish Tripathi,Thriller,kannada,ebook,4.01,212,354,2008,139
+BOK_065,The Hunt for Red October (Vol. 1),Madhavan,Thriller,Kannada,paperback,5.0,1066,399,2018,589
+BOK_066,A River's Tale,Ken Follett,Fiction,Kannada,ebook,3.93,1557,453,2017,173
+BOK_067,A Walk in the Rain,Stephen King,Romance,Kannada,paperback,4.28,476,473,2021,645
+BOK_068,The Chennai Syndicate (Vol. 2),Sujatha Rangarajan,Thriller,kannada,audiobook,5.0,353,385,1990,204
+BOK_069,The Midnight Conspiracy,J.K. Rowling,thriller,Kannada,paperback,3.52,1687,273,2025,531
+BOK_070,Life in a Metro (Vol. 1),Amish Tripathi,Fiction,Tamil,ebook,4.3,3226,417,2013,63
+BOK_071,Prophecy of the Stars,Arundhati Roy,Fantasy,Tamil,audiobook,3.76,250,206,2026,313
+BOK_072,The Art of Thinking Clearly,Arundhati Roy,Self-Help,Kannada,paperback,4.34,,133,2008,213
+BOK_073,The Last Letter (Vol. 2),James Clear,Fiction,Kannada,paperback,4.1,5650,,2025,364
+BOK_074,The Legend of Trishanku (Vol. 1),Madhavan,Fantasy,Kannada,ebook,3.54,535,400,2001,240
+BOK_075,Wealth and Wisdom (Vol. 1),Amish Tripathi,Self-Help,Kannada,audiobook,3.97,154,554,2002,238
+BOK_076,Shadows of the Past (Vol. 2),Dan Brown,FICTION  ,Kannada,ebook,3.69,72,358,2002,191
+BOK_077,Stars in Your Eyes,James Clear,Romance,TAMIL,ebook,4.16,4629,224,2010,73
+BOK_078,The Coconut Groves,Ken Follett,Fiction,Kannada,paperback,4.1,468,266,1996,439
+BOK_079,Frugal Innovation,Arundhati Roy,Business,Kannada,paperback,3.37,369,158,2008,265
+BOK_080,Realm of the Gods (Vol. 1),Yuval Noah Harari,Fantasy,Tamil,ebook,4.86,1286,456,2023,236
+BOK_081,Web of Lies (Vol. 1),R.K. Narayan,Thriller,Tamil,ebook,4.64,496,238,1999,195
+BOK_082,The Coconut Groves (Vol. 1),Anita Desai,Fiction,Tamil,audiobook,3.7,488,291,2019,232
+BOK_083,The Maratha Warriors,Devdutt Pattanaik,History,Telugu,audiobook,3.75,770,413,2015,309
+BOK_084,Double Cross,Kalki R. Krishnamurthy,Thriller,Kannada,paperback,3.76,676,221,1993,350
+BOK_085,The Golden Threshold (Vol. 1),Kiran Desai,fiction,Tamil,ebook,4.01,433,247,2012,169
+BOK_086,A Summer in Ooty,Yuval Noah Harari,Romance,Hindi,ebook,3.79,3193,421,2002,-256
+BOK_087,The Last Letter (Vol. 3),Jeyamohan,fiction,Tamil,audiobook,4.43,174,309,2010,390
+BOK_088,The Great Chola Empire,George R.R. Martin,History,Telugu,paperback,3.89,,143,2017,376
+BOK_089,The Chennai Express Connection,Shashi Tharoor,Romance,Tamil,ebook,4.03,2759,352,2000,100
+BOK_090,The Python Way,Dan Brown,Technology,Kannada,audiobook,3.14,251,518,1990,387
+BOK_091,The Last Letter (Vol. 4),Kiran Desai,Fiction,telugu,ebook,4.9,10515,362,1990,88
+BOK_092,The Tech Boom in Bangalore (Vol. 1),Aravind Adiga,Technology,Kannada,ebook,4.78,694,581,1998,212
+BOK_093,Love in the Time of Monsoons,Agatha Christie,Romance,Kannada,ebook,4.81,745,393,2003,139
+BOK_094,Cloud Architectures,Kiran Desai,Technology,English,paperback,3.93,369,247,2021,764
+BOK_095,Dead Run,Sudha Murty,Thriller,Kannada,ebook,4.71,3367,391,2001,191
+BOK_096,The Poisoned Chalice (Vol. 1),Jeyamohan,Mystery,Kannada,audiobook,4.52,,478,1996,327
+BOK_097,Swords of the Deccan,Ken Follett,Fantasy,Malayalam,ebook,4.04,204,263,2012,168
+BOK_098,Scale Up (Vol. 1),Ken Follett,Business,Kannada,ebook,3.96,,544,2005,
+BOK_099,Winds of Change,Sidney Sheldon,Fiction,TAMIL,paperback,4.16,422,492,2017,347
+BOK_100,A Suitable Match (Vol. 1),Ashwin Sanghi,fiction,Kannada,paperback,4.18,708,250,1998,616
+BOK_101,Under the Banyan Tree (Vol. 1),John Grisham,Romance,Telugu,paperback,3.67,102,478,1995,685
+BOK_102,The Midnight Sun (Vol. 3),John Grisham,Fiction,Telugu,audiobook,4.39,,299,2024,225
+BOK_103,The Daily Grind,Agatha Christie,Self-Help,Telugu,ebook,,365,199,2021,142
+BOK_104,The Silent Witness (Vol. 1),Ruskin Bond,thriller,Kannada,ebook,4.07,237,360,2018,91
+BOK_105,False Identity,George R.R. Martin,thriller,Hindi,audiobook,4.19,610,479,1990,181
+BOK_106,Zero to One Crore,Devdutt Pattanaik,Business,Tamil,audiobook,4.16,265,342,1991,267
+BOK_107,Life in a Metro (Vol. 2),R.K. Narayan,FICTION  ,telugu,ebook,3.76,331,350,2019,240
+BOK_108,Behind Closed Doors (Vol. 1),Simon Sinek,Thriller,Hindi,ebook,4.19,75,421,2018,158
+BOK_109,Bouncing Back,Ken Follett,Self Help,Kannada,ebook,3.7,259,643,2006,200
+BOK_110,The Deception Game (Vol. 2),Jeffrey Archer,Thriller,Malayalam,paperback,4.14,556,325,1994,320
+BOK_111,Echoes of Betrayal (Vol. 2),Madhavan,THRILLER,Telugu,ebook,4.67,170,364,2004,193
+BOK_112,The Assassin's Mark,Robin Sharma,thriller,Kannada,ebook,4.28,1522,415,2017,131
+BOK_113,Echoes of Silence,Sujatha Rangarajan,Fiction,Tamil,audiobook,4.83,261,367,2014,
+BOK_114,The Safe House (Vol. 1),Yuval Noah Harari,Thriller,Kannada,paperback,4.59,2159,473,2023,140
+BOK_115,The Chennai Express Connection (Vol. 1),R.K. Narayan,Romance,Tamil,paperback,4.0,374,240,2025,420
+BOK_116,"Love, Chai, and Everything Nice (Vol. 2)",Dan Brown,Romance,kannada,paperback,4.08,9877,315,2000,190
+BOK_117,Prophecy of the Stars (Vol. 1),Yuval Noah Harari,Fantasy,Malayalam,paperback,4.53,1286,355,1994,370
+BOK_118,The Guardian of the Portal,Aravind Adiga,Fantasy,telugu,ebook,3.77,606,275,2016,213
+BOK_119,Swords of the Deccan (Vol. 1),J.K. Rowling,Fantasy,Kannada,audiobook,3.53,308,351,1995,280
+BOK_120,Swords of the Deccan (Vol. 2),R.K. Narayan,Fantasy,Telugu,audiobook,3.38,110,439,2014,196
+BOK_121,Monsoon Dreams (Vol. 1),Jeffrey Archer,fiction,Tamil,paperback,4.12,5434,254,1998,
+BOK_122,Double Cross (Vol. 1),Arundhati Roy,Thriller,Kannada,audiobook,4.4,384,357,2026,
+BOK_123,The Madurai Murders,Vikram Seth,Mystery,Tamil,ebook,4.52,582,481,1995,140
+BOK_124,Beyond the Horizon,Dan Brown,fiction,kannada,audiobook,3.57,63,416,2002,250
+BOK_125,The Assassin's Mark (Vol. 1),Sandilyan,Thriller,kannada,audiobook,4.12,193,256,2004,158
+BOK_126,The Corporate Ladder,Stephen King,Business,Kannada,ebook,3.66,1589,521,2015,75
+BOK_127,The Golden Empire,Ruskin Bond,Fantasy,Malayalam,audiobook,3.75,1733,347,1990,148
+BOK_128,The Hidden Key,Kiran Desai,Mystery,Telugu,paperback,5.0,78,285,2001,440
+BOK_129,Echoes of Silence (Vol. 1),Anita Desai,Fiction,Tamil,ebook,4.49,372,200,2021,113
+BOK_130,Monsoon Dreams (Vol. 2),Yuval Noah Harari,Fiction,Malayalam,audiobook,3.87,682,248,1996,255
+BOK_131,The Mystery of Royapuram (Vol. 1),Anita Desai,Mystery,Telugu,ebook,4.08,141,370,2023,248
+BOK_132,The Train to Malgudi (Vol. 1),Vikram Seth,fiction,telugu,ebook,4.0,3236,215,2005,197
+BOK_133,Behind Closed Doors (Vol. 2),Ruskin Bond,Thriller,telugu,paperback,3.98,191,478,2018,639
+BOK_134,Code of Silence,Shashi Tharoor,Thriller,Telugu,ebook,3.93,708,262,2017,166
+BOK_135,Vanishing Point,R.K. Narayan,thriller,English,paperback,3.15,711,485,2000,410
+BOK_136,The Silent Witness (Vol. 2),Devdutt Pattanaik,thriller,telugu,audiobook,3.47,137,200,1993,228
+BOK_137,The Assassin's Mark (Vol. 2),Chetan Bhagat,Thriller,Tamil,audiobook,4.37,206,300,2017,399
+BOK_138,The Hunt for Red October (Vol. 2),James Clear,Thriller,Tamil,ebook,4.35,76,333,2009,202
+BOK_139,Shadows of the Past (Vol. 3),Kiran Desai,Fiction,Kannada,paperback,3.73,273,352,2026,743
+BOK_140,The Poisoned Chalice (Vol. 2),Ken Follett,mystery,kannada,ebook,3.54,1515,418,2019,157
+BOK_141,Secrets of the Kaveri,Devdutt Pattanaik,Mystery,Hindi,paperback,3.82,934,324,2022,482
+BOK_142,Stars in Your Eyes (Vol. 1),Chetan Bhagat,Romance,Hindi,ebook,4.44,1276,465,2019,63
+BOK_143,The God of Small Things (Vol. 2),Sandilyan,Fiction,Malayalam,ebook,3.61,628,231,1997,239
+BOK_144,The Dragon of Sahyadri (Vol. 1),R.K. Narayan,Fantasy,kannada,paperback,4.09,7691,354,2009,106
+BOK_145,The Chennai Express Connection (Vol. 2),Aravind Adiga,Romance,tamil,ebook,4.2,234,442,1991,179
+BOK_146,Web of Lies (Vol. 2),Sujatha Rangarajan,Thriller,Hindi,ebook,4.75,5313,263,2017,87
+BOK_147,The Mango Orchard,Simon Sinek,Fiction,Malayalam,ebook,4.56,620,251,2021,144
+BOK_148,Echoes of Betrayal (Vol. 3),James Clear,Thriller,Telugu,audiobook,4.42,400,399,1990,397
+BOK_149,The Last Letter (Vol. 5),Agatha Christie,fiction,Telugu,ebook,4.64,610,281,2012,178
+BOK_150,Terminal Vector (Vol. 1),James Clear,Thriller,Telugu,audiobook,3.77,1386,435,1998,242
+BOK_151,The Disruptors,Robin Sharma,Business,Tamil,ebook,4.03,5747,,1998,228
+BOK_152,Forever Yours,Anita Desai,Romance,Kannada,audiobook,4.01,1574,249,1996,355
+BOK_153,The Night Crawler,Sandilyan,Thriller,tamil,paperback,4.36,1801,396,2016,15000
+BOK_154,Under the Banyan Tree (Vol. 2),Aravind Adiga,Romance,Tamil,paperback,12.0,878,289,2010,210
+BOK_155,The Safe House (Vol. 2),Dan Brown,Thriller,English,audiobook,3.59,1069,282,2017,370
+BOK_156,The God of Small Things (Vol. 3),Dan Brown,FICTION  ,Tamil,ebook,3.9,737,294,2023,177
+BOK_157,Sardar: The Iron Man,Devdutt Pattanaik,Biography,Kannada,audiobook,2.87,475,192,2026,140
+BOK_158,Mindset of Achievers,Sudha Murty,Self-Help,Tamil,audiobook,3.26,53,519,2012,134
+BOK_159,Cloud Architectures (Vol. 1),Sujatha Rangarajan,Technology,Tamil,ebook,4.14,241,233,2020,117
+BOK_160,Chai and Pakoda Days,Madhavan,Fiction,Kannada,ebook,4.36,957,231,2005,176
+BOK_161,Bouncing Back (Vol. 1),Amish Tripathi,Self Help,Kannada,paperback,4.32,97,252,2007,142
+BOK_162,Winds of Change (Vol. 1),Anita Desai,Fiction,kannada,ebook,2.98,2633,394,1991,191
+BOK_163,Life in a Metro (Vol. 3),Yuval Noah Harari,Fiction,Telugu,ebook,4.03,192,388,2012,99
+BOK_164,The Last Alibi,Kalki R. Krishnamurthy,Thriller,Tamil,ebook,3.38,9940,474,2026,61
+BOK_165,The Missile Man: APJ Abdul Kalam,Sidney Sheldon,Biography,Tamil,ebook,3.71,156,370,2008,
+BOK_166,The Madurai Murders (Vol. 1),James Clear,Mystery,Tamil,ebook,4.57,6404,312,2018,232
+BOK_167,Cyber Security for Everyone,Chetan Bhagat,Technology,Telugu,paperback,3.76,191,540,2021,386
+BOK_168,The Weaver's Loom,Aravind Adiga,Fiction,Tamil,ebook,4.36,159,272,1992,110
+BOK_169,The Chennai Express Connection (Vol. 3),John Grisham,Romance,Kannada,ebook,4.5,862,243,1993,121
+BOK_170,A Cryptic Message,Shashi Tharoor,Mystery,Malayalam,ebook,3.72,1345,356,1992,188
+BOK_171,The Tech Boom in Bangalore (Vol. 2),Amish Tripathi,Technology,Hindi,paperback,4.42,97,564,2017,158
+BOK_172,The Wedding Planner's Story,J.K. Rowling,Romance,english,ebook,3.87,1405,395,2019,240
+BOK_173,A River's Tale (Vol. 1),George R.R. Martin,Fiction,Tamil,ebook,3.63,382,,2013,118
+BOK_174,Bouncing Back (Vol. 2),Shashi Tharoor,Self Help,Malayalam,ebook,3.61,591,129,2019,59
+BOK_175,The Lost Manuscript,George R.R. Martin,Mystery,Malayalam,ebook,4.17,4114,232,2018,96
+BOK_176,The Habit Loop,Ruskin Bond,Self Help,tamil,audiobook,3.82,6133,358,1997,119
+BOK_177,The Cursed Amulet (Vol. 2),Madhavan,Fantasy,Malayalam,ebook,4.16,725,320,2012,77
+BOK_178,The Madurai Murders (Vol. 2),Sujatha Rangarajan,Mystery,TAMIL,ebook,3.86,,418,2008,86
+BOK_179,Code of Silence (Vol. 1),Jeyamohan,Thriller,Telugu,paperback,4.65,2417,215,2000,477
+BOK_180,The Safe House (Vol. 3),John Grisham,thriller,Tamil,ebook,4.59,736,460,2012,105
+BOK_181,Making of a Legend (Vol. 1),Anita Desai,Biography,Tamil,ebook,4.74,1890,244,2023,63
+BOK_182,Shadow of the Yeti (Vol. 1),Robin Sharma,Fantasy,Kannada,ebook,4.51,331,385,2004,166
+BOK_183,Swords of the Deccan (Vol. 3),Anita Desai,Fantasy,tamil,ebook,4.77,92,239,2013,217
+BOK_184,Heartstrings,Ashwin Sanghi,Romance,Kannada,ebook,,,346,2011,130
+BOK_185,Life in a Metro (Vol. 4),Jeyamohan,Fiction,Kannada,audiobook,4.6,222,440,1996,164
+BOK_186,The Legend of Ramanujan (Vol. 1),Amish Tripathi,Biography,Tamil,paperback,3.89,999,241,2011,444
+BOK_187,The Taj Mahal Story (Vol. 1),Chetan Bhagat,History,Tamil,paperback,5.0,1600,608,1998,287
+BOK_188,Monsoon Dreams (Vol. 3),James Clear,Fiction,Tamil,ebook,4.31,514,343,1996,109
+BOK_189,The Mystery of Royapuram (Vol. 2),Jeyamohan,Mystery,Tamil,paperback,4.54,532,363,2001,24000
+BOK_190,The Calm Mind,Dale Carnegie,Self Help,Telugu,ebook,4.14,,411,2000,80
+BOK_191,Cold Case Files (Vol. 1),Jeffrey Archer,thriller,Kannada,ebook,,1000,203,2021,56
+BOK_192,Monsoon Dreams (Vol. 4),R.K. Narayan,Fiction,Hindi,ebook,-1.2,208,261,2018,160
+BOK_193,Murder on High Street (Vol. 2),Kiran Desai,Thriller,Malayalam,paperback,9.8,1333,459,2011,382
+BOK_194,Autumn Leaves (Vol. 1),,Romance,Kannada,ebook,4.47,157,218,1990,112
+BOK_195,Coffee and Conversations (Vol. 1),Chetan Bhagat,Romance,Malayalam,audiobook,3.86,7518,344,1998,201
+BOK_196,Algorithms and Life,John Grisham,Technology,Malayalam,ebook,-0.5,320,548,2006,207
+BOK_197,The Half Girlfriend Journey (Vol. 1),Sidney Sheldon,Romance,Tamil,audiobook,4.26,389,349,2021,350
+BOK_198,Stars in Your Eyes (Vol. 2),Kiran Desai,Romance,kannada,ebook,,2785,417,1997,95
+BOK_199,The Tech Boom in Bangalore (Vol. 3),Sujatha Rangarajan,Technology,Telugu,audiobook,4.88,560,620,2016,220
+BOK_200,The Chennai Syndicate (Vol. 3),George R.R. Martin,Thriller,Kannada,ebook,4.42,358,426,2017,152
+BOK_201,The Corporate Ladder (Vol. 1),Ashwin Sanghi,Business,Tamil,ebook,4.5,430,290,2024,102
+BOK_202,The Tech Boom in Bangalore (Vol. 4),Madhavan,Technology,Kannada,ebook,4.79,135,461,2012,246
+BOK_203,Shadow of the Yeti (Vol. 2),Agatha Christie,Fantasy,Kannada,audiobook,3.78,397,391,2011,311
+BOK_204,Love in the Time of Monsoons (Vol. 1),J.K. Rowling,Romance,Tamil,ebook,3.53,641,354,1991,108
+BOK_205,The Golden Threshold (Vol. 2),Amish Tripathi,Fiction,Telugu,audiobook,,1675,207,2024,177
+BOK_206,Swords of the Deccan (Vol. 4),Anita Desai,Fantasy,Telugu,paperback,3.85,313,251,2006,771
+BOK_207,The Last Alibi (Vol. 1),R.K. Narayan,thriller,Kannada,paperback,4.2,4015,325,2014,117
+BOK_208,The Fire Jewel,Anita Desai,Fantasy,English,audiobook,3.67,3371,318,2018,289
+BOK_209,The Half Girlfriend Journey (Vol. 2),Arundhati Roy,Romance,Kannada,ebook,4.22,779,450,2005,-82
+BOK_210,The Assassin's Mark (Vol. 3),Jeyamohan,thriller,Malayalam,paperback,4.17,1388,359,2011,254
+BOK_211,The Chennai Syndicate (Vol. 4),,Thriller,Kannada,paperback,3.85,855,455,2010,767
+BOK_212,The Assassin's Mark (Vol. 4),Kalki R. Krishnamurthy,thriller,Telugu,audiobook,5.5,,239,2014,165
+BOK_213,The Saffron Gate,Sidney Sheldon,fiction,Telugu,ebook,4.76,1148,271,2025,157
+BOK_214,The Coconut Groves (Vol. 2),Dale Carnegie,Fiction,Tamil,paperback,4.55,,488,2000,244
+BOK_215,The Bangalore Alibi,Anita Desai,Mystery,Tamil,paperback,3.82,618,369,1998,268
+BOK_216,Life in a Metro (Vol. 5),Sudha Murty,Fiction,Kannada,audiobook,4.32,141,248,1993,339
+BOK_217,The Mango Orchard (Vol. 1),Dan Brown,FICTION  ,Kannada,ebook,3.87,205,330,2025,188
+BOK_218,Chai and Pakoda Days (Vol. 1),Simon Sinek,Fiction,Tamil,ebook,3.87,2924,396,2011,197
+BOK_219,Cloud Architectures (Vol. 2),Sandilyan,Technology,Telugu,audiobook,4.07,278,,2010,139
+BOK_220,Beyond the Horizon (Vol. 1),Shashi Tharoor,Fiction,Malayalam,audiobook,3.8,110,393,2014,342
+BOK_221,The Assassin's Mark (Vol. 5),Aravind Adiga,thriller,Kannada,ebook,4.21,101,342,1999,161
+BOK_222,The Ghost of Shimla,Jeffrey Archer,Mystery,telugu,ebook,5.0,383,486,2002,147
+BOK_223,The Train to Malgudi (Vol. 2),Kalki R. Krishnamurthy,fiction,Telugu,ebook,3.95,866,388,2006,178
+BOK_224,Stars in Your Eyes (Vol. 3),R.K. Narayan,Romance,Tamil,audiobook,4.34,78,215,2020,332
+BOK_225,Village Bells,Sandilyan,FICTION  ,Telugu,paperback,4.5,180,261,1993,554
+BOK_226,Murder on High Street (Vol. 3),Kalki R. Krishnamurthy,thriller,Malayalam,paperback,3.42,1898,286,2013,628
+BOK_227,Coding the Future,Dan Brown,Technology,Kannada,ebook,,1112,574,1992,120
+BOK_228,Realm of the Gods (Vol. 2),Chetan Bhagat,Fantasy,kannada,paperback,3.8,312,244,2026,574
+BOK_229,The Inheritance of Loss (Vol. 3),Dan Brown,Fiction,Tamil,ebook,5.0,262,241,2005,128
+BOK_230,The Golden Empire (Vol. 1),Dan Brown,Fantasy,Telugu,ebook,4.31,225,315,2002,119
+BOK_231,The Midnight Sun (Vol. 4),John Grisham,fiction,tamil,ebook,4.08,279,430,2000,59
+BOK_232,Beyond the Horizon (Vol. 2),Agatha Christie,Fiction,kannada,ebook,3.26,696,337,1995,181
+BOK_233,Shadow in the Rain,John Grisham,Thriller,kannada,paperback,4.14,604,365,2013,677
+BOK_234,Shadow of the Yeti (Vol. 3),Amish Tripathi,Fantasy,Hindi,paperback,4.95,115,371,2011,763
+BOK_235,The Saffron Gate (Vol. 1),George R.R. Martin,Fiction,Kannada,audiobook,4.59,877,404,2020,
+BOK_236,Elixir of Life,Sudha Murty,Fantasy,Kannada,audiobook,,323,495,2015,114
+BOK_237,The Bangalore Alibi (Vol. 1),Sudha Murty,Mystery,Hindi,paperback,3.62,124,377,2019,505
+BOK_238,The Lost Manuscript (Vol. 1),Jeffrey Archer,Mystery,Telugu,paperback,3.91,336,246,2005,257
+BOK_239,The God of Small Things (Vol. 4),Robin Sharma,Fiction,Tamil,audiobook,4.63,6781,249,2014,165
+BOK_240,Happiness Blueprint,Sujatha Rangarajan,Self-Help,Tamil,ebook,3.53,4462,193,2012,175
+BOK_241,The Mango Orchard (Vol. 2),R.K. Narayan,fiction,Kannada,ebook,3.32,1663,239,2004,85
+BOK_242,Beyond the Horizon (Vol. 3),Ken Follett,Fiction,TAMIL,ebook,3.98,234,,1992,116
+BOK_243,The Weaver's Loom (Vol. 1),Robin Sharma,FICTION  ,Kannada,paperback,4.07,1018,407,1990,264
+BOK_244,The Midnight Sun (Vol. 5),Ashwin Sanghi,Fiction,Kannada,ebook,4.5,561,417,2006,239
+BOK_245,A Summer in Ooty (Vol. 1),Chetan Bhagat,Romance,Malayalam,audiobook,4.94,251,417,2024,296
+BOK_246,Monsoon Dreams (Vol. 5),Ashwin Sanghi,FICTION  ,tamil,ebook,4.13,2580,437,2008,60
+BOK_247,The Missile Man: APJ Abdul Kalam (Vol. 1),Ruskin Bond,Biography,Kannada,paperback,4.31,413,144,2024,373
+BOK_248,Danger Zone,Chetan Bhagat,Thriller,Kannada,ebook,4.39,490,402,2005,94
+BOK_249,The Nilgiri Mystery,Jeyamohan,Mystery,Tamil,audiobook,4.02,32,468,2026,334
+BOK_250,Life in a Metro (Vol. 6),Vikram Seth,fiction,Kannada,audiobook,5.0,123,240,2011,254
+BOK_251,The Cipher,George R.R. Martin,thriller,Tamil,ebook,5.0,2261,259,2002,
+BOK_252,Sultans of the South,Simon Sinek,History,Kannada,paperback,3.01,406,567,2007,290
+BOK_253,A Cryptic Message (Vol. 1),Simon Sinek,Mystery,Tamil,paperback,4.31,547,412,1998,
+BOK_254,The Ghost of Shimla (Vol. 1),Yuval Noah Harari,Mystery,Telugu,ebook,3.94,145,435,2016,212
+BOK_255,The Mystery of Royapuram (Vol. 3),Sudha Murty,Mystery,Kannada,ebook,3.89,537,455,2003,186
+BOK_256,The Chronicles of Vikramaditya (Vol. 3),Jeffrey Archer,Fantasy,tamil,audiobook,4.17,105,242,2003,-102
+BOK_257,Danger Zone (Vol. 1),,Thriller,Telugu,audiobook,3.66,835,320,2014,375
+BOK_258,Echoes of Betrayal (Vol. 4),Agatha Christie,Thriller,Hindi,ebook,4.17,1489,409,2012,-59
+BOK_259,Code of Silence (Vol. 2),Sidney Sheldon,Thriller,Kannada,paperback,4.43,1897,362,2022,648
+BOK_260,The Midnight Sun (Vol. 6),Ken Follett,Fiction,Kannada,ebook,4.63,3211,250,2014,198
+BOK_261,The Great Chola Empire (Vol. 1),Sujatha Rangarajan,History,kannada,audiobook,3.28,411,603,1995,289
+BOK_262,Realm of the Gods (Vol. 3),Dan Brown,Fantasy,Hindi,ebook,4.11,3193,322,2001,170
+BOK_263,The Silent Witness (Vol. 3),Kiran Desai,thriller,Tamil,ebook,4.06,665,369,2000,112
+BOK_264,The Sky Fortress,Sujatha Rangarajan,Fantasy,tamil,ebook,5.0,145,333,2024,80
+BOK_265,Shadow in the Rain (Vol. 1),Ashwin Sanghi,thriller,Malayalam,ebook,3.61,1586,461,2018,159
+BOK_266,Monsoon Dreams (Vol. 6),,fiction,Malayalam,paperback,,506,,2020,315
+BOK_267,The Inheritance of Loss (Vol. 4),George R.R. Martin,Fiction,Kannada,audiobook,,1487,427,2011,330
+BOK_268,Autumn Leaves (Vol. 2),Sudha Murty,Romance,Kannada,ebook,4.12,3996,349,2009,233
+BOK_269,"Love, Chai, and Everything Nice (Vol. 3)",,Romance,Tamil,ebook,3.41,1064,349,2014,115
+BOK_270,The Coconut Groves (Vol. 3),Sudha Murty,Fiction,tamil,ebook,3.44,762,464,2015,172
+BOK_271,Sultans of the South (Vol. 1),John Grisham,History,Kannada,ebook,3.3,641,613,2001,173
+BOK_272,Shadows of the Past (Vol. 4),R.K. Narayan,Fiction,Hindi,ebook,3.8,1517,261,2002,141
+BOK_273,Secrets of the Kaveri (Vol. 1),,Mystery,Hindi,paperback,4.13,107,404,1996,437
+BOK_274,The Cipher (Vol. 1),Kiran Desai,THRILLER,English,audiobook,4.0,49,293,2005,216
+BOK_275,A River's Tale (Vol. 2),J.K. Rowling,Fiction,English,audiobook,,,231,2003,216
+BOK_276,A Summer in Ooty (Vol. 2),Agatha Christie,Romance,Kannada,ebook,4.37,613,443,2002,75
+BOK_277,Love in the Time of Monsoons (Vol. 2),Anita Desai,Romance,Tamil,audiobook,4.28,1003,290,2011,359
+BOK_278,Death at the Estate,Ruskin Bond,mystery,English,ebook,4.14,1389,425,1997,243
+BOK_279,The Mystery of Royapuram (Vol. 4),Amish Tripathi,Mystery,tamil,audiobook,4.02,3204,475,2001,199
+BOK_280,Simplify Your Life,Sidney Sheldon,Self-help,tamil,ebook,4.53,108,451,2000,99
+BOK_281,Bouncing Back (Vol. 3),George R.R. Martin,self help,Malayalam,audiobook,3.79,582,546,2007,217
+BOK_282,Death at the Estate (Vol. 1),Sidney Sheldon,Mystery,Malayalam,ebook,3.49,1789,357,2017,194
+BOK_283,Lead from the Front (Vol. 1),Dan Brown,Self-Help,Tamil,ebook,3.88,169,400,1991,230
+BOK_284,The Coconut Groves (Vol. 4),Aravind Adiga,fiction,Telugu,paperback,3.39,384,302,2003,732
+BOK_285,Playing It My Way,Sandilyan,Biography,Tamil,ebook,5.0,1172,504,1993,75
+BOK_286,The Half Girlfriend Journey (Vol. 3),J.K. Rowling,Romance,TAMIL,ebook,3.75,1026,487,1995,162
+BOK_287,False Identity (Vol. 1),Agatha Christie,thriller,Kannada,ebook,4.14,1254,384,2018,241
+BOK_288,The Midnight Sun (Vol. 7),Sandilyan,Fiction,Kannada,ebook,3.58,1109,449,1993,185
+BOK_289,Zero to One Crore (Vol. 1),Chetan Bhagat,Business,Kannada,audiobook,4.58,743,461,1994,138
+BOK_290,Sultans of the South (Vol. 2),Vikram Seth,History,Telugu,ebook,4.18,885,315,1994,246
+BOK_291,The Calm Mind (Vol. 1),Dale Carnegie,Self-Help,Kannada,ebook,3.92,883,562,1991,152
+BOK_292,The Train to Malgudi (Vol. 3),Dan Brown,fiction,Malayalam,ebook,3.92,3870,367,2024,167
+BOK_293,Wealth and Wisdom (Vol. 2),Sujatha Rangarajan,Self-Help,Kannada,paperback,4.54,313,435,2001,203
+BOK_294,Secrets of the Kaveri (Vol. 2),James Clear,Mystery,Hindi,paperback,4.86,395,317,2003,306
+BOK_295,The Mango Orchard (Vol. 3),Agatha Christie,Fiction,english,paperback,,314,392,1991,554
+BOK_296,Terminal Vector (Vol. 2),Agatha Christie,Thriller,kannada,ebook,4.67,687,464,1997,91
+BOK_297,The Last Letter (Vol. 6),,fiction,Kannada,ebook,4.83,,459,2013,172
+BOK_298,Secrets of the Kaveri (Vol. 3),James Clear,mystery,Hindi,ebook,4.53,2080,358,1994,161
+BOK_299,The Golden Threshold (Vol. 3),Ken Follett,Fiction,Telugu,paperback,4.12,623,307,2008,480
+BOK_300,The Legend of Ramanujan (Vol. 2),Jeffrey Archer,Biography,Kannada,paperback,4.43,166,433,2015,740
+BOK_245,A Summer in Ooty (Vol. 1),Chetan Bhagat,Romance,Malayalam,audiobook,4.94,251,417,2024,296
+BOK_022,The Safe House,Ruskin Bond,thriller,Telugu,ebook,4.06,483,250,2010,66
+BOK_017,The Hunt for Red October ,Amish Tripathi,Thriller,Telugu,paperback,3.9,152,299,2025,503
+BOK_180,The Safe House (Vol. 3) ,John Grisham,thriller,tamil,ebook,4.59,736,460,2012,105
+BOK_243,The Weaver's Loom (Vol. 1),Robin Sharma,FICTION  ,Kannada,paperback,4.07,1018,407,1990,264
+BOK_197,The Half Girlfriend Journey (Vol. 1),Sidney Sheldon,Romance,Tamil,audiobook,4.26,389,349,2021,350

@@ -1,0 +1,4 @@
+Dataset,Rows Before,Rows After
+Users,1000,1000
+Books,600,600
+Transactions,3839,3728

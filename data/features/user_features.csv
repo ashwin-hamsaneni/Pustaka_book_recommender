@@ -1,0 +1,1001 @@
+user_id,user_name,age,gender,city,state,preferred_language,signup_date,subscription_type,subscription_start_date,subscription_end_date,source,user_total_transactions,user_unique_books,user_active_days,user_activity_score,membership_days
+U0001,Meenakshi Menon,41.0,Male,Salem,Tamil Nadu,Tamil,2019-12-23,Annual Ebook,2019-12-27,2020-12-26,dataset_1,3.0,3.0,864.0,2.9999999999999996,2361.0
+U0002,Ananya Rao,50.0,Female,Thiruvananthapuram,Kerala,Malayalam,2023-09-15,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,999.0
+U0003,BHARATI Srinivasan,18.0,Female,Belagavi,Karnataka,Telugu,2021-05-31,Audiobook Subscription,2021-07-13,2022-07-13,dataset_1,1.0,1.0,0.0,1.0,1836.0
+U0004,Pooja Rao,40.0,Female,Kollam,Kerala,Malayalam,2020-05-26,Audiobook Subscription,2020-07-13,2021-07-13,dataset_1,1.0,1.0,0.0,1.0,2206.0
+U0005,Karthik Chaudhari,58.0,Female,Ahmedabad,Gujarat,English,2019-07-07,Annual Ebook,2019-08-13,2020-08-12,dataset_1,1.0,1.0,0.0,1.0,2530.0
+U0006,KARTHIK Sundaram,42.0,Male,Hubballi,Karnataka,Kannada,2021-05-08,Annual Ebook,2021-08-05,2022-08-05,dataset_1,3.0,3.0,1333.0,2.9999999999999996,1859.0
+U0007,Brindha Banerjee,58.0,Male,Tirunelveli,Tamil Nadu,Tamil,2021-06-18,Annual Ebook,2021-06-25,2022-06-25,dataset_1,1.0,1.0,0.0,1.0,1818.0
+U0008,UMA Reddy,43.0,Male,Visakhapatnam,Andhra Pradesh,Telugu,2024-08-06,Quarterly Ebook,2024-10-27,2025-01-25,dataset_1,1.0,1.0,0.0,1.0,673.0
+U0009,Vignesh Murugesan,33.0,Female,Kozhikode,Kerala,Malayalam,2023-06-24,Quarterly Ebook,2023-07-11,2023-10-09,dataset_1,3.0,2.0,422.0,2.6999999999999997,1082.0
+U0010,Sumathi Agarwal,21.0,Female,Tirunelveli,Tamil Nadu,Tamil,2019-09-18,Quarterly Ebook,2019-12-03,2020-03-02,dataset_1,7.0,7.0,1464.0,7.0,2457.0
+U0011,Saroja Tiwari,41.0,Female,Kozhikode,Kerala,Malayalam,2021-12-28,Annual Ebook,0,2023-02-09,dataset_1,2.0,2.0,728.0,2.0,1625.0
+U0012,Murugan Raghunathan,47.0,Male,Kozhikode,Kerala,Malayalam,2021-01-01,Quarterly Ebook,2021-01-14,2021-04-14,dataset_1,7.0,7.0,1421.0,7.0,1986.0
+U0013,AJITH Natarajan,50.0,Female,Thrissur,Kerala,Malayalam,2024-12-12,Audiobook Subscription,2025-02-26,2026-02-26,dataset_1,1.0,1.0,0.0,1.0,545.0
+U0014,Savitha Agarwal,41.0,Female,Kolkata,Rajasthan,Telugu,2021-09-13,Audiobook Subscription,2021-09-23,2022-09-23,dataset_1,1.0,1.0,0.0,1.0,1731.0
+U0015,KARTHIK Agarwal,66.0,Female,Kochi,Kerala,Malayalam,2020-11-07,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,2041.0
+U0016, Amudha Desai ,52.0,Male,Thiruvananthapuram,Kerala,Telugu,2023-03-10,Quarterly Ebook,2023-05-15,2023-08-13,dataset_1,1.0,1.0,0.0,1.0,1188.0
+U0017,Radha Menon,22.0,Male,Erode,Tamil Nadu,English,2019-10-18,Annual Ebook,2019-10-25,0,dataset_1,1.0,1.0,0.0,1.0,2427.0
+U0018, Uma Pillai ,39.0,Male,Kochi,Kerala,English,2020-06-25,Annual Ebook,2020-09-06,2021-09-06,dataset_1,2.0,2.0,128.0,2.0,2176.0
+U0019,Selvi Kaur,48.0,Female,Salem,Tamil Nadu,Tamil,2023-10-01,Quarterly Ebook,0,2024-01-05,dataset_1,1.0,1.0,0.0,1.0,983.0
+U0020, Balaji Banerjee ,24.0,Male,Kolkata,Kerala,English,2021-02-18,Quarterly Ebook,2021-03-07,2021-06-05,dataset_1,6.0,6.0,1481.0,5.999999999999999,1938.0
+U0021,Praveen Ramaswamy,33.0,Female,Kollam,Kerala,English,2019-03-02,Audiobook Subscription,2019-04-01,2020-03-31,dataset_1,9.0,9.0,1414.0,9.0,2657.0
+U0022,Revathi Joshi,31.0,Female,Delhi,Delhi,Hindi,2023-05-19,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,1118.0
+U0023,Vignesh Raghunathan,64.0,Other,Thiruvananthapuram,Kerala,English,2022-04-30,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,1502.0
+U0024,kavitha varma,41.0,Female,Visakhapatnam,Andhra Pradesh,Telugu,2024-12-15,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,542.0
+U0025,SUMATHI Rao,22.0,Female,Erode,Tamil Nadu,English,2021-10-05,Annual Ebook,2021-10-10,2022-10-10,dataset_1,1.0,1.0,0.0,1.0,1709.0
+U0026,Kalai Rao,55.0,Female,Thanjavur,Tamil Nadu,Tamil,2022-07-10,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,1431.0
+U0027,Ashwin Krishnan,37.0,Male,Pune,Maharashtra,Hindi,2020-02-14,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,2308.0
+U0028,Sowmya Mishra,40.0,Female,Kolkata,West Bengal,Hindi,2023-11-30,Audiobook Subscription,2024-02-28,2025-02-27,dataset_1,1.0,1.0,0.0,1.0,923.0
+U0029, Sunil Rajput ,69.0,Female,Kannur,Kerala,Malayalam,2020-02-29,Audiobook Subscription,2020-03-17,0,dataset_1,9.0,9.0,1527.0,9.0,2293.0
+U0030,GEETHA Menon,65.0,Female,Vijayawada,Andhra Pradesh,Telugu,2021-04-13,Annual Ebook,2021-05-16,2022-05-16,dataset_1,1.0,1.0,0.0,1.0,1884.0
+U0031,Rohan Agarwal,21.0,Male,Kolkata,Tamil Nadu,English,2020-06-19,Annual Ebook,2020-07-22,2021-07-22,dataset_1,1.0,1.0,0.0,1.0,2182.0
+U0032,Ganesh Kulkarni,45.0,Female,Thiruvananthapuram,Kerala,Malayalam,2023-02-21,Annual Ebook,2023-03-11,2024-03-10,dataset_1,3.0,3.0,1476.0,2.9999999999999996,1205.0
+U0033,Kamala Krishnan,41.0,Female,Coimbatore,Tamil Nadu,English,2021-10-19,Annual Ebook,2021-12-03,2022-12-03,dataset_1,2.0,2.0,64.0,2.0,1695.0
+U0034,PREMA Chaudhari,44.0,Other,Erode,Tamil Nadu,Tamil,2020-12-26,Audiobook Subscription,2020-12-29,0,dataset_1,7.0,7.0,907.0,7.0,1992.0
+U0035,harish patel,44.0,Female,Ahmedabad,Gujarat,Hindi,2020-03-18,Quarterly Ebook,2020-03-22,2020-06-20,dataset_1,2.0,2.0,248.0,2.0,2275.0
+U0036,Akash Sundaram,47.0,Male,Ahmedabad,Gujarat,Hindi,2021-03-02,Quarterly Ebook,2021-04-06,2021-07-05,dataset_1,1.0,1.0,0.0,1.0,1926.0
+U0037,Rajesh Srinivasan,50.0,Male,Kolkata,West Bengal,Telugu,2020-04-17,Audiobook Subscription,2020-05-20,2021-05-20,dataset_1,1.0,1.0,0.0,1.0,2245.0
+U0038, Harish Varma ,34.0,Male,Hubballi,Karnataka,Kannada,2023-11-23,Annual Ebook,2024-01-27,2025-01-26,dataset_1,10.0,9.0,1471.0,9.7,930.0
+U0039,MURUGAN Verma,30.0,Male,Chennai,Tamil Nadu,Tamil,2021-03-18,Quarterly Ebook,2021-03-26,2021-06-24,dataset_1,1.0,1.0,0.0,1.0,1910.0
+U0040,Parvathi Patel,60.0,Female,Bengaluru,Karnataka,Kannada,2023-07-31,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,1045.0
+U0041,Kala Raghunathan,30.0,Male,Delhi,Delhi,English,2022-05-17,Quarterly Ebook,2022-05-17,2022-08-15,dataset_1,1.0,1.0,0.0,1.0,1485.0
+U0042,Sunil Raghunathan,68.0,Female,Davangere,Karnataka,Kannada,2021-05-25,Quarterly Ebook,2021-06-15,2021-09-13,dataset_1,1.0,1.0,0.0,1.0,1842.0
+U0043,Surya Rao,41.0,Female,Kannur,Kerala,Malayalam,2021-07-09,Audiobook Subscription,2021-07-27,2022-07-27,dataset_1,1.0,1.0,0.0,1.0,1797.0
+U0044,Ananya Reddy,48.0,Female,Davangere,Karnataka,Kannada,2021-03-07,Annual Ebook,2021-04-25,2022-04-25,dataset_1,1.0,1.0,0.0,1.0,1921.0
+U0045,Anitha Mehta,59.0,Female,Pune,Maharashtra,Tamil,2021-06-15,Annual Ebook,0,0,dataset_1,0.0,0.0,0.0,0.0,1821.0
+U0046,Kala Tiwari,53.0,Male,Lucknow,Uttar Pradesh,Hindi,2024-03-18,Annual Ebook,2024-05-28,2025-05-28,dataset_1,11.0,9.0,1215.0,10.399999999999999,814.0
+U0047, Gopal Rajan ,46.0,Female,Warangal,Telangana,Telugu,,Audiobook Subscription,2024-03-01,2025-03-01,dataset_1,1.0,1.0,0.0,1.0,0.0
+U0048,radha chandrasekaran,58.0,Male,Kolkata,Telangana,English,2023-12-07,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,916.0
+U0049,Vijay Balasubramanian,38.0,Female,Tiruchirappalli,Tamil Nadu,Tamil,2020-09-17,Annual Ebook,2020-09-25,2021-09-25,dataset_1,2.0,2.0,1102.0,2.0,2092.0
+U0050,Nirmala Joshi,47.0,Male,Kolkata,Karnataka,Kannada,2019-03-22,Audiobook Subscription,2019-06-03,2020-06-02,dataset_1,3.0,2.0,286.0,2.6999999999999997,2637.0
+U0051,Kumar Kaur,40.0,Male,Kannur,Kerala,Malayalam,2021-06-22,Quarterly Ebook,2021-07-26,2021-10-24,dataset_1,1.0,1.0,0.0,1.0,1814.0
+U0052,Kamala Agarwal,39.0,Female,Kozhikode,Kerala,Malayalam,2020-06-06,Audiobook Subscription,2020-08-13,2021-08-13,dataset_1,7.0,6.0,1492.0,6.699999999999999,2195.0
+U0053,Ananya Mehta,60.0,Male,Tiruchirappalli,Tamil Nadu,English,2021-12-01,Quarterly Ebook,2021-12-28,2022-03-28,dataset_1,4.0,4.0,787.0,4.0,1652.0
+U0054,Vignesh Rajan,42.0,Male,Bhopal,Madhya Pradesh,Hindi,2019-12-02,Quarterly Ebook,2020-02-09,2020-05-09,dataset_1,1.0,1.0,0.0,1.0,2382.0
+U0055,Suresh Gupta,22.0,Female,Thrissur,Kerala,Malayalam,2021-03-27,Audiobook Subscription,2021-06-14,2022-06-14,dataset_1,1.0,1.0,0.0,1.0,1901.0
+U0056,Bhavana Balasubramanian,60.0,Male,Lucknow,Uttar Pradesh,English,2023-02-19,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,1207.0
+U0057,Amudha Chakraborty,70.0,Male,Visakhapatnam,Andhra Pradesh,Telugu,2023-03-18,Quarterly Ebook,2023-04-12,2023-07-11,dataset_1,1.0,1.0,0.0,1.0,1180.0
+U0058,Meena Varma,58.0,Male,Bengaluru,Karnataka,Kannada,2020-05-10,Annual Ebook,2020-07-21,2021-07-21,dataset_1,2.0,2.0,81.0,2.0,2222.0
+U0059,Deepa Gupta,60.0,Male,Mysuru,Karnataka,Kannada,2024-06-30,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,710.0
+U0060,BALU Das,47.0,Female,Kozhikode,Kerala,Malayalam,2022-01-11,Annual Ebook,2022-03-20,2023-03-20,dataset_1,9.0,5.0,1525.0,7.8,1611.0
+U0061,Prema Kaur,70.0,Female,Erode,Tamil Nadu,Tamil,2024-01-21,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,871.0
+U0062,Saroja Naidu,42.0,Male,Mysuru,Karnataka,Kannada,2022-12-24,Annual Ebook,2023-02-05,2024-02-05,dataset_1,1.0,1.0,0.0,1.0,1264.0
+U0063,hema prasad,35.0,Female,Vellore,Tamil Nadu,English,2023-07-23,Quarterly Ebook,2023-08-22,2023-11-20,dataset_1,1.0,1.0,0.0,1.0,1053.0
+U0064,Karthi Kaur,49.0,Male,Bengaluru,Karnataka,Kannada,2021-09-23,Annual Ebook,0,0,dataset_1,8.0,8.0,1408.0,8.0,1721.0
+U0065,Deepak Singh,51.0,Male,Kolkata,West Bengal,Hindi,2024-02-02,Annual Ebook,0,0,dataset_1,5.0,5.0,1741.0,5.0,859.0
+U0066,Babu Sundaram,30.0,Male,Thrissur,Kerala,English,2021-06-05,Annual Ebook,2021-07-10,2022-07-10,dataset_1,11.0,11.0,1247.0,11.0,1831.0
+U0067, Sathish Varma ,51.0,Female,Ahmedabad,Gujarat,Hindi,2023-01-18,Annual Ebook,0,0,dataset_1,11.0,10.0,1786.0,10.7,1239.0
+U0068,Priya Chakraborty,35.0,Male,Bengaluru,Karnataka,Kannada,2024-07-03,Annual Ebook,0,0,dataset_1,2.0,2.0,596.0,2.0,707.0
+U0069,Priya Naidu,48.0,Male,Coimbatore,Tamil Nadu,Tamil,2024-05-10,Annual Ebook,0,0,dataset_1,9.0,8.0,1662.0,8.7,761.0
+U0070,Rajesh Mehta,54.0,Female,Tiruchirappalli,Tamil Nadu,Tamil,2019-12-15,Audiobook Subscription,2019-12-30,2020-12-29,dataset_1,3.0,3.0,642.0,2.9999999999999996,2369.0
+U0071,Vasantha Joshi,68.0,Female,Mangaluru,Karnataka,Kannada,2022-05-02,Audiobook Subscription,2022-06-25,2023-06-25,dataset_1,2.0,2.0,248.0,2.0,1500.0
+U0072,Rekha Naidu,57.0,Female,Thrissur,Kerala,Malayalam,2021-12-19,Annual Ebook,2022-01-08,2023-01-08,dataset_1,10.0,9.0,1167.0,9.7,1634.0
+U0073,Senthil Ramaswamy,41.0,Male,Vijayawada,Andhra Pradesh,Telugu,2021-08-06,Annual Ebook,0,0,dataset_1,2.0,2.0,388.0,2.0,1769.0
+U0074,VIJAY Bose,22.0,Female,Kolkata,Gujarat,English,2021-07-09,Annual Ebook,2021-08-12,2022-08-12,dataset_1,1.0,1.0,0.0,1.0,1797.0
+U0075,Arun Pillai,68.0,Male,Visakhapatnam,Andhra Pradesh,Telugu,2024-04-03,Annual Ebook,2024-07-01,2025-07-01,dataset_1,3.0,3.0,480.0,2.9999999999999996,798.0
+U0076,Asha Srinivasan,49.0,Male,Belagavi,Karnataka,Kannada,2021-10-22,Annual Ebook,0,0,dataset_1,2.0,2.0,1508.0,2.0,1692.0
+U0077,UMA Ghosh,54.0,Female,Thrissur,Kerala,Telugu,2019-06-14,Annual Ebook,2019-07-06,2020-07-05,dataset_1,1.0,1.0,0.0,1.0,2553.0
+U0078,Akash Tiwari,35.0,Male,Guntur,Andhra Pradesh,Telugu,2024-04-09,Annual Ebook,0,0,dataset_1,8.0,6.0,1199.0,7.3999999999999995,792.0
+U0079,Mani Rajan,28.0,Male,Bengaluru,Karnataka,Kannada,2019-05-31,Quarterly Ebook,2019-07-10,2019-10-08,dataset_1,3.0,3.0,1213.0,2.9999999999999996,2567.0
+U0080,Babu Rajan,67.0,Male,Chennai,Tamil Nadu,Tamil,2024-03-07,Quarterly Ebook,2024-03-31,2024-06-29,dataset_1,8.0,7.0,1712.0,7.699999999999999,825.0
+U0081,Dev Singh,41.0,Female,Vellore,Tamil Nadu,Tamil,2022-03-25,Quarterly Ebook,0,2022-09-20,dataset_1,1.0,1.0,0.0,1.0,1538.0
+U0082,Nithin Menon,58.0,Female,Tirunelveli,Tamil Nadu,Tamil,2023-07-30,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,1046.0
+U0083, Murugan Patil ,59.0,Female,Thiruvananthapuram,Kerala,Malayalam,2022-01-24,Quarterly Ebook,2022-03-26,2022-06-24,dataset_1,5.0,5.0,883.0,5.0,1598.0
+U0084,Akash Balasubramanian,27.0,Male,Delhi,Delhi,Tamil,2022-02-05,Annual Ebook,2022-03-30,2023-03-30,dataset_1,2.0,2.0,664.0,2.0,1586.0
+U0085,Thenmozhi Mishra,18.0,Male,Visakhapatnam,Andhra Pradesh,Telugu,2024-06-28,Audiobook Subscription,2024-08-24,2025-08-24,dataset_1,9.0,8.0,1725.0,8.7,712.0
+U0086,Aditya Kaur,53.0,Female,Mysuru,Karnataka,Kannada,2021-09-05,Annual Ebook,2021-10-04,2022-10-04,dataset_1,1.0,1.0,0.0,1.0,1739.0
+U0087,Prema Joshi,65.0,Male,Bhopal,Madhya Pradesh,Hindi,2020-09-15,Quarterly Ebook,2020-09-19,2020-12-18,dataset_1,1.0,1.0,0.0,1.0,2094.0
+U0088, Venkat Mishra ,39.0,Female,Lucknow,Uttar Pradesh,Hindi,2024-02-15,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,846.0
+U0089,ARUN Joshi,27.0,Male,Thanjavur,Tamil Nadu,Tamil,2023-06-17,Annual Ebook,2023-07-29,2024-07-28,dataset_1,3.0,3.0,941.0,2.9999999999999996,1089.0
+U0090,Balaji Pandey,38.0,Female,Lucknow,Uttar Pradesh,Tamil,2019-05-28,Annual Ebook,2019-06-27,2020-06-26,dataset_1,1.0,1.0,0.0,1.0,2570.0
+U0091, Ajith Ghosh ,32.0,Female,Salem,Tamil Nadu,Tamil,2020-02-16,Quarterly Ebook,2020-05-14,2020-08-12,dataset_1,9.0,9.0,1311.0,9.0,2306.0
+U0092,Sunil Sharma,68.0,Male,Belagavi,Karnataka,English,2023-08-15,Annual Ebook,2023-09-07,2024-09-06,dataset_1,8.0,8.0,1188.0,8.0,1030.0
+U0093,Revathi Ramaswamy,42.0,Female,Visakhapatnam,Andhra Pradesh,English,2021-11-06,Quarterly Ebook,2022-01-30,2022-04-30,dataset_1,7.0,4.0,1006.0,6.1,1677.0
+U0094, Priya Patil ,61.0,Female,Hubballi,Karnataka,Kannada,2023-10-04,Annual Ebook,2023-12-01,2024-11-30,dataset_1,1.0,1.0,0.0,1.0,980.0
+U0095, Sunil Venkatesh ,48.0,Male,Hubballi,Karnataka,Kannada,2022-04-24,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,1508.0
+U0096,Surya Mehta,54.0,Female,Coimbatore,Tamil Nadu,Tamil,2022-03-18,Annual Ebook,2022-04-16,2023-04-16,dataset_1,2.0,2.0,243.0,2.0,1545.0
+U0097,Amudha Gupta,30.0,Female,Kozhikode,Kerala,Malayalam,2020-07-14,Annual Ebook,2020-10-02,2021-10-02,dataset_1,2.0,1.0,74.0,1.7,2157.0
+U0098,Yuvan Reddy,46.0,Male,Tiruchirappalli,Tamil Nadu,Tamil,2022-08-31,Annual Ebook,2022-09-22,2023-09-22,dataset_1,6.0,5.0,2024.0,5.699999999999999,1379.0
+U0099,nithya krishnan,41.0,Female,Delhi,Delhi,Hindi,2024-05-27,Audiobook Subscription,2024-07-03,2025-07-03,dataset_1,7.0,4.0,1215.0,6.1,744.0
+U0100,TAMILARASI Patel,47.0,Female,Erode,Tamil Nadu,Tamil,2023-06-16,Audiobook Subscription,2023-08-26,2024-08-25,dataset_1,1.0,1.0,0.0,1.0,1090.0
+U0101,balu rao,41.0,Male,Hubballi,Karnataka,Kannada,2021-12-09,Annual Ebook,2022-02-28,2023-02-28,dataset_1,3.0,3.0,656.0,2.9999999999999996,1644.0
+U0102,Shanthi Iyer,48.0,Male,Kolkata,West Bengal,Telugu,2021-06-25,Annual Ebook,2021-09-14,2022-09-14,dataset_1,11.0,11.0,1583.0,11.0,1811.0
+U0103,Saroja Bose,44.0,Male,Coimbatore,Tamil Nadu,Tamil,2020-04-20,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,2242.0
+U0104,Aditya Krishnan,41.0,Female,Nizamabad,Telangana,Telugu,2020-09-24,Audiobook Subscription,2020-12-16,2021-12-16,dataset_1,2.0,2.0,295.0,2.0,2085.0
+U0105,Srinivas Agarwal,35.0,Male,Davangere,Karnataka,Kannada,2023-01-25,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,1232.0
+U0106,Brindha Singh,59.0,Male,Vellore,Tamil Nadu,Tamil,2024-02-06,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,855.0
+U0107,Sowmya Banerjee,19.0,Male,Tiruchirappalli,Tamil Nadu,English,2021-04-28,Annual Ebook,2021-05-27,2022-05-27,dataset_1,1.0,1.0,0.0,1.0,1869.0
+U0108,mani murugesan,56.0,Male,Delhi,Delhi,Telugu,2021-10-23,Annual Ebook,2021-11-06,2022-11-06,dataset_1,1.0,1.0,0.0,1.0,1691.0
+U0109,Surya Sharma,40.0,Female,Mysuru,Karnataka,English,2019-08-03,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,2503.0
+U0110,Nirmala Tiwari,22.0,Male,Warangal,Telangana,English,2024-08-25,Annual Ebook,0,0,dataset_1,12.0,11.0,1538.0,11.7,654.0
+U0111,ramesh reddy,60.0,Male,Chennai,Tamil Nadu,Tamil,2023-07-04,Quarterly Ebook,2023-07-17,2023-10-15,dataset_1,1.0,1.0,0.0,1.0,1072.0
+U0112, Nithin Chakraborty ,22.0,Female,Tiruchirappalli,Tamil Nadu,English,2022-08-24,Quarterly Ebook,2022-11-08,0,dataset_1,1.0,1.0,0.0,1.0,1386.0
+U0113,Chandra Raghunathan,56.0,Male,Salem,Tamil Nadu,Tamil,2021-05-30,Quarterly Ebook,2021-06-28,2021-09-26,dataset_1,12.0,12.0,1573.0,11.999999999999998,1837.0
+U0114,NAVEEN Patel,43.0,Male,Belagavi,Karnataka,Kannada,2023-03-14,Audiobook Subscription,2023-06-09,2024-06-08,dataset_1,1.0,1.0,0.0,1.0,1184.0
+U0115,Akash Pillai,23.0,Male,Kozhikode,Kerala,Malayalam,2019-09-03,Annual Ebook,2019-11-13,2020-11-12,dataset_1,1.0,1.0,0.0,1.0,2472.0
+U0116,Vasantha Patel,44.0,Male,Thrissur,Kerala,Malayalam,2019-07-30,Audiobook Subscription,2019-10-14,2020-10-13,dataset_1,7.0,5.0,1687.0,6.3999999999999995,2507.0
+U0117,Rekha Gupta,50.0,Male,Erode,Tamil Nadu,Tamil,2023-02-14,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,1212.0
+U0118,Hema Naidu,45.0,Female,Mumbai,Maharashtra,English,2021-12-31,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,1622.0
+U0119,krishna bose,39.0,Male,Tiruchirappalli,Tamil Nadu,Tamil,2019-10-13,Annual Ebook,0,0,dataset_1,2.0,2.0,298.0,2.0,2432.0
+U0120,Meenakshi Sharma,51.0,Male,Mysuru,Karnataka,Kannada,2022-08-21,Annual Ebook,2022-11-01,2023-11-01,dataset_1,2.0,2.0,561.0,2.0,1389.0
+U0121,GOPAL Rao,27.0,Male,Kochi,Kerala,Malayalam,2023-10-03,Quarterly Ebook,2023-11-28,2024-02-26,dataset_1,6.0,5.0,1477.0,5.699999999999999,981.0
+U0122,Nirmala Srinivasan,50.0,Male,Bengaluru,Karnataka,Kannada,2024-06-16,Quarterly Ebook,2024-07-25,2024-10-23,dataset_1,2.0,2.0,890.0,2.0,724.0
+U0123,Deepa Sundaram,56.0,Male,Vellore,Tamil Nadu,Tamil,2022-03-31,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,1532.0
+U0124,arjun agarwal,29.0,Male,Erode,Tamil Nadu,Tamil,2022-12-21,Annual Ebook,0,0,dataset_1,7.0,7.0,1602.0,7.0,1267.0
+U0125,Guru Reddy,47.0,Female,Bhopal,Madhya Pradesh,English,2023-09-07,Annual Ebook,0,0,dataset_1,2.0,2.0,230.0,2.0,1007.0
+U0126, Asha Sharma ,28.0,Female,Kannur,Kerala,Malayalam,2019-12-27,Quarterly Ebook,2020-01-09,2020-04-08,dataset_1,3.0,3.0,971.0,2.9999999999999996,2357.0
+U0127,Padma Desai,51.0,Male,Kolkata,West Bengal,Hindi,2020-11-19,Annual Ebook,0,0,dataset_1,2.0,2.0,564.0,2.0,2029.0
+U0128,Meenakshi Menon,30.0,Female,Kozhikode,Kerala,Malayalam,2021-08-25,Annual Ebook,0,0,dataset_1,11.0,9.0,1694.0,10.399999999999999,1750.0
+U0129,Babu Venkatesh,41.0,Male,Tirunelveli,Tamil Nadu,Tamil,2024-01-13,Annual Ebook,2024-03-25,2025-03-25,dataset_1,8.0,8.0,1638.0,8.0,879.0
+U0130, Yuvan Das ,38.0,Female,Tiruchirappalli,Tamil Nadu,English,2023-12-17,Annual Ebook,2024-01-21,2025-01-20,dataset_1,1.0,1.0,0.0,1.0,906.0
+U0131,Bharati Nair,22.0,Male,Coimbatore,Tamil Nadu,Tamil,2019-11-11,Annual Ebook,2019-11-22,2020-11-21,dataset_1,1.0,1.0,0.0,1.0,2403.0
+U0132,Ramesh Prasad,47.0,Female,Mumbai,Maharashtra,English,2021-02-10,Annual Ebook,0,0,dataset_1,11.0,11.0,1201.0,11.0,1946.0
+U0133,Akash Mishra,21.0,Male,Kolkata,West Bengal,Telugu,2019-12-12,Quarterly Ebook,2020-01-03,0,dataset_1,3.0,3.0,439.0,2.9999999999999996,2372.0
+U0134,deepa balasubramanian,46.0,Female,Hubballi,Karnataka,Kannada,2023-05-06,Quarterly Ebook,2023-06-18,2023-09-16,dataset_1,1.0,1.0,0.0,1.0,1131.0
+U0135,Balaji Prasad,58.0,Female,Salem,Tamil Nadu,Tamil,2022-03-09,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,1554.0
+U0136,SURYA Prasad,39.0,Male,Hubballi,Karnataka,Kannada,2023-05-25,Annual Ebook,0,0,dataset_1,2.0,2.0,910.0,2.0,1112.0
+U0137,Ilaiyaraja Rao,42.0,Female,Tiruchirappalli,Tamil Nadu,Tamil,2024-11-26,Annual Ebook,0,0,dataset_1,3.0,3.0,1095.0,2.9999999999999996,561.0
+U0138,Parvathi Desai,19.0,Male,Vellore,Tamil Nadu,Tamil,2024-06-14,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,726.0
+U0139,Sunita Murugesan,68.0,Male,Kannur,Kerala,Malayalam,2019-06-04,Annual Ebook,2019-08-22,2020-08-21,dataset_1,2.0,2.0,1472.0,2.0,2563.0
+U0140,Venkat Prasad,28.0,Male,Vijayawada,Andhra Pradesh,Telugu,2019-06-28,Quarterly Ebook,2019-09-22,2019-12-21,dataset_1,1.0,1.0,0.0,1.0,2539.0
+U0141, Sathish Balasubramanian ,57.0,Male,Davangere,Karnataka,Kannada,2022-06-21,Audiobook Subscription,2022-08-20,2023-08-20,dataset_1,1.0,1.0,0.0,1.0,1450.0
+U0142,Mohan Singh,54.0,Other,Bengaluru,Karnataka,Kannada,2023-09-11,Audiobook Subscription,2023-10-06,2024-10-05,dataset_1,10.0,9.0,1386.0,9.7,1003.0
+U0143,AMUDHA Krishnan,21.0,Female,Pune,Maharashtra,English,2024-10-14,Audiobook Subscription,2024-11-19,2025-11-19,dataset_1,8.0,6.0,1228.0,7.3999999999999995,604.0
+U0144,Karthik Subramaniam,50.0,Male,Erode,Tamil Nadu,Tamil,2019-04-20,Quarterly Ebook,2019-06-09,2019-09-07,dataset_1,2.0,2.0,652.0,2.0,2608.0
+U0145,Rohan Singh,23.0,Male,Salem,Tamil Nadu,Tamil,2020-08-21,Annual Ebook,0,0,dataset_1,10.0,10.0,1764.0,10.0,2119.0
+U0146,Vijay Kaur,41.0,Female,Vijayawada,Andhra Pradesh,Telugu,2019-03-19,Annual Ebook,0,0,dataset_1,2.0,2.0,162.0,2.0,2640.0
+U0147, Bhavana Chaudhari ,56.0,Female,Bengaluru,Karnataka,Kannada,2019-07-15,Annual Ebook,0,0,dataset_1,3.0,3.0,282.0,2.9999999999999996,2522.0
+U0148,Meenakshi Rajput,25.0,Female,Nizamabad,Telangana,Telugu,2021-09-17,Annual Ebook,2021-10-24,2022-10-24,dataset_1,1.0,1.0,0.0,1.0,1727.0
+U0149,Praveen Kumar,33.0,Female,Kochi,Kerala,Malayalam,2023-01-17,Annual Ebook,0,0,dataset_1,12.0,10.0,1169.0,11.399999999999999,1240.0
+U0150,Chandra Pandey,50.0,Female,Hyderabad,Telangana,Telugu,2023-03-10,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,1188.0
+U0151,rahul gupta,40.0,Male,Salem,Tamil Nadu,Telugu,2022-09-23,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,1356.0
+U0152,Jayanthi Pandey,59.0,Male,Davangere,Karnataka,Kannada,2021-01-16,Audiobook Subscription,2021-01-24,2022-01-24,dataset_1,10.0,9.0,1738.0,9.7,1971.0
+U0153,Gomathi Patil,30.0,Male,Coimbatore,Tamil Nadu,Tamil,2024-10-12,Quarterly Ebook,2024-12-20,2025-03-20,dataset_1,10.0,10.0,1121.0,10.0,606.0
+U0154,Akash Chandrasekaran,59.0,Male,Thrissur,Kerala,Malayalam,2022-09-21,Annual Ebook,0,0,dataset_1,2.0,2.0,442.0,2.0,1358.0
+U0155,SHANTHI Desai,65.0,Male,Kolkata,West Bengal,Telugu,2024-07-25,Annual Ebook,2024-09-10,2025-09-10,dataset_1,2.0,2.0,285.0,2.0,685.0
+U0156,DEV Srinivasan,64.0,Male,Kannur,Kerala,Malayalam,2022-08-08,Annual Ebook,0,0,dataset_1,3.0,3.0,444.0,2.9999999999999996,1402.0
+U0157,Savitha Chatterjee,46.0,Female,Thiruvananthapuram,Kerala,Malayalam,2019-06-23,Annual Ebook,2019-08-07,2020-08-06,dataset_1,2.0,2.0,499.0,2.0,2544.0
+U0158,Ramesh Desai,68.0,Female,Guntur,Andhra Pradesh,Telugu,2020-10-17,Audiobook Subscription,2020-11-04,2021-11-04,dataset_1,6.0,6.0,1308.0,5.999999999999999,2062.0
+U0159,amudha ghosh,20.0,Male,Guntur,Andhra Pradesh,Telugu,2019-05-13,Annual Ebook,2019-08-07,2020-08-06,dataset_1,2.0,2.0,271.0,2.0,2585.0
+U0160,Radha Singh,66.0,Male,Kolkata,Karnataka,Kannada,2022-02-15,Annual Ebook,0,0,dataset_1,2.0,2.0,395.0,2.0,1576.0
+U0161,murugan sharma,49.0,Female,Pune,Maharashtra,Hindi,2021-12-02,Annual Ebook,2021-12-29,2022-12-29,dataset_1,1.0,1.0,0.0,1.0,1651.0
+U0162,Ramesh Raghunathan,49.0,Male,Madurai,Tamil Nadu,English,2023-12-29,Audiobook Subscription,2024-03-25,2025-03-25,dataset_1,1.0,1.0,0.0,1.0,894.0
+U0163,Dinesh Chatterjee,22.0,Female,Bengaluru,Karnataka,Kannada,2020-12-14,Annual Ebook,2021-02-17,2022-02-17,dataset_1,2.0,2.0,535.0,2.0,2004.0
+U0164, Ravi Menon ,68.0,Male,Chennai,Tamil Nadu,Tamil,2023-02-20,Quarterly Ebook,2023-05-01,2023-07-30,dataset_1,5.0,5.0,1110.0,5.0,1206.0
+U0165,VENKAT Rajput,22.0,Male,Lucknow,Uttar Pradesh,English,2023-08-05,Audiobook Subscription,2023-08-14,2024-08-13,dataset_1,3.0,3.0,1202.0,2.9999999999999996,1040.0
+U0166,Venkat Rajan,46.0,Male,Tiruchirappalli,Tamil Nadu,Tamil,2021-01-15,Annual Ebook,2021-01-31,2022-01-31,dataset_1,3.0,3.0,360.0,2.9999999999999996,1972.0
+U0167, Kamala Mishra ,21.0,Female,Bengaluru,Karnataka,English,2021-07-12,Annual Ebook,0,0,dataset_1,4.0,4.0,1314.0,4.0,1794.0
+U0168,DEV Raghunathan,34.0,Male,Jaipur,Rajasthan,Hindi,2022-05-25,Annual Ebook,2022-06-05,2023-06-05,dataset_1,1.0,1.0,0.0,1.0,1477.0
+U0169,Rohan Banerjee,55.0,Male,Kolkata,Kerala,Malayalam,2019-06-18,Audiobook Subscription,2019-06-21,2020-06-20,dataset_1,2.0,2.0,322.0,2.0,2549.0
+U0170, Karthik Reddy ,67.0,Female,Thrissur,Kerala,Malayalam,2019-05-05,Quarterly Ebook,2019-07-24,2019-10-22,dataset_1,3.0,3.0,465.0,2.9999999999999996,2593.0
+U0171,Vimala Raghunathan,37.0,Male,Bhopal,Madhya Pradesh,Hindi,2019-10-26,Annual Ebook,2019-11-15,2020-11-14,dataset_1,4.0,4.0,1966.0,4.0,2419.0
+U0172,Sundar Joshi,41.0,Male,Thiruvananthapuram,Kerala,Malayalam,2022-11-15,Audiobook Subscription,2022-12-01,2023-12-01,dataset_1,1.0,1.0,0.0,1.0,1303.0
+U0173,Indira Singh,24.0,Male,Thanjavur,Tamil Nadu,English,2020-02-01,Annual Ebook,0,0,dataset_1,6.0,6.0,689.0,5.999999999999999,2321.0
+U0174,Valli Rajput,28.0,Female,Kolkata,West Bengal,Hindi,2020-10-14,Quarterly Ebook,2020-12-18,2021-03-18,dataset_1,6.0,5.0,1394.0,5.699999999999999,2065.0
+U0175,SAROJA Agarwal,49.0,Male,Lucknow,Uttar Pradesh,Telugu,2021-05-31,Annual Ebook,2021-06-06,2022-06-06,dataset_1,3.0,3.0,1048.0,2.9999999999999996,1836.0
+U0176,Suresh Raghunathan,59.0,Female,Chennai,Tamil Nadu,Tamil,2021-12-19,Annual Ebook,2022-02-08,2023-02-08,dataset_1,10.0,10.0,1506.0,10.0,1634.0
+U0177,Balu Reddy,54.0,Female,Bengaluru,Karnataka,Kannada,2024-01-19,Annual Ebook,2024-02-23,2025-02-22,dataset_1,9.0,6.0,1595.0,8.1,873.0
+U0178,Kalai Ghosh,26.0,Other,Kollam,Kerala,Malayalam,2023-02-06,Annual Ebook,2023-03-03,2024-03-02,dataset_1,2.0,2.0,1354.0,2.0,1220.0
+U0179,Amudha Mishra,20.0,Male,Mysuru,Karnataka,Kannada,2020-09-02,Annual Ebook,2020-11-06,2021-11-06,dataset_1,12.0,12.0,1692.0,11.999999999999998,2107.0
+U0180, Sunita Rajan ,38.0,Male,Jaipur,Rajasthan,English,2024-09-08,Audiobook Subscription,2024-11-15,2025-11-15,dataset_1,5.0,5.0,613.0,5.0,640.0
+U0181,Nithin Chakraborty,48.0,Female,Kochi,Kerala,Malayalam,2022-06-14,Annual Ebook,2022-09-10,2023-09-10,dataset_1,1.0,1.0,0.0,1.0,1457.0
+U0182,Ajith Sharma,34.0,Female,Thrissur,Kerala,Malayalam,2019-07-30,Annual Ebook,2019-08-20,2020-08-19,dataset_1,7.0,6.0,1705.0,6.699999999999999,2507.0
+U0183,chandra das,41.0,Female,Kochi,Kerala,English,2020-03-26,Annual Ebook,0,0,dataset_1,6.0,6.0,863.0,5.999999999999999,2267.0
+U0184,Sundar Rajan,44.0,Female,Thrissur,Kerala,Malayalam,2019-09-13,Annual Ebook,2019-11-18,2020-11-17,dataset_1,12.0,10.0,1325.0,11.399999999999999,2462.0
+U0185,Prasad Chaudhari,60.0,Male,Tirunelveli,Tamil Nadu,Tamil,2022-11-03,Quarterly Ebook,2023-01-28,2023-04-28,dataset_1,10.0,7.0,1431.0,9.1,1315.0
+U0186,Anbu Ghosh,62.0,Male,Erode,Tamil Nadu,Tamil,2021-07-10,Audiobook Subscription,2021-08-17,0,dataset_1,0.0,0.0,0.0,0.0,1796.0
+U0187,anbu raghunathan,62.0,Female,Hubballi,Karnataka,Kannada,2022-01-25,Annual Ebook,0,0,dataset_1,4.0,3.0,770.0,3.6999999999999997,1597.0
+U0188,Selvi Ghosh,43.0,Female,Delhi,Delhi,Hindi,2022-03-24,Audiobook Subscription,2022-04-03,2023-04-03,dataset_1,1.0,1.0,0.0,1.0,1539.0
+U0189,Selvam Kulkarni,65.0,Male,Nizamabad,Telangana,Telugu,2022-01-17,Annual Ebook,0,0,dataset_1,8.0,6.0,757.0,7.3999999999999995,1605.0
+U0190,Ramesh Varma,21.0,Female,Guntur,Andhra Pradesh,English,2023-08-20,Annual Ebook,0,0,dataset_1,3.0,3.0,887.0,2.9999999999999996,1025.0
+U0191,Akash Iyer,26.0,Male,Tirunelveli,Tamil Nadu,Tamil,2024-05-02,Quarterly Ebook,2024-05-27,2024-08-25,dataset_1,2.0,2.0,891.0,2.0,769.0
+U0192,Sathya Raghunathan,59.0,Male,Guntur,Andhra Pradesh,English,2019-06-02,Audiobook Subscription,2019-06-24,2020-06-23,dataset_1,1.0,1.0,0.0,1.0,2565.0
+U0193, Nirmala Ramaswamy ,20.0,Other,Hyderabad,Telangana,Telugu,2022-03-31,Audiobook Subscription,2022-04-01,0,dataset_1,1.0,1.0,0.0,1.0,1532.0
+U0194,Sunil Naidu,39.0,Male,Lucknow,Uttar Pradesh,Tamil,2020-07-03,Audiobook Subscription,2020-08-31,2021-08-31,dataset_1,1.0,1.0,0.0,1.0,2168.0
+U0195,KRISHNA Venkatesh,39.0,Male,Thanjavur,Tamil Nadu,English,2022-10-12,Annual Ebook,2022-12-23,2023-12-23,dataset_1,1.0,1.0,0.0,1.0,1337.0
+U0196,Balaji Venkatesh,58.0,Female,Kolkata,West Bengal,Hindi,2020-01-26,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,2327.0
+U0197,Sunita Kaur,33.0,Male,Davangere,Karnataka,Telugu,2022-05-21,Annual Ebook,2022-08-02,2023-08-02,dataset_1,1.0,1.0,0.0,1.0,1481.0
+U0198,Priya Chandrasekaran,62.0,Male,Davangere,Karnataka,English,2024-08-20,Audiobook Subscription,2024-11-18,2025-11-18,dataset_1,11.0,9.0,1795.0,10.399999999999999,659.0
+U0199,Anbu Natarajan,58.0,Female,Vijayawada,Andhra Pradesh,English,2020-07-01,Quarterly Ebook,2020-08-28,2020-11-26,dataset_1,6.0,5.0,1502.0,5.699999999999999,2170.0
+U0200,Tamilarasi Prasad,62.0,Female,Nizamabad,Telangana,Telugu,2021-10-10,Annual Ebook,2021-12-25,2022-12-25,dataset_1,10.0,9.0,1957.0,9.7,1704.0
+U0201,Karthik Tiwari,63.0,Male,Pune,Maharashtra,Hindi,2024-09-01,Annual Ebook,0,0,dataset_1,3.0,3.0,88.0,2.9999999999999996,647.0
+U0202,Aditya Murugesan,51.0,Male,Kolkata,Kerala,Malayalam,2024-09-21,Quarterly Ebook,2024-09-28,2024-12-27,dataset_1,5.0,4.0,1346.0,4.7,627.0
+U0203,Vignesh Krishnan,47.0,Female,Kolkata,Kerala,Malayalam,2023-06-10,Annual Ebook,0,0,dataset_1,6.0,5.0,1065.0,5.699999999999999,1096.0
+U0204,Arjun Narayanan,20.0,Male,Nizamabad,Telangana,Telugu,2019-10-10,Audiobook Subscription,2019-12-09,0,dataset_1,1.0,1.0,0.0,1.0,2435.0
+U0205,Vikram Raghunathan,67.0,Male,Kozhikode,Kerala,Malayalam,2023-03-14,Audiobook Subscription,2023-05-01,2024-04-30,dataset_1,1.0,1.0,0.0,1.0,1184.0
+U0206,Radha Verma,41.0,Female,Delhi,Delhi,English,2022-11-25,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,1293.0
+U0207,Aditya Mehta,64.0,Other,Mumbai,Maharashtra,Telugu,2024-03-11,Annual Ebook,2024-05-19,2025-05-19,dataset_1,3.0,3.0,942.0,2.9999999999999996,821.0
+U0208,Praveen Pandey,32.0,Male,Thanjavur,Tamil Nadu,Tamil,2020-04-07,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,2255.0
+U0209,Surya Joshi,41.0,Male,Vijayawada,Andhra Pradesh,Telugu,2019-07-19,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,2518.0
+U0210,Deepa Mehta,52.0,Male,Mumbai,Maharashtra,Hindi,2022-03-30,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,1533.0
+U0211,Nandini Naidu,56.0,Female,Ahmedabad,Gujarat,Hindi,2020-08-09,Audiobook Subscription,2020-10-14,2021-10-14,dataset_1,1.0,1.0,0.0,1.0,2131.0
+U0212,Ravi Joshi,21.0,Female,Kozhikode,Kerala,Malayalam,2023-10-16,Annual Ebook,2023-10-22,2024-10-21,dataset_1,1.0,1.0,0.0,1.0,968.0
+U0213,Selvam Banerjee,68.0,Female,Belagavi,Karnataka,Kannada,2021-01-23,Annual Ebook,0,2022-03-24,dataset_1,1.0,1.0,0.0,1.0,1964.0
+U0214,Senthil Sundaram,63.0,Male,Coimbatore,Tamil Nadu,Tamil,2023-09-03,Annual Ebook,2023-09-20,2024-09-19,dataset_1,1.0,1.0,0.0,1.0,1011.0
+U0215,Valli Balasubramanian,39.0,Female,Kolkata,West Bengal,Hindi,2021-02-19,Annual Ebook,0,0,dataset_1,3.0,3.0,910.0,2.9999999999999996,1937.0
+U0216,Kumar Ghosh,20.0,Female,Thrissur,Kerala,Malayalam,2021-06-07,Quarterly Ebook,2021-07-19,2021-10-17,dataset_1,10.0,9.0,1546.0,9.7,1829.0
+U0217,Sunil Kumar,30.0,Female,Thrissur,Kerala,Malayalam,2021-04-17,Quarterly Ebook,2021-05-17,2021-08-15,dataset_1,2.0,2.0,115.0,2.0,1880.0
+U0218,siva rajan,42.0,Male,Bengaluru,Karnataka,Kannada,2024-07-29,Quarterly Ebook,2024-09-27,2024-12-26,dataset_1,2.0,2.0,560.0,2.0,681.0
+U0219, Indira Rajan ,41.0,Male,Erode,Tamil Nadu,English,2021-12-04,Annual Ebook,2022-02-16,2023-02-16,dataset_1,2.0,2.0,335.0,2.0,1649.0
+U0220,Deepak Joshi,30.0,Male,Kannur,Kerala,Malayalam,2022-10-14,Annual Ebook,0,0,dataset_1,2.0,2.0,789.0,2.0,1335.0
+U0221,nithin banerjee,47.0,Male,Tirunelveli,Tamil Nadu,Tamil,2024-06-23,Annual Ebook,0,0,dataset_1,11.0,11.0,1585.0,11.0,717.0
+U0222, Vimala Banerjee ,51.0,Male,Mumbai,Maharashtra,Tamil,2023-08-17,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,1028.0
+U0223,Ajith Sundaram,27.0,Male,Hubballi,Karnataka,Kannada,2024-06-02,Annual Ebook,2024-06-04,2025-06-04,dataset_1,2.0,2.0,380.0,2.0,738.0
+U0224,Arjun Pandey,18.0,Male,Nizamabad,Telangana,English,2023-10-30,Audiobook Subscription,2023-11-21,2024-11-20,dataset_1,2.0,2.0,106.0,2.0,954.0
+U0225,Pooja Iyer,33.0,Male,Kannur,Kerala,Malayalam,2023-06-14,Annual Ebook,0,0,dataset_1,10.0,8.0,1344.0,9.4,1092.0
+U0226,Asha Patil,62.0,Male,Madurai,Tamil Nadu,Tamil,,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,0.0
+U0227,Kumar Verma,21.0,Female,Madurai,Tamil Nadu,Tamil,2022-09-18,Annual Ebook,2022-09-30,2023-09-30,dataset_1,6.0,6.0,1701.0,5.999999999999999,1361.0
+U0228,Chandra Reddy,62.0,Female,Coimbatore,Tamil Nadu,Tamil,2022-02-22,Audiobook Subscription,2022-05-05,2023-05-05,dataset_1,10.0,10.0,1497.0,10.0,1569.0
+U0229,Surya Reddy,38.0,Male,Tiruchirappalli,Tamil Nadu,Tamil,2019-11-12,Annual Ebook,0,0,dataset_1,4.0,4.0,1559.0,4.0,2402.0
+U0230,Manoj Balasubramanian,42.0,Female,Mangaluru,Karnataka,English,2019-11-18,Quarterly Ebook,2020-01-01,2020-03-31,dataset_1,3.0,3.0,686.0,2.9999999999999996,2396.0
+U0231,Suresh Iyer,22.0,Male,Vijayawada,Andhra Pradesh,Telugu,2022-08-29,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,1381.0
+U0232,Krishna Kulkarni,40.0,Female,Tirunelveli,Tamil Nadu,Tamil,2023-04-06,Annual Ebook,0,0,dataset_1,3.0,3.0,1425.0,2.9999999999999996,1161.0
+U0233,kalai raghunathan,63.0,Male,Mangaluru,Karnataka,Kannada,2020-09-23,Annual Ebook,2020-11-02,2021-11-02,dataset_1,2.0,2.0,287.0,2.0,2086.0
+U0234,Balu Iyer,37.0,Male,Kolkata,Tamil Nadu,English,2023-11-01,Quarterly Ebook,2024-01-11,2024-04-10,dataset_1,3.0,3.0,670.0,2.9999999999999996,952.0
+U0235,Sumathi Joshi,23.0,Male,Vijayawada,Andhra Pradesh,Telugu,2019-02-20,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,2667.0
+U0236,valli rao,53.0,Female,Delhi,Delhi,English,2020-11-25,Annual Ebook,0,0,dataset_1,11.0,9.0,1511.0,10.399999999999999,2023.0
+U0237,Sunil Srinivasan,22.0,Male,Bengaluru,Karnataka,Kannada,2023-01-19,Annual Ebook,0,0,dataset_1,3.0,3.0,984.0,2.9999999999999996,1238.0
+U0238,Padma Das,41.0,Male,Bengaluru,Karnataka,Kannada,2022-09-22,Audiobook Subscription,2022-11-09,2023-11-09,dataset_1,1.0,1.0,0.0,1.0,1357.0
+U0239,Mani Kulkarni,70.0,Female,Vijayawada,Andhra Pradesh,Telugu,2021-04-02,Quarterly Ebook,2021-04-24,2021-07-23,dataset_1,9.0,5.0,1531.0,7.8,1895.0
+U0240,Ashwin Rajan,62.0,Female,Ahmedabad,Gujarat,Hindi,2022-02-22,Audiobook Subscription,2022-04-13,2023-04-13,dataset_1,2.0,2.0,862.0,2.0,1569.0
+U0241, Balu Menon ,30.0,Female,Kochi,Kerala,English,2024-03-05,Audiobook Subscription,2024-03-31,2025-03-31,dataset_1,1.0,1.0,0.0,1.0,827.0
+U0242,SUNDAR Raghunathan,22.0,Female,Belagavi,Karnataka,Kannada,2022-05-25,Annual Ebook,0,0,dataset_1,3.0,3.0,518.0,2.9999999999999996,1477.0
+U0243,surya murugesan,68.0,Male,Vijayawada,Andhra Pradesh,Telugu,2024-12-28,Quarterly Ebook,2025-03-26,2025-06-24,dataset_1,6.0,5.0,818.0,5.699999999999999,529.0
+U0244,Nirmala Pandey,41.0,Female,Pune,Maharashtra,Telugu,2021-10-13,Annual Ebook,2021-11-27,2022-11-27,dataset_1,2.0,2.0,179.0,2.0,1701.0
+U0245,Revathi Banerjee,41.0,Other,Mangaluru,Karnataka,Kannada,2023-10-30,Annual Ebook,0,0,dataset_1,11.0,9.0,1450.0,10.399999999999999,954.0
+U0246,Srinivas Chandrasekaran,65.0,Female,Visakhapatnam,Andhra Pradesh,Telugu,2023-05-22,Quarterly Ebook,2023-08-16,2023-11-14,dataset_1,1.0,1.0,0.0,1.0,1115.0
+U0247,Bharati Bose,40.0,Other,Bengaluru,Karnataka,Telugu,2019-12-18,Annual Ebook,0,0,dataset_1,7.0,7.0,1444.0,7.0,2366.0
+U0248,Nandini Murugesan,39.0,Male,Kolkata,Telangana,Telugu,2023-11-30,Annual Ebook,2024-01-26,2025-01-25,dataset_1,1.0,1.0,0.0,1.0,923.0
+U0249,Dinesh Pillai,69.0,Female,Mysuru,Karnataka,English,2020-11-04,Audiobook Subscription,2020-12-05,2021-12-05,dataset_1,11.0,9.0,1716.0,10.399999999999999,2044.0
+U0250,Dev Ramaswamy,39.0,Female,Ahmedabad,Gujarat,Tamil,2021-01-25,Annual Ebook,0,0,dataset_1,3.0,3.0,785.0,2.9999999999999996,1962.0
+U0251,Surya Desai,65.0,Female,Visakhapatnam,Andhra Pradesh,Telugu,2021-05-29,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,1838.0
+U0252,SATHYA Chakraborty,22.0,Female,Nizamabad,Telangana,Telugu,2021-03-18,Quarterly Ebook,2021-04-20,2021-07-19,dataset_1,1.0,1.0,0.0,1.0,1910.0
+U0253,Parvathi Agarwal,58.0,Male,Mangaluru,Karnataka,Telugu,2022-12-12,Audiobook Subscription,2023-03-01,2024-02-29,dataset_1,3.0,3.0,983.0,2.9999999999999996,1276.0
+U0254,harish ghosh,37.0,Female,Kochi,Kerala,Malayalam,2021-09-04,Annual Ebook,0,0,dataset_1,11.0,7.0,1791.0,9.799999999999999,1740.0
+U0255,Saranya Singh,50.0,Male,Visakhapatnam,Andhra Pradesh,Telugu,2024-06-16,Annual Ebook,2024-09-12,2025-09-12,dataset_1,2.0,2.0,677.0,2.0,724.0
+U0256,Yuvan Ramaswamy,49.0,Male,Kannur,Kerala,Malayalam,2023-01-10,Audiobook Subscription,2023-03-13,2024-03-12,dataset_1,8.0,8.0,1641.0,8.0,1247.0
+U0257,SUNITA Venkatesh,53.0,Female,Kochi,Kerala,Malayalam,2023-12-24,Quarterly Ebook,2024-01-03,2024-04-02,dataset_1,1.0,1.0,0.0,1.0,899.0
+U0258,manoj sharma,32.0,Male,Nizamabad,Telangana,English,2024-02-17,Annual Ebook,2024-04-20,2025-04-20,dataset_1,1.0,1.0,0.0,1.0,844.0
+U0259,Siva Mishra,25.0,Male,Hubballi,Karnataka,Kannada,2019-06-20,Annual Ebook,2019-08-15,2020-08-14,dataset_1,9.0,9.0,1530.0,9.0,2547.0
+U0260, Vimala Narayanan ,24.0,Female,Erode,Tamil Nadu,Tamil,2019-05-13,Quarterly Ebook,2019-06-26,2019-09-24,dataset_1,1.0,1.0,0.0,1.0,2585.0
+U0261,LAKSHMI Kulkarni,25.0,Female,Kollam,Kerala,Malayalam,2022-12-07,Audiobook Subscription,2023-02-23,2024-02-23,dataset_1,1.0,1.0,0.0,1.0,1281.0
+U0262,Ajith Desai,26.0,Female,Mumbai,Maharashtra,English,,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,0.0
+U0263,Aditya Subramaniam,63.0,Male,Warangal,Telangana,Telugu,2020-07-09,Audiobook Subscription,2020-08-30,2021-08-30,dataset_1,10.0,8.0,1529.0,9.4,2162.0
+U0264,KAVITHA Srinivasan,26.0,Female,Tiruchirappalli,Tamil Nadu,Tamil,2021-10-10,Annual Ebook,2022-01-04,2023-01-04,dataset_1,2.0,2.0,975.0,2.0,1704.0
+U0265,Ashwin Agarwal,58.0,Male,Kolkata,Karnataka,Kannada,2020-01-17,Quarterly Ebook,2020-02-21,2020-05-21,dataset_1,3.0,2.0,783.0,2.6999999999999997,2336.0
+U0266,Karthi Singh,49.0,Male,Thrissur,Kerala,English,2024-02-21,Annual Ebook,2024-05-20,2025-05-20,dataset_1,1.0,1.0,0.0,1.0,840.0
+U0267,jayanthi pillai,43.0,Male,Vellore,Tamil Nadu,Tamil,2022-03-07,Annual Ebook,0,0,dataset_1,9.0,9.0,1556.0,9.0,1556.0
+U0268,Selvi Krishnan,49.0,Female,Mumbai,Maharashtra,Hindi,2024-02-26,Annual Ebook,0,0,dataset_1,5.0,5.0,2154.0,5.0,835.0
+U0269,Ganesh Kulkarni,45.0,Male,Tiruchirappalli,Tamil Nadu,Tamil,2022-01-27,Annual Ebook,0,0,dataset_1,7.0,6.0,960.0,6.699999999999999,1595.0
+U0270,Balu Chandrasekaran,60.0,Female,Mangaluru,Karnataka,Kannada,2021-08-17,Quarterly Ebook,2021-08-28,2021-11-26,dataset_1,12.0,9.0,1513.0,11.099999999999998,1758.0
+U0271,Ilaiyaraja Iyer,48.0,Male,Warangal,Telangana,Telugu,2019-02-03,Annual Ebook,2019-02-18,2020-02-18,dataset_1,3.0,3.0,1703.0,2.9999999999999996,2684.0
+U0272,Praveen Bose,22.0,Male,Kollam,Kerala,English,2023-02-14,Audiobook Subscription,2023-03-03,2024-03-02,dataset_1,1.0,1.0,0.0,1.0,1212.0
+U0273,Kumar Krishnan,61.0,Male,Chennai,Tamil Nadu,Tamil,2023-12-08,Quarterly Ebook,2024-01-04,2024-04-03,dataset_1,2.0,2.0,25.0,2.0,915.0
+U0274, Ajith Murugesan ,57.0,Female,Kolkata,Maharashtra,Tamil,2020-07-27,Annual Ebook,2020-10-10,2021-10-10,dataset_1,3.0,3.0,269.0,2.9999999999999996,2144.0
+U0275,Nandini Verma,45.0,Male,Thanjavur,Tamil Nadu,English,2022-03-13,Annual Ebook,2022-06-09,2023-06-09,dataset_1,7.0,6.0,1186.0,6.699999999999999,1550.0
+U0276,ANANYA Chatterjee,31.0,Female,Kozhikode,Kerala,Malayalam,2019-08-12,Annual Ebook,2019-09-11,2020-09-10,dataset_1,6.0,6.0,1402.0,5.999999999999999,2494.0
+U0277,Anitha Verma,49.0,Female,Chennai,Tamil Nadu,Tamil,2020-06-24,Quarterly Ebook,2020-09-04,2020-12-03,dataset_1,2.0,2.0,154.0,2.0,2177.0
+U0278,Nirmala Singh,29.0,Female,Pune,Maharashtra,Hindi,2019-10-04,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,2441.0
+U0279, Sowmya Reddy ,68.0,Male,Thiruvananthapuram,Kerala,Malayalam,2023-10-01,Annual Ebook,2023-10-11,2024-10-10,dataset_1,1.0,1.0,0.0,1.0,983.0
+U0280,Meenakshi Pandey,27.0,Male,Warangal,Telangana,Telugu,2020-09-28,Quarterly Ebook,2020-11-17,2021-02-15,dataset_1,11.0,10.0,1578.0,10.7,2081.0
+U0281,bharati das,59.0,Female,Thiruvananthapuram,Kerala,Telugu,2021-09-04,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,1740.0
+U0282,Lakshmi Desai,57.0,Female,Kozhikode,Kerala,Malayalam,2020-05-04,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,2228.0
+U0283,Sunita Bose,49.0,Female,Kollam,Kerala,Malayalam,2023-03-04,Annual Ebook,0,0,dataset_1,12.0,10.0,1828.0,11.399999999999999,1194.0
+U0284,prema srinivasan,25.0,Female,Kolkata,Kerala,Malayalam,2019-09-19,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,2456.0
+U0285,Selvi Das,47.0,Female,Visakhapatnam,Andhra Pradesh,Telugu,2021-11-10,Annual Ebook,2022-01-22,2023-01-22,dataset_1,3.0,3.0,1335.0,2.9999999999999996,1673.0
+U0286,Balaji Menon,41.0,Male,Mumbai,Maharashtra,Hindi,2024-04-16,Quarterly Ebook,2024-05-05,2024-08-03,dataset_1,2.0,2.0,90.0,2.0,785.0
+U0287,Harish Reddy,63.0,Female,Mysuru,Karnataka,Kannada,2022-08-03,Annual Ebook,0,0,dataset_1,6.0,5.0,674.0,5.699999999999999,1407.0
+U0288,Meena Naidu,50.0,Female,Erode,Tamil Nadu,Tamil,2023-07-01,Annual Ebook,0,0,dataset_1,10.0,10.0,1141.0,10.0,1075.0
+U0289,saroja raghunathan,37.0,Male,Kolkata,Tamil Nadu,English,2022-05-29,Annual Ebook,2022-06-29,2023-06-29,dataset_1,1.0,1.0,0.0,1.0,1473.0
+U0290,Saroja Singh,49.0,Other,Kozhikode,Kerala,Malayalam,2021-10-01,Annual Ebook,0,0,dataset_1,3.0,2.0,1320.0,2.6999999999999997,1713.0
+U0291,Naveen Sharma,41.0,Female,Chennai,Tamil Nadu,English,2023-03-22,Audiobook Subscription,2023-04-30,2024-04-29,dataset_1,1.0,1.0,0.0,1.0,1176.0
+U0292,Pooja Narayanan,41.0,Male,Delhi,Delhi,English,2020-01-17,Annual Ebook,0,0,dataset_1,3.0,3.0,934.0,2.9999999999999996,2336.0
+U0293,Uma Tiwari,41.0,Male,Visakhapatnam,Andhra Pradesh,Telugu,2023-06-04,Annual Ebook,0,0,dataset_1,7.0,6.0,1114.0,6.699999999999999,1102.0
+U0294,Manoj Nair,26.0,Male,Mysuru,Karnataka,Kannada,2022-08-29,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,1381.0
+U0295,Krishna Sundaram,30.0,Male,Salem,Tamil Nadu,English,2024-01-16,Quarterly Ebook,0,2024-06-06,dataset_1,8.0,7.0,767.0,7.699999999999999,876.0
+U0296,Divya Pandey,67.0,Male,Thanjavur,Tamil Nadu,English,2022-05-31,Audiobook Subscription,0,2023-08-28,dataset_1,1.0,1.0,0.0,1.0,1471.0
+U0297,Amudha Reddy,41.0,Male,Hubballi,Karnataka,Kannada,2022-05-09,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,1493.0
+U0298, Harish Sharma ,46.0,Female,Salem,Tamil Nadu,English,2020-07-26,Annual Ebook,0,0,dataset_1,11.0,9.0,1661.0,10.399999999999999,2145.0
+U0299,Kavitha Sundaram,70.0,Male,Guntur,Andhra Pradesh,Telugu,2021-11-26,Audiobook Subscription,2021-12-05,2022-12-05,dataset_1,10.0,9.0,1515.0,9.7,1657.0
+U0300,Rahul Pillai,59.0,Male,Kannur,Kerala,Telugu,2024-03-03,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,829.0
+U0301,SELVI Desai,43.0,Male,Kolkata,Karnataka,Kannada,2021-02-05,Annual Ebook,0,0,dataset_1,3.0,3.0,1519.0,2.9999999999999996,1951.0
+U0302,Radha Murugesan,57.0,Female,Hyderabad,Telangana,Telugu,2024-05-16,Annual Ebook,0,0,dataset_1,5.0,5.0,1309.0,5.0,755.0
+U0303,Hema Verma,30.0,Female,Erode,Tamil Nadu,Tamil,2019-03-21,Audiobook Subscription,2019-05-05,2020-05-04,dataset_1,3.0,3.0,297.0,2.9999999999999996,2638.0
+U0304,sangeetha pandey,40.0,Female,Mangaluru,Karnataka,English,2022-07-30,Annual Ebook,2022-08-02,2023-08-02,dataset_1,1.0,1.0,0.0,1.0,1411.0
+U0305,Prema Srinivasan,48.0,Female,Erode,Tamil Nadu,English,2021-09-14,Annual Ebook,0,0,dataset_1,2.0,2.0,1404.0,2.0,1730.0
+U0306,guru nair,32.0,Female,Bhopal,Madhya Pradesh,Hindi,2020-12-12,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,2006.0
+U0307,BHARATI Rajan,62.0,Male,Thiruvananthapuram,Kerala,Malayalam,2020-08-05,Annual Ebook,2020-08-29,2021-08-29,dataset_1,5.0,5.0,1432.0,5.0,2135.0
+U0308,Anitha Pandey,49.0,Male,Vijayawada,Andhra Pradesh,English,2024-05-11,Annual Ebook,0,0,dataset_1,5.0,5.0,889.0,5.0,760.0
+U0309,RAMESH Venkatesh,39.0,Female,Kolkata,West Bengal,Hindi,2020-08-28,Annual Ebook,2020-09-15,2021-09-15,dataset_1,11.0,8.0,1264.0,10.1,2112.0
+U0310,PREMA Menon,41.0,Female,Kochi,Kerala,Malayalam,2022-10-10,Annual Ebook,0,0,dataset_1,9.0,7.0,1417.0,8.4,1339.0
+U0311,sunita subramaniam,45.0,Female,Kolkata,West Bengal,Hindi,2023-01-01,Annual Ebook,0,0,dataset_1,12.0,10.0,1673.0,11.399999999999999,1256.0
+U0312,Bharati Ramaswamy,64.0,Female,Kozhikode,Kerala,Malayalam,2023-05-23,Audiobook Subscription,2023-08-03,2024-08-02,dataset_1,6.0,4.0,930.0,5.3999999999999995,1114.0
+U0313,Vikram Ramaswamy,41.0,Female,Visakhapatnam,Andhra Pradesh,Telugu,2020-07-30,Annual Ebook,0,0,dataset_1,10.0,9.0,1000.0,9.7,2141.0
+U0314,Meena Balasubramanian,38.0,Male,Pune,Maharashtra,Telugu,2022-10-07,Quarterly Ebook,2022-11-09,2023-02-07,dataset_1,3.0,3.0,1663.0,2.9999999999999996,1342.0
+U0315,Prasad Balasubramanian,40.0,Male,Chennai,Tamil Nadu,Tamil,2023-09-15,Audiobook Subscription,2023-11-06,2024-11-05,dataset_1,6.0,5.0,1088.0,5.699999999999999,999.0
+U0316,Anitha Verma,42.0,Male,Visakhapatnam,Andhra Pradesh,Telugu,2021-07-12,Annual Ebook,0,0,dataset_1,9.0,5.0,1373.0,7.8,1794.0
+U0317,Meena Reddy,38.0,Male,Mysuru,Karnataka,Kannada,2020-10-21,Annual Ebook,2020-12-30,2021-12-30,dataset_1,2.0,2.0,134.0,2.0,2058.0
+U0318,Lakshmi Patel,57.0,Female,Belagavi,Karnataka,English,2023-11-14,Annual Ebook,0,0,dataset_1,2.0,2.0,692.0,2.0,939.0
+U0319,Srinivas Patel,30.0,Male,Kozhikode,Kerala,Malayalam,2022-02-27,Annual Ebook,0,0,dataset_1,7.0,6.0,1631.0,6.699999999999999,1564.0
+U0320,Srinivas Nair,53.0,Female,Hubballi,Karnataka,Kannada,2022-04-21,Audiobook Subscription,2022-07-10,2023-07-10,dataset_1,1.0,1.0,0.0,1.0,1511.0
+U0321,Gopal Kaur,19.0,Male,Madurai,Tamil Nadu,Tamil,2022-06-17,Annual Ebook,2022-08-16,2023-08-16,dataset_1,7.0,4.0,1535.0,6.1,1454.0
+U0322,Nithin Chatterjee,59.0,Male,Mangaluru,Karnataka,English,2019-07-02,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,2535.0
+U0323,Saroja Chandrasekaran,35.0,Female,Thiruvananthapuram,Kerala,English,2022-11-09,Audiobook Subscription,2022-12-31,2023-12-31,dataset_1,8.0,8.0,1146.0,8.0,1309.0
+U0324,Sathya Varma,21.0,Female,Bhopal,Madhya Pradesh,Telugu,2024-04-28,Annual Ebook,2024-05-28,2025-05-28,dataset_1,1.0,1.0,0.0,1.0,773.0
+U0325,Akash Natarajan,63.0,Male,Warangal,Telangana,Telugu,2020-08-26,Annual Ebook,0,0,dataset_1,3.0,3.0,760.0,2.9999999999999996,2114.0
+U0326,Sathya Kulkarni,28.0,Other,Delhi,Delhi,Hindi,2019-11-17,Audiobook Subscription,2020-01-11,2021-01-10,dataset_1,5.0,4.0,770.0,4.7,2397.0
+U0327,Nithya Das,56.0,Male,Pune,Maharashtra,Hindi,2023-06-16,Annual Ebook,2023-07-21,2024-07-20,dataset_1,9.0,7.0,1748.0,8.4,1090.0
+U0328, Dev Patil ,18.0,Female,Warangal,Telangana,English,2020-09-04,Annual Ebook,0,0,dataset_1,3.0,3.0,1074.0,2.9999999999999996,2105.0
+U0329,bharati varma,24.0,Female,Salem,Tamil Nadu,Tamil,2022-11-09,Audiobook Subscription,2022-12-12,2023-12-12,dataset_1,1.0,1.0,0.0,1.0,1309.0
+U0330,Valli Banerjee,56.0,Male,Mangaluru,Karnataka,Kannada,2023-07-04,Annual Ebook,0,0,dataset_1,2.0,2.0,1324.0,2.0,1072.0
+U0331,Mani Bose,65.0,Male,Hubballi,Karnataka,Kannada,2022-05-26,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,1476.0
+U0332,Nithin Bose,32.0,Male,Lucknow,Uttar Pradesh,Tamil,2022-08-07,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,1403.0
+U0333,Nirmala Prasad,41.0,Male,Bhopal,Madhya Pradesh,English,2024-10-16,Audiobook Subscription,2024-10-23,2025-10-23,dataset_1,1.0,1.0,0.0,1.0,602.0
+U0334,Sumathi Subramaniam,63.0,Female,Warangal,Telangana,English,2021-02-28,Audiobook Subscription,2021-03-25,2022-03-25,dataset_1,1.0,1.0,0.0,1.0,1928.0
+U0335,Kavitha Balasubramanian,21.0,Female,Thanjavur,Tamil Nadu,Tamil,2024-08-30,Quarterly Ebook,2024-09-14,2024-12-13,dataset_1,7.0,7.0,1351.0,7.0,649.0
+U0336,Brindha Sharma,49.0,Female,Hyderabad,Telangana,Telugu,2022-11-11,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,1307.0
+U0337,Geetha Bose,19.0,Male,Visakhapatnam,Andhra Pradesh,Telugu,2021-07-11,Annual Ebook,2021-08-14,2022-08-14,dataset_1,2.0,2.0,709.0,2.0,1795.0
+U0338,Mythili Joshi,67.0,Female,Hyderabad,Telangana,Telugu,2019-02-04,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,2683.0
+U0339,amudha natarajan,63.0,Female,Mangaluru,Karnataka,Kannada,2021-06-12,Quarterly Ebook,2021-09-06,2021-12-05,dataset_1,4.0,3.0,1760.0,3.6999999999999997,1824.0
+U0340,Dev Rajput,24.0,Male,Kolkata,West Bengal,English,2022-03-03,Annual Ebook,0,0,dataset_1,2.0,2.0,1249.0,2.0,1560.0
+U0341,Pooja Kaur,35.0,Male,Jaipur,Rajasthan,English,2022-05-08,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,1494.0
+U0342,DEV Balasubramanian,69.0,Female,Bhopal,Madhya Pradesh,English,2020-07-27,Annual Ebook,2020-10-18,2021-10-18,dataset_1,1.0,1.0,0.0,1.0,2144.0
+U0343,Anitha Raghunathan,44.0,Male,Visakhapatnam,Andhra Pradesh,Telugu,2021-02-16,Annual Ebook,0,0,dataset_1,3.0,3.0,789.0,2.9999999999999996,1940.0
+U0344,Gomathi Sundaram,58.0,Female,Kolkata,West Bengal,English,2020-11-27,Audiobook Subscription,2021-02-06,2022-02-06,dataset_1,1.0,1.0,0.0,1.0,2021.0
+U0345,Saranya Raghunathan,26.0,Female,Nizamabad,Telangana,Telugu,2022-10-06,Annual Ebook,2022-11-03,2023-11-03,dataset_1,2.0,2.0,834.0,2.0,1343.0
+U0346,jayanthi sundaram,37.0,Male,Kolkata,West Bengal,Hindi,2022-04-19,Quarterly Ebook,2022-05-04,2022-08-02,dataset_1,1.0,1.0,0.0,1.0,1513.0
+U0347,AKASH Nair,55.0,Female,Hyderabad,Telangana,Telugu,2023-04-13,Quarterly Ebook,2023-06-04,2023-09-02,dataset_1,1.0,1.0,0.0,1.0,1154.0
+U0348,Suresh Murugesan,30.0,Male,Lucknow,Uttar Pradesh,Hindi,2021-01-08,Annual Ebook,2021-03-11,2022-03-11,dataset_1,2.0,2.0,904.0,2.0,1979.0
+U0349, Mani Das ,38.0,Female,Thanjavur,Tamil Nadu,Tamil,2020-11-21,Annual Ebook,2020-12-11,2021-12-11,dataset_1,9.0,9.0,1564.0,9.0,2027.0
+U0350,Nithin Rao,45.0,Female,Hyderabad,Telangana,English,2024-12-26,Annual Ebook,0,0,dataset_1,10.0,10.0,1622.0,10.0,531.0
+U0351,SHANTHI Kumar,66.0,Female,Kochi,Kerala,Malayalam,2021-10-16,Annual Ebook,0,0,dataset_1,3.0,3.0,1483.0,2.9999999999999996,1698.0
+U0352,Selvam Natarajan,42.0,Female,Madurai,Tamil Nadu,Tamil,2022-04-06,Quarterly Ebook,2022-06-11,2022-09-09,dataset_1,2.0,2.0,1045.0,2.0,1526.0
+U0353,Gopal Tiwari,61.0,Other,Hyderabad,Telangana,Telugu,2020-11-06,Audiobook Subscription,2020-12-27,2021-12-27,dataset_1,9.0,7.0,1594.0,8.4,2042.0
+U0354,Rahul Sundaram,26.0,Male,Warangal,Telangana,English,2019-06-03,Quarterly Ebook,2019-08-23,2019-11-21,dataset_1,3.0,3.0,834.0,2.9999999999999996,2564.0
+U0355,Babu Pandey,56.0,Other,Guntur,Andhra Pradesh,English,2020-04-19,Quarterly Ebook,2020-06-06,2020-09-04,dataset_1,2.0,2.0,1076.0,2.0,2243.0
+U0356,Divya Chaudhari,62.0,Male,Guntur,Andhra Pradesh,Telugu,2020-02-18,Annual Ebook,2020-03-23,2021-03-23,dataset_1,1.0,1.0,0.0,1.0,2304.0
+U0357,kalai prasad,41.0,Male,Kozhikode,Kerala,English,2020-04-11,Annual Ebook,2020-06-13,2021-06-13,dataset_1,1.0,1.0,0.0,1.0,2251.0
+U0358,Nithya Prasad,34.0,Female,Kolkata,West Bengal,English,2022-04-24,Annual Ebook,0,0,dataset_1,3.0,3.0,266.0,2.9999999999999996,1508.0
+U0359, Siva Agarwal ,62.0,Female,Chennai,Tamil Nadu,Tamil,2020-03-28,Audiobook Subscription,2020-06-21,0,dataset_1,6.0,6.0,1175.0,5.999999999999999,2265.0
+U0360, Anitha Murugesan ,67.0,Female,Salem,Tamil Nadu,Tamil,2024-02-14,Audiobook Subscription,2024-03-22,2025-03-22,dataset_1,1.0,1.0,0.0,1.0,847.0
+U0361,Geetha Patil,70.0,Male,Bengaluru,Karnataka,Kannada,2022-07-04,Quarterly Ebook,0,2022-10-16,dataset_1,3.0,3.0,891.0,2.9999999999999996,1437.0
+U0362,Srinivas Reddy,26.0,Female,Hubballi,Karnataka,Kannada,2022-01-03,Audiobook Subscription,2022-01-14,2023-01-14,dataset_1,1.0,1.0,0.0,1.0,1619.0
+U0363,Shanthi Patel,43.0,Male,Kannur,Kerala,Malayalam,2024-05-12,Annual Ebook,2024-08-03,2025-08-03,dataset_1,6.0,6.0,1718.0,5.999999999999999,759.0
+U0364,Revathi Menon,64.0,Male,Delhi,Delhi,Hindi,2024-05-31,Audiobook Subscription,2024-08-25,2025-08-25,dataset_1,3.0,3.0,1088.0,2.9999999999999996,740.0
+U0365,Sundar Ramaswamy,67.0,Male,Kochi,Kerala,Malayalam,2020-06-19,Quarterly Ebook,2020-08-20,2020-11-18,dataset_1,6.0,5.0,1262.0,5.699999999999999,2182.0
+U0366,Murugan Joshi,22.0,Male,Thiruvananthapuram,Kerala,Malayalam,2021-07-06,Audiobook Subscription,2021-09-29,2022-09-29,dataset_1,1.0,1.0,0.0,1.0,1800.0
+U0367,Thenmozhi Tiwari,62.0,Female,Kozhikode,Kerala,Malayalam,2023-04-26,Annual Ebook,0,0,dataset_1,3.0,3.0,987.0,2.9999999999999996,1141.0
+U0368,Vasantha Rajput,59.0,Female,Hyderabad,Telangana,Telugu,2019-11-03,Annual Ebook,2019-12-14,2020-12-13,dataset_1,1.0,1.0,0.0,1.0,2411.0
+U0369, Senthil Patel ,21.0,Female,Mangaluru,Karnataka,Kannada,2019-11-19,Quarterly Ebook,2020-01-31,2020-04-30,dataset_1,1.0,1.0,0.0,1.0,2395.0
+U0370,RADHA Rao,46.0,Male,Mumbai,Maharashtra,Hindi,2023-08-16,Annual Ebook,0,0,dataset_1,3.0,3.0,1180.0,2.9999999999999996,1029.0
+U0371,SIVA Kumar,68.0,Female,Bengaluru,Karnataka,Kannada,2024-02-12,Audiobook Subscription,2024-03-29,2025-03-29,dataset_1,8.0,6.0,1723.0,7.3999999999999995,849.0
+U0372,SURESH Sundaram,41.0,Female,Hyderabad,Telangana,Telugu,2024-01-28,Annual Ebook,0,0,dataset_1,3.0,3.0,521.0,2.9999999999999996,864.0
+U0373,Indira Chatterjee,39.0,Male,Kollam,Kerala,Malayalam,2023-03-12,Annual Ebook,2023-03-17,2024-03-16,dataset_1,9.0,8.0,1562.0,8.7,1186.0
+U0374,Revathi Agarwal,63.0,Female,Thanjavur,Tamil Nadu,English,2020-05-09,Audiobook Subscription,2020-06-28,2021-06-28,dataset_1,10.0,9.0,1325.0,9.7,2223.0
+U0375,SOWMYA Patil,30.0,Male,Belagavi,Karnataka,Kannada,2020-05-19,Annual Ebook,2020-07-15,2021-07-15,dataset_1,1.0,1.0,0.0,1.0,2213.0
+U0376,Vignesh Chatterjee,50.0,Male,Warangal,Telangana,English,2023-11-08,Audiobook Subscription,2024-01-08,2025-01-07,dataset_1,11.0,8.0,1773.0,10.1,945.0
+U0377,Sumathi Ramaswamy,29.0,Female,Mangaluru,Karnataka,Kannada,2022-08-11,Quarterly Ebook,2022-09-29,2022-12-28,dataset_1,1.0,1.0,0.0,1.0,1399.0
+U0378, Nirmala Prasad ,41.0,Male,Mysuru,Karnataka,Kannada,2020-06-30,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,2171.0
+U0379,AMUDHA Bose,50.0,Male,Mysuru,Karnataka,Kannada,2021-06-09,Annual Ebook,0,0,dataset_1,2.0,2.0,49.0,2.0,1827.0
+U0380,Kalai Chakraborty,40.0,Female,Thiruvananthapuram,Kerala,Malayalam,2020-12-29,Quarterly Ebook,2021-03-27,2021-06-25,dataset_1,1.0,1.0,0.0,1.0,1989.0
+U0381,meenakshi rajan,66.0,Male,Visakhapatnam,Andhra Pradesh,Telugu,2024-12-26,Annual Ebook,0,0,dataset_1,2.0,2.0,1271.0,2.0,531.0
+U0382,Praveen Kumar,19.0,Male,Coimbatore,Tamil Nadu,Tamil,2020-10-21,Audiobook Subscription,2021-01-16,2022-01-16,dataset_1,1.0,1.0,0.0,1.0,2058.0
+U0383,BABU Murugesan,62.0,Male,Nizamabad,Telangana,Telugu,2024-01-28,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,864.0
+U0384,BALAJI Chaudhari,65.0,Female,Warangal,Telangana,Telugu,2019-07-12,Audiobook Subscription,2019-08-30,2020-08-29,dataset_1,1.0,1.0,0.0,1.0,2525.0
+U0385,Nirmala Ghosh,53.0,Male,Vellore,Tamil Nadu,Tamil,2023-12-20,Audiobook Subscription,2024-03-10,2025-03-10,dataset_1,1.0,1.0,0.0,1.0,903.0
+U0386,Ilaiyaraja Chakraborty,66.0,Female,Vellore,Tamil Nadu,Tamil,2022-04-19,Quarterly Ebook,2022-07-15,2022-10-13,dataset_1,3.0,3.0,1447.0,2.9999999999999996,1513.0
+U0387, Meena Ramaswamy ,65.0,Female,Belagavi,Karnataka,Telugu,2020-06-16,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,2185.0
+U0388,Babu Kumar,63.0,Female,Mysuru,Karnataka,English,2022-05-18,Quarterly Ebook,2022-07-30,2022-10-28,dataset_1,1.0,1.0,0.0,1.0,1484.0
+U0389,Siva Gupta,63.0,Male,Tirunelveli,Tamil Nadu,English,2024-08-31,Annual Ebook,0,0,dataset_1,3.0,3.0,858.0,2.9999999999999996,648.0
+U0390,Vimala Pandey,40.0,Male,Mysuru,Karnataka,Kannada,2021-06-13,Audiobook Subscription,2021-08-31,2022-08-31,dataset_1,7.0,7.0,1183.0,7.0,1823.0
+U0391, Chandra Kaur ,70.0,Female,Salem,Tamil Nadu,Tamil,2021-09-11,Audiobook Subscription,2021-11-28,2022-11-28,dataset_1,2.0,2.0,1162.0,2.0,1733.0
+U0392, Kalai Balasubramanian ,61.0,Female,Kollam,Kerala,Malayalam,2022-03-04,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,1559.0
+U0393,Dev Singh,50.0,Male,Guntur,Andhra Pradesh,Telugu,2099-01-01,Audiobook Subscription,2019-12-25,2020-12-24,dataset_1,3.0,3.0,1492.0,2.9999999999999996,-26503.0
+U0394,Anbu Pandey,58.0,Male,Thrissur,Kerala,Malayalam,2023-10-04,Audiobook Subscription,2023-10-30,2024-10-29,dataset_1,7.0,7.0,1303.0,7.0,980.0
+U0395,ADITYA Bose,65.0,Female,Madurai,Tamil Nadu,Tamil,2019-04-08,Quarterly Ebook,2019-05-20,2019-08-18,dataset_1,3.0,3.0,628.0,2.9999999999999996,2620.0
+U0396,Vikram Rao,29.0,Female,Visakhapatnam,Andhra Pradesh,Telugu,2023-07-28,Quarterly Ebook,2023-10-16,2024-01-14,dataset_1,1.0,1.0,0.0,1.0,1048.0
+U0397,Asha Desai,42.0,Female,Guntur,Andhra Pradesh,Telugu,2019-07-06,Annual Ebook,2019-07-15,2020-07-14,dataset_1,1.0,1.0,0.0,1.0,2531.0
+U0398,Jayanthi Mishra,68.0,Female,Bengaluru,Karnataka,Kannada,2019-05-07,Quarterly Ebook,0,2019-10-12,dataset_1,1.0,1.0,0.0,1.0,2591.0
+U0399,ravi krishnan,68.0,Male,Guntur,Andhra Pradesh,Telugu,2023-03-09,Audiobook Subscription,2023-03-10,2024-03-09,dataset_1,0.0,0.0,0.0,0.0,1189.0
+U0400,Siva Chaudhari,20.0,Male,Nizamabad,Telangana,Telugu,2022-06-02,Annual Ebook,0,0,dataset_1,8.0,6.0,1450.0,7.3999999999999995,1469.0
+U0401,Guru Gupta,59.0,Female,Tirunelveli,Tamil Nadu,Tamil,2021-11-01,Annual Ebook,0,0,dataset_1,3.0,3.0,882.0,2.9999999999999996,1682.0
+U0402,saranya chatterjee,21.0,Male,Lucknow,Uttar Pradesh,Telugu,2019-10-27,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,2418.0
+U0403,Rajesh Chandrasekaran,64.0,Female,Kolkata,West Bengal,Hindi,2021-08-18,Annual Ebook,0,0,dataset_1,7.0,7.0,1458.0,7.0,1757.0
+U0404, Kalai Pillai ,38.0,Male,Kochi,Kerala,Telugu,2020-09-16,Annual Ebook,2020-11-01,2021-11-01,dataset_1,1.0,1.0,0.0,1.0,2093.0
+U0405,Dinesh Desai,38.0,Male,Kozhikode,Kerala,Malayalam,2023-01-12,Annual Ebook,0,0,dataset_1,2.0,2.0,857.0,2.0,1245.0
+U0406,NANDINI Patel,47.0,Male,Hyderabad,Telangana,English,2019-12-02,Audiobook Subscription,2019-12-19,2020-12-18,dataset_1,1.0,1.0,0.0,1.0,2382.0
+U0407,Aditya Venkatesh,58.0,Male,Chennai,Tamil Nadu,Tamil,2023-07-18,Annual Ebook,2023-08-14,2024-08-13,dataset_1,1.0,1.0,0.0,1.0,1058.0
+U0408,Vikram Chaudhari,41.0,Male,Hubballi,Karnataka,English,2022-04-06,Annual Ebook,0,0,dataset_1,10.0,9.0,1357.0,9.7,1526.0
+U0409,Rohan Mishra,41.0,Female,Kollam,Kerala,Malayalam,2024-10-06,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,612.0
+U0410,Ganesh Ramaswamy,54.0,Female,Lucknow,Uttar Pradesh,Telugu,2019-06-15,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,2552.0
+U0411,Nithin Sundaram,41.0,Male,Warangal,Telangana,Telugu,2024-02-06,Audiobook Subscription,2024-02-11,2025-02-10,dataset_1,2.0,1.0,652.0,1.7,855.0
+U0412,Mythili Rajan,51.0,Female,Kozhikode,Kerala,Malayalam,2020-12-13,Quarterly Ebook,2021-01-30,0,dataset_1,10.0,9.0,1363.0,9.7,2005.0
+U0413,Balu Varma,22.0,Female,Erode,Tamil Nadu,Tamil,2022-11-14,Quarterly Ebook,2023-01-14,2023-04-14,dataset_1,2.0,2.0,700.0,2.0,1304.0
+U0414,Amudha Kumar,26.0,Male,Warangal,Telangana,Telugu,2020-09-07,Annual Ebook,0,0,dataset_1,3.0,3.0,243.0,2.9999999999999996,2102.0
+U0415,balu prasad,25.0,Female,Mysuru,Karnataka,English,2024-05-15,Quarterly Ebook,2024-07-29,2024-10-27,dataset_1,8.0,8.0,1489.0,8.0,756.0
+U0416,GANESH Banerjee,19.0,Male,Visakhapatnam,Andhra Pradesh,English,2024-09-30,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,618.0
+U0417,Selvi Murugesan,34.0,Female,Kolkata,Karnataka,Kannada,2019-03-18,Audiobook Subscription,2019-06-10,2020-06-09,dataset_1,2.0,2.0,411.0,2.0,2641.0
+U0418,Vijay Rao,56.0,Other,Delhi,Delhi,Hindi,2023-08-10,Annual Ebook,0,2024-10-22,dataset_1,3.0,3.0,1532.0,2.9999999999999996,1035.0
+U0419,Anbu Ramaswamy,50.0,Male,Mysuru,Karnataka,Kannada,2019-10-09,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,2436.0
+U0420,Valli Krishnan,30.0,Female,Bhopal,Madhya Pradesh,Tamil,2020-01-30,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,2323.0
+U0421,Ramesh Prasad,68.0,Female,Madurai,Tamil Nadu,Tamil,2019-01-05,Audiobook Subscription,2019-04-01,2020-03-31,dataset_1,2.0,2.0,464.0,2.0,2713.0
+U0422,Mythili Desai,41.0,Female,Belagavi,Karnataka,Telugu,2024-05-28,Annual Ebook,0,2025-07-15,dataset_1,1.0,1.0,0.0,1.0,743.0
+U0423,SELVAM Varma,66.0,Female,Belagavi,Karnataka,Kannada,2021-08-10,Audiobook Subscription,2021-08-20,2022-08-20,dataset_1,2.0,2.0,489.0,2.0,1765.0
+U0424,VIJAY Prasad,44.0,Male,Kozhikode,Kerala,Malayalam,2020-04-27,Quarterly Ebook,2020-06-14,2020-09-12,dataset_1,9.0,7.0,1476.0,8.4,2235.0
+U0425,Mythili Narayanan,38.0,Male,Belagavi,Karnataka,Kannada,2021-12-06,Audiobook Subscription,2022-01-29,2023-01-29,dataset_1,1.0,1.0,0.0,1.0,1647.0
+U0426,Manoj Singh,61.0,Male,Nizamabad,Telangana,Telugu,2023-02-25,Annual Ebook,2023-04-27,2024-04-26,dataset_1,1.0,1.0,0.0,1.0,1201.0
+U0427,Babu Natarajan,67.0,Female,Kolkata,Kerala,Malayalam,2024-01-04,Annual Ebook,2024-01-24,2025-01-23,dataset_1,1.0,1.0,0.0,1.0,888.0
+U0428,Srinivas Narayanan,68.0,Male,Thiruvananthapuram,Kerala,Malayalam,2020-10-20,Quarterly Ebook,2021-01-09,2021-04-09,dataset_1,1.0,1.0,0.0,1.0,2059.0
+U0429,ARJUN Rao,48.0,Female,Madurai,Tamil Nadu,English,2019-11-24,Annual Ebook,2020-01-12,2021-01-11,dataset_1,5.0,5.0,1476.0,5.0,2390.0
+U0430,Asha Rajput,36.0,Female,Thrissur,Kerala,Malayalam,2023-12-04,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,919.0
+U0431,Surya Tiwari,20.0,Female,Thiruvananthapuram,Kerala,Malayalam,2019-05-28,Quarterly Ebook,2019-08-19,2019-11-17,dataset_1,9.0,8.0,1296.0,8.7,2570.0
+U0432,Arjun Subramaniam,35.0,Female,Mangaluru,Karnataka,Kannada,2024-10-21,Annual Ebook,0,0,dataset_1,8.0,6.0,1635.0,7.3999999999999995,597.0
+U0433, Ilaiyaraja Pillai ,53.0,Male,Kolkata,West Bengal,Hindi,2022-02-06,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,1585.0
+U0434, Mohan Patil ,54.0,Male,Warangal,Telangana,Telugu,2024-08-22,Annual Ebook,0,0,dataset_1,3.0,3.0,1539.0,2.9999999999999996,657.0
+U0435, Murugan Mishra ,41.0,Female,Thiruvananthapuram,Kerala,Malayalam,2024-06-03,Annual Ebook,2024-07-16,2025-07-16,dataset_1,9.0,8.0,1642.0,8.7,737.0
+U0436,Prema Patil,55.0,Female,Kolkata,Tamil Nadu,Tamil,2021-06-21,Annual Ebook,2021-07-20,2022-07-20,dataset_1,1.0,1.0,0.0,1.0,1815.0
+U0437, Dinesh Joshi ,51.0,Male,Thanjavur,Tamil Nadu,Tamil,2023-06-23,Annual Ebook,2023-08-05,2024-08-04,dataset_1,6.0,6.0,1516.0,5.999999999999999,1083.0
+U0438, Meena Chaudhari ,48.0,Male,Visakhapatnam,Andhra Pradesh,English,2021-02-17,Quarterly Ebook,2021-03-14,2021-06-12,dataset_1,2.0,2.0,327.0,2.0,1939.0
+U0439,SENTHIL Balasubramanian,31.0,Male,Kolkata,West Bengal,Hindi,2020-03-12,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,2281.0
+U0440, Karthik Ghosh ,49.0,Female,Nizamabad,Telangana,Telugu,2023-03-01,Annual Ebook,2023-05-03,2024-05-02,dataset_1,3.0,3.0,257.0,2.9999999999999996,1197.0
+U0441,Selvi Srinivasan,66.0,Female,Erode,Tamil Nadu,English,2024-11-23,Annual Ebook,2025-01-23,2026-01-23,dataset_1,2.0,2.0,197.0,2.0,564.0
+U0442,Vimala Reddy,43.0,Female,Davangere,Karnataka,Kannada,2024-02-28,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,833.0
+U0443,Priya Kumar,42.0,Female,Vijayawada,Andhra Pradesh,English,2021-12-12,Annual Ebook,0,0,dataset_1,3.0,3.0,499.0,2.9999999999999996,1641.0
+U0444,Akash Rajput,29.0,Male,Thiruvananthapuram,Kerala,Malayalam,2023-06-29,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,1077.0
+U0445,Saranya Naidu,54.0,Female,Jaipur,Rajasthan,Tamil,2023-11-06,Audiobook Subscription,2023-12-01,2024-11-30,dataset_1,1.0,1.0,0.0,1.0,947.0
+U0446,Arun Murugesan,18.0,Male,Guntur,Andhra Pradesh,Telugu,2022-07-17,Annual Ebook,2022-08-24,2023-08-24,dataset_1,2.0,2.0,1577.0,2.0,1424.0
+U0447,BABU Chaudhari,21.0,Male,Coimbatore,Tamil Nadu,Tamil,2024-05-05,Audiobook Subscription,2024-05-17,2025-05-17,dataset_1,1.0,1.0,0.0,1.0,766.0
+U0448,Radha Patel,41.0,Female,Jaipur,Rajasthan,Hindi,2023-08-14,Annual Ebook,0,0,dataset_1,7.0,6.0,1638.0,6.699999999999999,1031.0
+U0449,Balaji Prasad,54.0,Female,Thrissur,Kerala,Malayalam,2024-09-21,Quarterly Ebook,2024-11-17,2025-02-15,dataset_1,6.0,6.0,1151.0,5.999999999999999,627.0
+U0450,Karthik Verma,47.0,Female,Tirunelveli,Tamil Nadu,Tamil,2022-10-13,Quarterly Ebook,2022-12-30,2023-03-30,dataset_1,2.0,2.0,1208.0,2.0,1336.0
+U0451,SELVI Mehta,22.0,Male,Mysuru,Karnataka,Kannada,2021-12-31,Annual Ebook,2022-02-19,2023-02-19,dataset_1,6.0,4.0,1176.0,5.3999999999999995,1622.0
+U0452,krishna kulkarni,41.0,Female,Davangere,Karnataka,English,2019-04-05,Annual Ebook,0,0,dataset_1,2.0,2.0,1279.0,2.0,2623.0
+U0453,Senthil Chatterjee,65.0,Female,Tirunelveli,Tamil Nadu,English,2019-09-19,Audiobook Subscription,2019-11-18,2020-11-17,dataset_1,8.0,8.0,965.0,8.0,2456.0
+U0454,Siva Nair,43.0,Female,Pune,Maharashtra,Hindi,2020-09-28,Annual Ebook,0,0,dataset_1,2.0,2.0,364.0,2.0,2081.0
+U0455,Valli Natarajan,65.0,Male,Kolkata,Tamil Nadu,Tamil,2019-04-28,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,2600.0
+U0456,JAYANTHI Rajan,47.0,Other,Thanjavur,Tamil Nadu,Tamil,2020-12-26,Annual Ebook,2021-02-22,2022-02-22,dataset_1,1.0,1.0,0.0,1.0,1992.0
+U0457,AJITH Das,41.0,Female,Bengaluru,Karnataka,Kannada,2021-07-19,Audiobook Subscription,2021-09-13,2022-09-13,dataset_1,8.0,6.0,1146.0,7.3999999999999995,1787.0
+U0458,Rekha Singh,27.0,Male,Kannur,Kerala,Malayalam,2024-04-05,Quarterly Ebook,2024-07-02,2024-09-30,dataset_1,11.0,9.0,1565.0,10.399999999999999,796.0
+U0459,Nithin Kaur,67.0,Male,Erode,Tamil Nadu,Tamil,2021-02-11,Quarterly Ebook,2021-04-23,2021-07-22,dataset_1,1.0,1.0,0.0,1.0,1945.0
+U0460,Kamala Mehta,63.0,Female,Mangaluru,Karnataka,Kannada,2023-09-26,Annual Ebook,2023-12-01,2024-11-30,dataset_1,1.0,1.0,0.0,1.0,988.0
+U0461,INDIRA Rajput,61.0,Male,Nizamabad,Telangana,Telugu,2019-10-08,Annual Ebook,0,0,dataset_1,12.0,12.0,1725.0,11.999999999999998,2437.0
+U0462,Malathi Menon,57.0,Male,Hyderabad,Telangana,Telugu,2020-09-15,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,2094.0
+U0463,Aditya Sharma,24.0,Male,Davangere,Karnataka,English,2020-01-05,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,2348.0
+U0464,Anitha Narayanan,37.0,Female,Hubballi,Karnataka,Kannada,2019-05-10,Annual Ebook,0,0,dataset_1,8.0,8.0,1638.0,8.0,2588.0
+U0465,Sathya Murugesan,67.0,Male,Tirunelveli,Tamil Nadu,Tamil,2021-10-21,Audiobook Subscription,2021-10-22,2022-10-22,dataset_1,11.0,11.0,1584.0,11.0,1693.0
+U0466,Divya Chakraborty,67.0,Other,Coimbatore,Tamil Nadu,Tamil,2020-01-20,Quarterly Ebook,2020-02-15,2020-05-15,dataset_1,11.0,11.0,2206.0,11.0,2333.0
+U0467,Akash Verma,37.0,Female,Kozhikode,Kerala,Malayalam,2024-11-03,Annual Ebook,0,0,dataset_1,8.0,7.0,1275.0,7.699999999999999,584.0
+U0468,Sangeetha Das,41.0,Female,Ahmedabad,Gujarat,Telugu,2021-08-24,Annual Ebook,0,2022-10-04,dataset_1,1.0,1.0,0.0,1.0,1751.0
+U0469,priya subramaniam,55.0,Male,Chennai,Tamil Nadu,Tamil,2024-04-30,Annual Ebook,2024-05-19,2025-05-19,dataset_1,3.0,3.0,1767.0,2.9999999999999996,771.0
+U0470,Shanthi Rao,49.0,Male,Thrissur,Kerala,Telugu,2022-12-27,Annual Ebook,2023-03-26,2024-03-25,dataset_1,3.0,3.0,1412.0,2.9999999999999996,1261.0
+U0471,Aditya Iyer,41.0,Male,Guntur,Andhra Pradesh,Telugu,2023-12-02,Annual Ebook,2023-12-04,2024-12-03,dataset_1,9.0,8.0,1250.0,8.7,921.0
+U0472,Karthi Verma,26.0,Male,Thiruvananthapuram,Kerala,Malayalam,2024-06-30,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,710.0
+U0473,Saranya Pandey,64.0,Male,Delhi,Delhi,Hindi,2020-09-26,Quarterly Ebook,2020-10-29,2021-01-27,dataset_1,1.0,1.0,0.0,1.0,2083.0
+U0474,Vimala Singh,67.0,Female,Tirunelveli,Tamil Nadu,Tamil,2023-01-31,Annual Ebook,2023-03-02,2024-03-01,dataset_1,9.0,8.0,975.0,8.7,1226.0
+U0475,Savitha Pillai,52.0,Male,Kochi,Kerala,Malayalam,2020-09-23,Annual Ebook,2020-11-03,2021-11-03,dataset_1,2.0,2.0,1481.0,2.0,2086.0
+U0476,Naveen Banerjee,24.0,Female,Kannur,Kerala,English,2019-05-09,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,2589.0
+U0477,Nithin Venkatesh,54.0,Female,Hyderabad,Telangana,Telugu,2021-11-14,Annual Ebook,0,0,dataset_1,3.0,3.0,1385.0,2.9999999999999996,1669.0
+U0478,ravi prasad,18.0,Female,Hyderabad,Telangana,Telugu,2019-09-06,Quarterly Ebook,2019-10-29,0,dataset_1,1.0,1.0,0.0,1.0,2469.0
+U0479,Shanthi Chakraborty,57.0,Male,Madurai,Tamil Nadu,English,2021-06-03,Audiobook Subscription,2021-06-15,2022-06-15,dataset_1,1.0,1.0,0.0,1.0,1833.0
+U0480,Srinivas Sundaram,30.0,Male,Visakhapatnam,Andhra Pradesh,Telugu,2023-08-28,Annual Ebook,2023-11-17,2024-11-16,dataset_1,2.0,2.0,243.0,2.0,1017.0
+U0481,Selvi Gupta,62.0,Female,Delhi,Delhi,Tamil,2023-07-03,Quarterly Ebook,2023-09-25,2023-12-24,dataset_1,6.0,6.0,1607.0,5.999999999999999,1073.0
+U0482, Ganesh Pandey ,46.0,Female,Kolkata,West Bengal,Tamil,2023-08-16,Annual Ebook,2023-10-10,2024-10-09,dataset_1,1.0,1.0,0.0,1.0,1029.0
+U0483,Sathish Rajan,54.0,Female,Nizamabad,Telangana,Telugu,2024-01-28,Quarterly Ebook,2024-03-18,2024-06-16,dataset_1,8.0,8.0,995.0,8.0,864.0
+U0484, Arjun Reddy ,56.0,Male,Kolkata,Karnataka,Kannada,2021-06-27,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,1809.0
+U0485,dinesh sharma,62.0,Female,Delhi,Delhi,Hindi,2024-02-29,Quarterly Ebook,2024-03-17,2024-06-15,dataset_1,1.0,1.0,0.0,1.0,832.0
+U0486,GEETHA Singh,33.0,Male,Pune,Maharashtra,English,2021-06-09,Annual Ebook,2021-07-20,2022-07-20,dataset_1,1.0,1.0,0.0,1.0,1827.0
+U0487,Sangeetha Ramaswamy,62.0,Female,Pune,Maharashtra,English,2022-05-15,Annual Ebook,0,0,dataset_1,3.0,2.0,1055.0,2.6999999999999997,1487.0
+U0488,Selvi Verma,21.0,Female,Kannur,Kerala,Malayalam,2020-05-08,Audiobook Subscription,2020-06-06,2021-06-06,dataset_1,1.0,1.0,0.0,1.0,2224.0
+U0489,TAMILARASI Banerjee,18.0,Female,Coimbatore,Tamil Nadu,Tamil,2022-07-31,Quarterly Ebook,2022-08-19,2022-11-17,dataset_1,10.0,10.0,2118.0,10.0,1410.0
+U0490,Savitha Mishra,27.0,Male,Mangaluru,Karnataka,Kannada,2024-08-29,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,650.0
+U0491,kamala raghunathan,27.0,Male,Visakhapatnam,Andhra Pradesh,English,2023-06-24,Annual Ebook,0,0,dataset_1,2.0,2.0,623.0,2.0,1082.0
+U0492,Asha Mishra,62.0,Male,Nizamabad,Telangana,Telugu,2021-03-14,Annual Ebook,2021-05-20,2022-05-20,dataset_1,1.0,1.0,0.0,1.0,1914.0
+U0493,Padma Balasubramanian,67.0,Male,Visakhapatnam,Andhra Pradesh,English,2023-08-22,Quarterly Ebook,2023-10-05,2024-01-03,dataset_1,2.0,2.0,739.0,2.0,1023.0
+U0494,Mohan Rajan,59.0,Male,Hubballi,Karnataka,Kannada,2023-12-17,Annual Ebook,2024-02-11,2025-02-10,dataset_1,1.0,1.0,0.0,1.0,906.0
+U0495,Deepa Sundaram,41.0,Male,Madurai,Tamil Nadu,Tamil,2021-09-22,Audiobook Subscription,2021-10-10,2022-10-10,dataset_1,11.0,11.0,1428.0,11.0,1722.0
+U0496,Vijay Kumar,69.0,Male,Chennai,Tamil Nadu,English,2021-05-17,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,1850.0
+U0497,Dev Chandrasekaran,57.0,Female,Thiruvananthapuram,Kerala,English,2024-11-27,Annual Ebook,0,0,dataset_1,11.0,10.0,1676.0,10.7,560.0
+U0498,Revathi Nair,68.0,Female,Davangere,Karnataka,Kannada,2019-09-30,Quarterly Ebook,2019-11-03,2020-02-01,dataset_1,2.0,2.0,912.0,2.0,2445.0
+U0499,Surya Chatterjee,24.0,Male,Bhopal,Madhya Pradesh,Hindi,2023-04-09,Quarterly Ebook,2023-07-08,2023-10-06,dataset_1,1.0,1.0,0.0,1.0,1158.0
+U0500,Srinivas Rajan,41.0,Female,Warangal,Telangana,Telugu,2019-03-30,Annual Ebook,0,0,dataset_1,1.0,1.0,0.0,1.0,2629.0
+USR_001,Ananya Swamy,32.0,Female,Ahmedabad,Gujarat,English,2023-02-19,Annual Ebook,0,0,dataset_2,5.0,3.0,775.0,4.4,1207.0
+USR_002,Yuvaraj Naidu,44.0,Male,Kozhikode,Kerala,Malayalam,2023-01-11,Annual Ebook,2023-01-13,2024-01-13,dataset_2,8.0,8.0,809.0,8.0,1246.0
+USR_003,Indhu Menon,34.0,Female,Tirupati,Andhra Pradesh,Telugu,2023-03-09,Annual Ebook,2023-03-17,2024-03-16,dataset_2,2.0,2.0,159.0,2.0,1189.0
+USR_004,Jagadish Patel,44.0,Male,Tirupati,Andhra Pradesh,Telugu,2023-04-19,Annual Ebook,0,0,dataset_2,6.0,6.0,653.0,5.999999999999999,1148.0
+USR_005,Adithya Patel,33.0,Male,New Delhi,Delhi,Hindi,2025-11-07,Annual Ebook,0,0,dataset_2,3.0,3.0,59.0,2.9999999999999996,215.0
+USR_006,Kavitha Naidu,43.0,Female,Karimnagar,Telangana,Telugu,2025-09-21,Quarterly Ebook,2025-09-24,2025-12-23,dataset_2,1.0,1.0,0.0,1.0,262.0
+USR_007,Divya Hegde,35.0,Female,Ahmedabad,Gujarat,Hindi,2025-02-14,Annual Ebook,0,0,dataset_2,5.0,5.0,430.0,5.0,481.0
+USR_008,Vaishnavi Nair,31.0,Female,Tirupati,Andhra Pradesh,Telugu,2025-06-25,Annual Ebook,0,0,dataset_2,6.0,5.0,231.0,5.699999999999999,350.0
+USR_009,Harish Murthy,37.0,Male,New Delhi,Delhi,English,2024-10-17,Quarterly Ebook,2024-10-23,2025-01-21,dataset_2,20.0,8.0,590.0,16.4,601.0
+USR_010,Ranganath Murthy,26.0,Male,Nagpur,Maharashtra,English,2026-03-12,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,90.0
+USR_011,Meera Pillai,35.0,Female,Kolkata,West Bengal,Hindi,2023-06-15,Audiobook Subscription,2023-06-19,2023-07-19,dataset_2,5.0,5.0,560.0,5.0,1091.0
+USR_012,Neha Naidu,28.0,Female,Kochi,Kerala,Malayalam,2025-01-29,Annual Ebook,0,0,dataset_2,5.0,4.0,406.0,4.7,497.0
+USR_013,Gayathri Hegde,37.0,Female,New Delhi,Delhi,English,2025-05-04,Annual Ebook,0,0,dataset_2,4.0,3.0,187.0,3.6999999999999997,402.0
+USR_014,Sneha Rao,51.0,Female,Nellore,Andhra Pradesh,Hindi,2024-12-02,Annual Ebook,0,0,dataset_2,0.0,0.0,0.0,0.0,555.0
+USR_015,Dhanush Kumar,41.0,Male,Kolkata,Tamil Nadu,Tamil,2023-02-18,Audiobook Subscription,2023-02-19,2023-03-21,dataset_2,2.0,2.0,778.0,2.0,1208.0
+USR_016,Bindu Krishnan,37.0,Female,Ahmedabad,Gujarat,Hindi,2025-01-04,Annual Ebook,2025-01-07,2026-01-07,dataset_2,3.0,3.0,261.0,2.9999999999999996,522.0
+USR_017,Nithin Joshi,35.0,Male,Mumbai,Maharashtra,Hindi,2024-06-11,Annual Ebook,2024-06-12,2025-06-12,dataset_2,3.0,3.0,636.0,2.9999999999999996,729.0
+USR_018,Pranav Shetty,36.0,Male,Bangalore,Karnataka,Kannada,2025-05-04,Annual Ebook,0,0,dataset_2,3.0,3.0,205.0,2.9999999999999996,402.0
+USR_019,Shruti Deshmukh,44.0,Female,Warangal,Telangana,Hindi,2023-04-02,Annual Ebook,0,0,dataset_2,4.0,4.0,444.0,4.0,1165.0
+USR_020,Jagadish Menon,23.0,Male,Ahmedabad,Gujarat,Hindi,2024-04-05,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,796.0
+USR_021,Raghav Sharma,43.0,Male,Kollam,Kerala,Malayalam,2025-02-27,Annual Ebook,0,0,dataset_2,6.0,4.0,216.0,5.3999999999999995,468.0
+USR_022,Vivek Krishnan,50.0,Male,Ahmedabad,Gujarat,English,2023-03-03,Quarterly Ebook,2023-03-09,2023-06-07,dataset_2,1.0,1.0,0.0,1.0,1195.0
+USR_023,Anjali Murthy,32.0,Female,Vijayawada,Andhra Pradesh,Telugu,2023-07-23,Quarterly Ebook,2023-07-27,2023-10-25,dataset_2,3.0,3.0,225.0,2.9999999999999996,1053.0
+USR_024,Vivek Kumar,29.0,Male,Mumbai,Maharashtra,Hindi,2023-09-03,Annual Ebook,0,0,dataset_2,3.0,3.0,503.0,2.9999999999999996,1011.0
+USR_025,Gayathri Naidu,39.0,Female,Coimbatore,Tamil Nadu,Tamil,2023-06-16,Annual Ebook,2023-06-18,2024-06-17,dataset_2,6.0,6.0,874.0,5.999999999999999,1090.0
+USR_026,Naveen Raman,27.0,Male,Ahmedabad,Gujarat,Hindi,2023-03-20,Annual Ebook,0,0,dataset_2,3.0,3.0,916.0,2.9999999999999996,1178.0
+USR_027,Hari Sharma,41.0,Male,Kolkata,Gujarat,English,2023-06-23,Annual Ebook,0,0,dataset_2,5.0,5.0,734.0,5.0,1083.0
+USR_028,Sowmya Shetty,41.0,Female,Warangal,Telangana,Telugu,2024-07-20,Audiobook Subscription,2024-08-01,2024-08-31,dataset_2,1.0,1.0,0.0,1.0,690.0
+USR_029,Keerthi Choudhury,41.0,Non-Binary,Tirupati,Andhra Pradesh,Hindi,2024-09-23,Audiobook Subscription,2024-10-04,2024-11-03,dataset_2,1.0,1.0,0.0,1.0,625.0
+USR_030,Vijay Banerjee,26.0,Male,Nellore,Andhra Pradesh,Hindi,2026-02-15,Annual Ebook,2026-02-19,2027-02-19,dataset_2,3.0,3.0,67.0,2.9999999999999996,115.0
+USR_031,Ramesh Singh,18.0,Male,Vijayawada,Andhra Pradesh,Telugu,2025-10-22,Annual Ebook,0,0,dataset_2,2.0,2.0,7.0,2.0,231.0
+USR_032,Vivek Acharya,25.0,Male,Kozhikode,Kerala,English,2023-06-29,Audiobook Subscription,2023-07-03,2023-08-02,dataset_2,1.0,1.0,0.0,1.0,1077.0
+USR_033,Anand Sharma,23.0,Male,Kolkata,West Bengal,English,2025-03-05,Annual Ebook,0,0,dataset_2,5.0,3.0,384.0,4.4,462.0
+USR_034,Shilpa Menon,21.0,Female,Thiruvananthapuram,Kerala,Malayalam,2023-04-19,Audiobook Subscription,2023-05-03,2023-06-02,dataset_2,4.0,2.0,227.0,3.4,1148.0
+USR_035,Chandran Krishnan,63.0,Male,Nellore,Andhra Pradesh,Telugu,2025-12-19,Annual Ebook,0,0,dataset_2,6.0,6.0,101.0,5.999999999999999,173.0
+USR_036,Manoj Krishnan,59.0,Male,Kochi,Kerala,Malayalam,2023-11-23,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,930.0
+USR_037,Harini Gupta,34.0,Male,Bangalore,Karnataka,Kannada,2025-10-28,Quarterly Ebook,2025-11-02,2026-01-31,dataset_2,4.0,4.0,144.0,4.0,225.0
+USR_038,Vijay Krishnan,18.0,Male,Coimbatore,Tamil Nadu,English,2025-08-07,Annual Ebook,0,2026-08-08,dataset_2,5.0,5.0,129.0,5.0,307.0
+USR_039,Amit Rao,45.0,Male,Bangalore,Karnataka,Hindi,2026-04-11,Audiobook Subscription,2026-04-23,2026-05-23,dataset_2,5.0,5.0,41.0,5.0,60.0
+USR_040,Sanjay Kulkarni,57.0,Male,Bangalore,Karnataka,Kannada,2024-12-22,Quarterly Ebook,2024-12-30,2025-03-30,dataset_2,6.0,6.0,383.0,5.999999999999999,535.0
+USR_041,Uma Naidu,21.0,Female,Kolkata,Karnataka,Kannada,2026-03-13,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,89.0
+USR_042,  Aishwarya Das ,41.0,Female,Vijayawada,Andhra Pradesh,Telugu,2024-05-11,Audiobook Subscription,2024-05-12,2024-06-11,dataset_2,5.0,4.0,428.0,4.7,760.0
+USR_043,Suresh Singh,51.0,Male,Nizamabad,Telangana,Telugu,2024-10-07,Annual Ebook,0,0,dataset_2,6.0,6.0,399.0,5.999999999999999,611.0
+USR_044,Nandhini Choudhury,40.0,Female,Kolkata,West Bengal,English,2024-10-12,Quarterly Ebook,2024-10-23,2025-01-21,dataset_2,5.0,1.0,456.0,3.8,606.0
+USR_045,Preethi Das,27.0,Female,Nellore,Andhra Pradesh,Telugu,2024-12-27,Audiobook Subscription,2025-01-05,2025-02-04,dataset_2,5.0,5.0,273.0,5.0,530.0
+USR_046,Pavithra Gowda,39.0,Female,Hubli,Karnataka,Kannada,2024-02-09,Annual Ebook,0,0,dataset_2,7.0,4.0,441.0,6.1,852.0
+USR_047,Chandran Bhat,46.0,Male,Kanpur,Uttar Pradesh,English,2024-12-31,Annual Ebook,0,0,dataset_2,4.0,4.0,403.0,4.0,526.0
+USR_048,  Kalyani Hegde ,52.0,Female,Coimbatore,Tamil Nadu,Tamil,2023-02-01,Quarterly Ebook,2023-02-04,2023-05-05,dataset_2,6.0,6.0,1003.0,5.999999999999999,1225.0
+USR_049,Abhinav Gowda,55.0,Male,Vijayawada,Andhra Pradesh,Telugu,2026-03-07,Annual Ebook,2026-03-19,2027-03-19,dataset_2,1.0,1.0,0.0,1.0,95.0
+USR_050,Gayathri Iyer,60.0,Female,Kolkata,Telangana,English,2023-11-05,Annual Ebook,0,0,dataset_2,6.0,5.0,437.0,5.699999999999999,948.0
+USR_051,Jyothi Iyer,43.0,Female,Trichy,Tamil Nadu,Tamil,2024-06-23,Quarterly Ebook,2024-07-03,2024-10-01,dataset_2,6.0,6.0,456.0,5.999999999999999,717.0
+USR_052,Yuvaraj Chawla,18.0,Male,Pune,Maharashtra,English,2025-09-14,Audiobook Subscription,2025-09-21,2025-10-21,dataset_2,7.0,2.0,212.0,5.499999999999999,269.0
+USR_053,Sneha Reddy,18.0,Female,Karimnagar,Telangana,Telugu,2026-02-09,Quarterly Ebook,2026-02-14,2026-05-15,dataset_2,1.0,1.0,0.0,1.0,121.0
+USR_054,Lakshmi Menon,48.0,Female,Thrissur,Kerala,Malayalam,2025-02-06,Audiobook Subscription,2025-02-08,2025-03-10,dataset_2,3.0,3.0,192.0,2.9999999999999996,489.0
+USR_055,Kalyani Kulkarni,31.0,Female,Tirupati,Andhra Pradesh,Tamil,2023-10-24,Annual Ebook,0,0,dataset_2,3.0,3.0,153.0,2.9999999999999996,960.0
+USR_056,Pooja Shetty,55.0,Female,Karimnagar,Telangana,Malayalam,2023-05-25,Annual Ebook,0,0,dataset_2,3.0,3.0,781.0,2.9999999999999996,1112.0
+USR_057,Vijay Pillai,43.0,Male,Nellore,Andhra Pradesh,English,2025-05-04,Annual Ebook,0,0,dataset_2,6.0,4.0,323.0,5.3999999999999995,402.0
+USR_058,Bindu Pillai,32.0,Female,Trichy,Tamil Nadu,English,2025-12-08,Annual Ebook,0,0,dataset_2,6.0,5.0,110.0,5.699999999999999,184.0
+USR_059,Saravanan Menon,38.0,Male,Mangalore,Karnataka,Kannada,2023-10-06,Annual Ebook,0,0,dataset_2,4.0,4.0,483.0,4.0,978.0
+USR_060,Anitha Menon,49.0,Female,Trichy,Tamil Nadu,Tamil,2025-01-13,Annual Ebook,0,0,dataset_2,4.0,4.0,280.0,4.0,513.0
+USR_061,Vikram Menon,55.0,Male,Kolkata,Uttar Pradesh,Hindi,2025-09-04,Quarterly Ebook,2025-09-06,2025-12-05,dataset_2,8.0,7.0,250.0,7.699999999999999,279.0
+USR_062,Amit Pillai,26.0,Male,Warangal,Telangana,Telugu,2024-08-13,Annual Ebook,0,0,dataset_2,4.0,4.0,433.0,4.0,666.0
+USR_063,Kiran Verma,27.0,Male,Coimbatore,Tamil Nadu,Tamil,2024-02-16,Quarterly Ebook,2024-02-18,2024-05-18,dataset_2,5.0,5.0,824.0,5.0,845.0
+USR_064,Rohan Patel,26.0,Male,Nizamabad,Telangana,Kannada,2024-03-23,Annual Ebook,2024-04-03,2025-04-03,dataset_2,4.0,4.0,630.0,4.0,809.0
+USR_065,Kavitha Krishnan,30.0,Female,Ahmedabad,Gujarat,Hindi,2025-04-25,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,411.0
+USR_066,Hari Deshmukh,52.0,Male,Kolkata,West Bengal,Hindi,2025-12-05,Annual Ebook,0,0,dataset_2,2.0,2.0,4.0,2.0,187.0
+USR_067,Hari Murthy,39.0,Male,Nizamabad,Telangana,Telugu,2023-02-10,Annual Ebook,0,0,dataset_2,6.0,6.0,809.0,5.999999999999999,1216.0
+USR_068,Ritu Gowda,42.0,Non-Binary,Hubli,Karnataka,Kannada,2024-11-17,Audiobook Subscription,2024-11-19,2024-12-19,dataset_2,1.0,1.0,0.0,1.0,570.0
+USR_069,Bindu Chawla,36.0,Non-Binary,Coimbatore,Tamil Nadu,Tamil,2025-12-13,Annual Ebook,0,0,dataset_2,5.0,5.0,136.0,5.0,179.0
+USR_070,Pavithra Deshmukh,26.0,Female,Hyderabad,Telangana,Telugu,2025-04-22,Annual Ebook,0,0,dataset_2,5.0,5.0,365.0,5.0,414.0
+USR_071,Siddharth Joshi,43.0,Male,Coimbatore,Tamil Nadu,Tamil,2023-07-23,Audiobook Subscription,2023-07-30,0,dataset_2,2.0,2.0,73.0,2.0,1053.0
+USR_072,Pooja Iyer,59.0,Female,Trichy,Tamil Nadu,Tamil,2023-12-16,Audiobook Subscription,2023-12-30,2024-01-29,dataset_2,3.0,3.0,120.0,2.9999999999999996,907.0
+USR_073,Abhinav Chawla,51.0,Male,Ahmedabad,Gujarat,Hindi,2025-01-19,Audiobook Subscription,2025-01-22,2025-02-21,dataset_2,1.0,1.0,0.0,1.0,507.0
+USR_074,Rajesh Singh,41.0,Male,New Delhi,Delhi,Hindi,2024-10-06,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,612.0
+USR_075,Bindu Deshmukh,54.0,Female,Hubli,Karnataka,Kannada,2024-06-20,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,720.0
+USR_076,Nandhini Gupta,21.0,Female,Nellore,Andhra Pradesh,Telugu,2024-08-15,Annual Ebook,0,0,dataset_2,26.0,20.0,660.0,24.2,664.0
+USR_077,Sowmya Das,52.0,Female,Hyderabad,Telangana,Telugu,2024-12-10,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,547.0
+USR_078,Rajesh Patel,18.0,Male,Hyderabad,Telangana,Hindi,2025-11-13,Audiobook Subscription,2025-11-19,2025-12-19,dataset_2,6.0,5.0,165.0,5.699999999999999,209.0
+USR_079,Pooja Banerjee,40.0,Female,Vijayawada,Andhra Pradesh,Telugu,2024-11-05,Audiobook Subscription,2024-11-17,2024-12-17,dataset_2,4.0,4.0,353.0,4.0,582.0
+USR_080,Sandhya Gupta,28.0,Female,Kolkata,Andhra Pradesh,Telugu,2024-08-05,Annual Ebook,0,0,dataset_2,4.0,4.0,257.0,4.0,674.0
+USR_081,Manoj Gowda,42.0,Male,Thrissur,Kerala,Malayalam,2024-01-10,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,882.0
+USR_082,Preethi Gupta,43.0,Female,Nizamabad,Telangana,Telugu,2023-09-03,Annual Ebook,0,0,dataset_2,3.0,3.0,685.0,2.9999999999999996,1011.0
+USR_083,Gayathri Chawla,36.0,Female,Lucknow,Uttar Pradesh,Hindi,2025-06-07,Annual Ebook,0,0,dataset_2,6.0,6.0,219.0,5.999999999999999,368.0
+USR_084,Adithya Kumar,27.0,Male,Trichy,Tamil Nadu,Tamil,2024-03-20,Annual Ebook,2024-03-23,2025-03-23,dataset_2,6.0,6.0,670.0,5.999999999999999,812.0
+USR_085,  Kalyani Hegde ,45.0,Female,Bangalore,Karnataka,English,2025-10-01,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,252.0
+USR_086,Priya Gowda,34.0,Female,Kolkata,West Bengal,Hindi,2023-07-25,Annual Ebook,2023-08-08,2024-08-07,dataset_2,6.0,6.0,902.0,5.999999999999999,1051.0
+USR_087,Vaishnavi Murthy,18.0,Non-Binary,Guntur,Andhra Pradesh,Hindi,2024-12-28,Audiobook Subscription,2024-12-30,2025-01-29,dataset_2,1.0,1.0,0.0,1.0,529.0
+USR_088,Preethi Banerjee,49.0,Female,Kozhikode,Kerala,Malayalam,2024-09-04,Annual Ebook,0,0,dataset_2,6.0,5.0,415.0,5.699999999999999,644.0
+USR_089,Vaishnavi Joshi,48.0,Female,Visakhapatnam,Andhra Pradesh,Telugu,2025-01-02,Annual Ebook,0,0,dataset_2,4.0,4.0,446.0,4.0,524.0
+USR_090,Ritu Bhat,48.0,Female,Nizamabad,Telangana,Telugu,2023-07-01,Annual Ebook,0,0,dataset_2,4.0,4.0,617.0,4.0,1075.0
+USR_091,Gayathri Das,27.0,Female,Karimnagar,Telangana,Telugu,2026-02-28,Quarterly Ebook,2026-03-08,2026-06-06,dataset_2,5.0,5.0,82.0,5.0,102.0
+USR_092,Rajesh Choudhury,36.0,Male,Nizamabad,Telangana,Kannada,2024-07-29,Annual Ebook,0,0,dataset_2,6.0,6.0,603.0,5.999999999999999,681.0
+USR_093,Vijay Banerjee,18.0,Male,Salem,Tamil Nadu,Tamil,2023-07-09,Audiobook Subscription,2023-07-22,2023-08-21,dataset_2,8.0,6.0,833.0,7.3999999999999995,1067.0
+USR_094,Naveen Chawla,24.0,Male,Ahmedabad,Gujarat,Malayalam,2026-04-03,Quarterly Ebook,2026-04-12,0,dataset_2,4.0,3.0,26.0,3.6999999999999997,68.0
+USR_095,Suresh Bhat,64.0,Male,Vijayawada,Andhra Pradesh,English,2025-04-19,Annual Ebook,0,0,dataset_2,4.0,3.0,208.0,3.6999999999999997,417.0
+USR_096,Arjun Nair,30.0,Male,Kolkata,Tamil Nadu,Tamil,2025-03-28,Annual Ebook,0,0,dataset_2,2.0,2.0,184.0,2.0,439.0
+USR_097,  Prakash Acharya ,31.0,Male,Belgaum,Karnataka,Kannada,2025-10-20,Quarterly Ebook,2025-10-27,2026-01-25,dataset_2,4.0,4.0,175.0,4.0,233.0
+USR_098,Ananya Sharma,36.0,Female,Lucknow,Uttar Pradesh,English,2024-05-15,Quarterly Ebook,2024-05-16,2024-08-14,dataset_2,3.0,2.0,515.0,2.6999999999999997,756.0
+USR_099,Kiran Shetty,45.0,Male,Nellore,Andhra Pradesh,Telugu,2024-10-30,Annual Ebook,0,0,dataset_2,6.0,6.0,478.0,5.999999999999999,588.0
+USR_100,Ritu Swamy,51.0,Female,Kanpur,Uttar Pradesh,English,2024-09-11,Annual Ebook,0,0,dataset_2,5.0,3.0,478.0,4.4,637.0
+USR_101,Nithin Bhat,43.0,Male,Hyderabad,Telangana,Telugu,2023-05-13,Annual Ebook,0,0,dataset_2,3.0,3.0,550.0,2.9999999999999996,1124.0
+USR_102,Gautham Kulkarni,59.0,Male,Nizamabad,Telangana,Hindi,2026-03-11,Annual Ebook,0,0,dataset_2,32.0,18.0,90.0,27.799999999999997,91.0
+USR_103,Divya Pillai,41.0,Female,Mysore,Karnataka,Kannada,2023-12-15,Annual Ebook,2023-12-20,2024-12-19,dataset_2,1.0,1.0,0.0,1.0,908.0
+USR_104,Malini Iyer,50.0,Female,Ahmedabad,Gujarat,English,2025-10-18,Annual Ebook,2025-10-22,2026-10-22,dataset_2,1.0,1.0,0.0,1.0,235.0
+USR_105,Hari Raman,34.0,Male,Hyderabad,Telangana,Telugu,2025-09-10,Audiobook Subscription,2025-09-11,2025-10-11,dataset_2,5.0,5.0,263.0,5.0,273.0
+USR_106,Swathi Singh,41.0,Female,Tirupati,Andhra Pradesh,Telugu,2023-03-23,Annual Ebook,0,0,dataset_2,2.0,2.0,2.0,2.0,1175.0
+USR_107,Divya Krishnan,22.0,Female,Thrissur,Kerala,Malayalam,2023-12-01,Annual Ebook,2023-12-02,2024-12-01,dataset_2,5.0,5.0,810.0,5.0,922.0
+USR_108,Abhinav Pillai,41.0,Male,Visakhapatnam,Andhra Pradesh,Telugu,2025-07-20,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,325.0
+USR_109,Naveen Acharya,27.0,Male,Salem,Tamil Nadu,Tamil,2023-09-30,Annual Ebook,0,0,dataset_2,6.0,5.0,710.0,5.699999999999999,984.0
+USR_110,Preethi Murthy,41.0,Female,Hyderabad,Telangana,Telugu,2024-12-15,Audiobook Subscription,2024-12-28,2025-01-27,dataset_2,6.0,6.0,483.0,5.999999999999999,542.0
+USR_111,Nithin Gowda,32.0,Male,Kolkata,Telangana,English,2023-09-24,Annual Ebook,2023-10-03,2024-10-02,dataset_2,20.0,6.0,889.0,15.8,990.0
+USR_112,Gautham Patel,36.0,Male,Hyderabad,Telangana,Telugu,2024-04-26,Annual Ebook,2024-04-29,2025-04-29,dataset_2,3.0,3.0,469.0,2.9999999999999996,775.0
+USR_113,Karthik Patel,38.0,Male,Guntur,Andhra Pradesh,Telugu,2025-09-29,Annual Ebook,2025-10-02,2026-10-02,dataset_2,6.0,6.0,143.0,5.999999999999999,254.0
+USR_114,Anand Rao,30.0,Male,Mumbai,Maharashtra,English,2025-09-02,Annual Ebook,0,0,dataset_2,5.0,5.0,197.0,5.0,281.0
+USR_115,Uma Krishnan,58.0,Female,Kozhikode,Kerala,Hindi,2025-09-01,Annual Ebook,0,0,dataset_2,2.0,2.0,1.0,2.0,282.0
+USR_116,Saravanan Gupta,51.0,Male,Kolkata,Andhra Pradesh,Telugu,2024-12-18,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,539.0
+USR_117,Adithya Patel,18.0,Male,Kollam,Kerala,English,2026-02-21,Audiobook Subscription,2026-02-28,2026-03-30,dataset_2,4.0,3.0,49.0,3.6999999999999997,109.0
+USR_118,Anjali Chawla,21.0,Female,Salem,Tamil Nadu,Tamil,2024-06-17,Audiobook Subscription,2024-06-18,2024-07-18,dataset_2,4.0,3.0,327.0,3.6999999999999997,723.0
+USR_119,Ramya Sharma,28.0,Female,Kollam,Kerala,Malayalam,2024-08-02,Audiobook Subscription,2024-08-08,2024-09-07,dataset_2,3.0,2.0,406.0,2.6999999999999997,677.0
+USR_120,Dhanush Krishnan,47.0,Male,Madurai,Tamil Nadu,Tamil,2025-11-19,Annual Ebook,0,0,dataset_2,5.0,5.0,172.0,5.0,203.0
+USR_121,Rajesh Bhat,41.0,Male,Warangal,Telangana,Telugu,2023-05-12,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,1125.0
+USR_122,Dhanush Deshmukh,18.0,Male,Ahmedabad,Gujarat,English,2024-10-19,Quarterly Ebook,2024-10-19,2025-01-17,dataset_2,3.0,3.0,249.0,2.9999999999999996,599.0
+USR_123,Sanjay Rao,24.0,Male,Mysore,Karnataka,Kannada,2023-06-07,Quarterly Ebook,2023-06-15,2023-09-13,dataset_2,5.0,4.0,813.0,4.7,1099.0
+USR_124,Aishwarya Sharma,64.0,Female,Thrissur,Kerala,Malayalam,2023-10-08,Annual Ebook,2023-10-20,2024-10-19,dataset_2,5.0,4.0,571.0,4.7,976.0
+USR_125,Deepika Swamy,35.0,Female,Hubli,Karnataka,Kannada,2026-03-14,Annual Ebook,2026-03-21,2027-03-21,dataset_2,5.0,5.0,58.0,5.0,88.0
+USR_126,Vijay Pillai,41.0,Male,Thrissur,Kerala,Malayalam,2024-03-13,Annual Ebook,2024-03-21,2025-03-21,dataset_2,8.0,7.0,383.0,7.699999999999999,819.0
+USR_127,Deepika Deshmukh,22.0,Female,Nagpur,Maharashtra,Hindi,2024-07-30,Quarterly Ebook,2024-07-31,2024-10-29,dataset_2,4.0,3.0,234.0,3.6999999999999997,680.0
+USR_128,Aishwarya Banerjee,25.0,Female,Hyderabad,Telangana,Telugu,2023-12-11,Annual Ebook,2023-12-25,2024-12-24,dataset_2,5.0,5.0,868.0,5.0,912.0
+USR_129,Arjun Verma,19.0,Male,Madurai,Tamil Nadu,Tamil,2024-05-10,Audiobook Subscription,2024-05-23,2024-06-22,dataset_2,6.0,6.0,608.0,5.999999999999999,761.0
+USR_130,Indhu Kulkarni,54.0,Female,Kanpur,Uttar Pradesh,English,2023-05-04,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,1133.0
+USR_131,Rajesh Shetty,61.0,Male,Vijayawada,Andhra Pradesh,Telugu,2023-03-16,Annual Ebook,0,0,dataset_2,3.0,2.0,891.0,2.6999999999999997,1182.0
+USR_132,Vaishnavi Patel,40.0,Female,Mysore,Karnataka,Kannada,2023-01-03,Quarterly Ebook,2023-01-06,2023-04-06,dataset_2,5.0,5.0,947.0,5.0,1254.0
+USR_133,Ramya Krishnan,45.0,Female,Kollam,Kerala,Malayalam,2025-02-27,Quarterly Ebook,2025-03-05,2025-06-03,dataset_2,3.0,3.0,76.0,2.9999999999999996,468.0
+USR_134,Priya Chawla,34.0,Female,Kolkata,West Bengal,Hindi,2026-02-12,Quarterly Ebook,2026-02-13,2026-05-14,dataset_2,1.0,1.0,0.0,1.0,118.0
+USR_135,Indhu Nair,18.0,Female,New Delhi,Delhi,English,2025-01-13,Quarterly Ebook,2025-01-25,2025-04-25,dataset_2,6.0,4.0,184.0,5.3999999999999995,513.0
+USR_136,Ranganath Sharma,33.0,Male,Madurai,Tamil Nadu,English,2025-03-11,Annual Ebook,0,0,dataset_2,3.0,2.0,207.0,2.6999999999999997,456.0
+USR_137,Yamini Menon,18.0,Female,Guntur,Andhra Pradesh,Telugu,2024-07-25,Annual Ebook,0,0,dataset_2,4.0,4.0,421.0,4.0,685.0
+USR_138,Prakash Choudhury,41.0,Male,Kolkata,Telangana,English,2025-03-17,Annual Ebook,0,0,dataset_2,3.0,3.0,382.0,2.9999999999999996,450.0
+USR_139,Nithin Patel,28.0,Male,Guntur,Andhra Pradesh,Telugu,2025-07-25,Annual Ebook,2025-07-27,2026-07-27,dataset_2,6.0,6.0,293.0,5.999999999999999,320.0
+USR_140,Kalyani Gupta,42.0,Female,New Delhi,Delhi,Hindi,2025-08-01,Quarterly Ebook,2025-08-08,2025-11-06,dataset_2,5.0,5.0,195.0,5.0,313.0
+USR_141,Vivek Hegde,47.0,Male,Kochi,Kerala,Malayalam,2025-11-20,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,202.0
+USR_142,Prakash Acharya,34.0,Male,Chennai,Tamil Nadu,Telugu,2025-02-14,Quarterly Ebook,2025-02-28,2025-05-29,dataset_2,6.0,6.0,392.0,5.999999999999999,481.0
+USR_143,Akshara Acharya,29.0,Female,Kolkata,West Bengal,Hindi,2023-07-30,Audiobook Subscription,2023-08-06,2023-09-05,dataset_2,1.0,1.0,0.0,1.0,1046.0
+USR_144,Prakash Patel,47.0,Male,Kolkata,Andhra Pradesh,Telugu,2025-12-23,Quarterly Ebook,2026-01-04,2026-04-04,dataset_2,4.0,4.0,89.0,4.0,169.0
+USR_145,Suresh Iyer,27.0,Male,Kozhikode,Kerala,Telugu,2025-05-06,Annual Ebook,0,0,dataset_2,2.0,2.0,58.0,2.0,400.0
+USR_146,Kavitha Pillai,30.0,Female,Karimnagar,Telangana,Hindi,2023-04-25,Annual Ebook,0,0,dataset_2,2.0,2.0,280.0,2.0,1142.0
+USR_147,Vivek Gupta,36.0,Male,Kollam,Kerala,Malayalam,2023-07-20,Annual Ebook,0,0,dataset_2,2.0,2.0,119.0,2.0,1056.0
+USR_148,Divya Deshmukh,28.0,Female,Vijayawada,Andhra Pradesh,Telugu,2025-03-17,Audiobook Subscription,2025-03-30,2025-04-29,dataset_2,2.0,2.0,303.0,2.0,450.0
+USR_149,Pranav Chawla,50.0,Male,Kollam,Kerala,Telugu,2025-09-22,Annual Ebook,0,0,dataset_2,2.0,2.0,102.0,2.0,261.0
+USR_150,Sowmya Reddy,49.0,Female,Kochi,Kerala,Malayalam,2023-02-14,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,1212.0
+USR_151,Anjali Menon,51.0,Female,Salem,Tamil Nadu,Hindi,2025-04-27,Annual Ebook,0,0,dataset_2,4.0,3.0,67.0,3.6999999999999997,409.0
+USR_152,Yamini Hegde,57.0,Female,Chennai,Tamil Nadu,Tamil,2024-10-07,Annual Ebook,0,0,dataset_2,6.0,6.0,506.0,5.999999999999999,611.0
+USR_153,Rajesh Bhat,48.0,Male,Kolkata,West Bengal,Hindi,2024-07-29,Quarterly Ebook,2024-07-30,2024-10-28,dataset_2,5.0,5.0,230.0,5.0,681.0
+USR_154,Ranganath Iyer,31.0,Male,Nellore,Andhra Pradesh,Hindi,2024-10-11,Annual Ebook,0,0,dataset_2,4.0,4.0,449.0,4.0,607.0
+USR_155,Deepika Deshmukh,29.0,Female,Hubli,Karnataka,English,2024-12-26,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,531.0
+USR_156,Arjun Patel,56.0,Male,New Delhi,Delhi,Telugu,2024-03-13,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,819.0
+USR_157,Yamini Pillai,42.0,Female,Guntur,Andhra Pradesh,Telugu,2024-07-22,Annual Ebook,0,0,dataset_2,2.0,2.0,77.0,2.0,688.0
+USR_158,Rohan Rao,34.0,Male,Nizamabad,Telangana,Hindi,2025-08-26,Quarterly Ebook,0,2025-11-25,dataset_2,3.0,3.0,216.0,2.9999999999999996,288.0
+USR_159,Ramesh Singh,39.0,Male,Kollam,Kerala,Malayalam,2023-03-04,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,1194.0
+USR_160,Dhanush Kulkarni,37.0,Male,Thiruvananthapuram,Kerala,Malayalam,2025-08-10,Annual Ebook,0,0,dataset_2,3.0,2.0,94.0,2.6999999999999997,304.0
+USR_161,Balaji Gowda,18.0,Male,Kozhikode,Kerala,Malayalam,2023-01-26,Annual Ebook,0,0,dataset_2,2.0,2.0,204.0,2.0,1231.0
+USR_162,Radhika Gowda,58.0,Female,Tirupati,Andhra Pradesh,Telugu,2026-01-25,Annual Ebook,0,0,dataset_2,31.0,20.0,124.0,27.7,136.0
+USR_163,Aishwarya Chawla,58.0,Female,Bangalore,Karnataka,Kannada,2025-12-24,Annual Ebook,0,0,dataset_2,5.0,5.0,104.0,5.0,168.0
+USR_164,Chandran Verma,18.0,Male,Thrissur,Kerala,Hindi,2026-02-17,Annual Ebook,2026-02-28,2027-02-28,dataset_2,1.0,1.0,0.0,1.0,113.0
+USR_165,Naveen Shetty,27.0,Male,Vijayawada,Andhra Pradesh,Telugu,2025-04-08,Annual Ebook,0,0,dataset_2,3.0,2.0,245.0,2.6999999999999997,428.0
+USR_166,Anand Naidu,30.0,Male,Vijayawada,Andhra Pradesh,English,2024-04-07,Annual Ebook,2024-04-18,2025-04-18,dataset_2,2.0,1.0,153.0,1.7,794.0
+USR_167,Vignesh Bhat,37.0,Male,Kolkata,West Bengal,Hindi,2025-11-17,Quarterly Ebook,0,2026-03-01,dataset_2,3.0,3.0,68.0,2.9999999999999996,205.0
+USR_168,Sandhya Acharya,46.0,Non-Binary,Madurai,Tamil Nadu,English,2025-10-16,Annual Ebook,0,0,dataset_2,5.0,4.0,187.0,4.7,237.0
+USR_169,Pranav Deshmukh,49.0,Male,Bangalore,Karnataka,Kannada,2025-06-30,Annual Ebook,0,0,dataset_2,4.0,4.0,155.0,4.0,345.0
+USR_170,Siddharth Hegde,40.0,Male,Hyderabad,Telangana,Telugu,2023-08-02,Annual Ebook,0,0,dataset_2,4.0,4.0,228.0,4.0,1043.0
+USR_171,Deepika Verma,64.0,Female,Mangalore,Karnataka,Telugu,2025-09-30,Annual Ebook,0,0,dataset_2,6.0,5.0,233.0,5.699999999999999,253.0
+USR_172,Anjali Hegde,40.0,Female,New Delhi,Delhi,English,2023-10-01,Audiobook Subscription,2023-10-01,2023-10-31,dataset_2,3.0,2.0,164.0,2.6999999999999997,983.0
+USR_173,Shilpa Kulkarni,36.0,Non-Binary,Kolkata,West Bengal,Tamil,2025-06-01,Quarterly Ebook,2025-06-15,2025-09-13,dataset_2,1.0,1.0,0.0,1.0,374.0
+USR_174,Amit Gupta,35.0,Non-Binary,Kanpur,Uttar Pradesh,Hindi,2023-06-24,Annual Ebook,0,0,dataset_2,2.0,2.0,357.0,2.0,1082.0
+USR_175,Akshara Raman,18.0,Female,Ahmedabad,Gujarat,Hindi,2025-09-19,Audiobook Subscription,2025-10-02,2025-11-01,dataset_2,1.0,1.0,0.0,1.0,264.0
+USR_176,Chandran Patel,35.0,Male,Kanpur,Uttar Pradesh,English,2023-01-11,Annual Ebook,0,0,dataset_2,3.0,3.0,339.0,2.9999999999999996,1246.0
+USR_177,Hari Bhat,41.0,Male,Vijayawada,Andhra Pradesh,Telugu,2023-07-03,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,1073.0
+USR_178,Yuvaraj Bose,33.0,Male,Kolkata,West Bengal,English,2023-12-07,Audiobook Subscription,2023-12-14,2024-01-13,dataset_2,4.0,4.0,672.0,4.0,916.0
+USR_179,Gautham Verma,64.0,Male,New Delhi,Delhi,Hindi,2025-03-31,Annual Ebook,2025-04-01,2026-04-01,dataset_2,4.0,3.0,135.0,3.6999999999999997,436.0
+USR_180,Meera Sharma,24.0,Female,Thrissur,Kerala,Malayalam,2023-11-16,Annual Ebook,2023-11-23,2024-11-22,dataset_2,2.0,2.0,243.0,2.0,937.0
+USR_181,Yuvaraj Gupta,49.0,Male,Hyderabad,Telangana,Telugu,2025-11-11,Annual Ebook,2025-11-22,2026-11-22,dataset_2,2.0,2.0,5.0,2.0,211.0
+USR_182,Anand Deshmukh,22.0,Male,Ahmedabad,Gujarat,English,2023-04-18,Audiobook Subscription,0,2023-05-25,dataset_2,6.0,3.0,988.0,5.1,1149.0
+USR_183,Manoj Reddy,61.0,Male,Kanpur,Uttar Pradesh,English,2024-08-17,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,662.0
+USR_184,Nandhini Singh,46.0,Female,Mumbai,Maharashtra,English,2024-09-02,Quarterly Ebook,2024-09-13,2024-12-12,dataset_2,2.0,2.0,63.0,2.0,646.0
+USR_185,Aarav Acharya,23.0,Non-Binary,Thrissur,Kerala,Malayalam,2023-12-23,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,900.0
+USR_186,Hari Rao,30.0,Male,Mumbai,Maharashtra,Hindi,2023-06-06,Quarterly Ebook,2023-06-13,2023-09-11,dataset_2,1.0,1.0,0.0,1.0,1100.0
+USR_187,Divya Hegde,46.0,Female,Bangalore,Karnataka,Kannada,2024-03-25,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,807.0
+USR_188,Anjali Bhat,45.0,Female,New Delhi,Delhi,English,2025-10-22,Quarterly Ebook,2025-10-28,2026-01-26,dataset_2,2.0,2.0,23.0,2.0,231.0
+USR_189,Vikram Shetty,60.0,Male,Hyderabad,Telangana,English,2025-09-26,Quarterly Ebook,2025-10-08,2026-01-06,dataset_2,6.0,2.0,162.0,4.799999999999999,257.0
+USR_190,Radhika Verma,26.0,Female,Lucknow,Uttar Pradesh,English,2024-04-12,Audiobook Subscription,2024-04-14,2024-05-14,dataset_2,3.0,3.0,262.0,2.9999999999999996,789.0
+USR_191,Divya Shetty,34.0,Female,Warangal,Telangana,Telugu,2024-05-28,Quarterly Ebook,2024-06-11,2024-09-09,dataset_2,3.0,3.0,139.0,2.9999999999999996,743.0
+USR_192,Gautham Patel,42.0,Male,Hyderabad,Telangana,Hindi,2023-10-20,Annual Ebook,2023-10-29,2024-10-28,dataset_2,4.0,3.0,751.0,3.6999999999999997,964.0
+USR_193,Ritu Rao,34.0,Female,Coimbatore,Tamil Nadu,English,2026-02-25,Annual Ebook,0,0,dataset_2,4.0,3.0,72.0,3.6999999999999997,105.0
+USR_194,Malini Bose,24.0,Non-Binary,Belgaum,Karnataka,Kannada,2024-03-15,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,817.0
+USR_195,Kalyani Pillai,27.0,Female,Salem,Tamil Nadu,Tamil,2024-05-12,Audiobook Subscription,2024-05-17,2024-06-16,dataset_2,4.0,4.0,330.0,4.0,759.0
+USR_196,Rahul Gowda,44.0,Male,Mangalore,Karnataka,Kannada,2025-06-04,Annual Ebook,2025-06-11,2026-06-11,dataset_2,1.0,1.0,0.0,1.0,371.0
+USR_197,  Indhu Menon ,48.0,Female,Kanpur,Uttar Pradesh,Hindi,2024-07-01,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,709.0
+USR_198,Pooja Reddy,41.0,Female,Trichy,Tamil Nadu,Tamil,2023-04-26,Audiobook Subscription,2023-05-06,2023-06-05,dataset_2,2.0,2.0,146.0,2.0,1141.0
+USR_199,Aarav Verma,18.0,Male,Bangalore,Karnataka,Kannada,2024-12-09,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,548.0
+USR_200,Yamini Krishnan,37.0,Male,Chennai,Tamil Nadu,Tamil,2024-03-02,Quarterly Ebook,2024-03-06,2024-06-04,dataset_2,3.0,3.0,184.0,2.9999999999999996,830.0
+USR_201,Nithin Kulkarni,56.0,Male,Kollam,Kerala,Malayalam,2024-07-04,Annual Ebook,0,0,dataset_2,7.0,5.0,433.0,6.3999999999999995,706.0
+USR_202,Gautham Singh,36.0,Male,Visakhapatnam,Andhra Pradesh,Telugu,2025-10-06,Annual Ebook,2025-10-07,2026-10-07,dataset_2,4.0,4.0,122.0,4.0,247.0
+USR_203,Jagadish Shetty,36.0,Male,Pune,Maharashtra,English,2025-09-28,Annual Ebook,2025-10-07,2026-10-07,dataset_2,1.0,1.0,0.0,1.0,255.0
+USR_204,  Pranav Choudhury ,38.0,Non-Binary,Thrissur,Kerala,Malayalam,,Quarterly Ebook,2023-04-30,2023-07-29,dataset_2,6.0,6.0,767.0,5.999999999999999,0.0
+USR_205,Anjali Krishnan,45.0,Female,Lucknow,Uttar Pradesh,Hindi,2025-05-26,Annual Ebook,0,0,dataset_2,7.0,5.0,219.0,6.3999999999999995,380.0
+USR_206,Nandhini Krishnan,50.0,Female,New Delhi,Delhi,Hindi,2024-06-21,Annual Ebook,0,0,dataset_2,2.0,2.0,185.0,2.0,719.0
+USR_207,Vivek Bhat,43.0,Male,Visakhapatnam,Andhra Pradesh,Telugu,2024-11-30,Annual Ebook,0,0,dataset_2,6.0,6.0,376.0,5.999999999999999,557.0
+USR_208,Jagadish Verma,22.0,Male,Kozhikode,Kerala,Malayalam,2026-01-12,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,149.0
+USR_209,Jagadish Raman,44.0,Male,Visakhapatnam,Andhra Pradesh,Telugu,2024-04-23,Annual Ebook,0,0,dataset_2,4.0,4.0,275.0,4.0,778.0
+USR_210,Sandhya Nair,23.0,Female,Thrissur,Kerala,Malayalam,2023-05-20,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,1117.0
+USR_211,Chandran Banerjee,34.0,Male,Trichy,Tamil Nadu,English,2024-01-13,Quarterly Ebook,2024-01-15,2024-04-14,dataset_2,4.0,2.0,527.0,3.4,879.0
+USR_212,Deepika Nair,31.0,Female,Hubli,Karnataka,Kannada,2024-04-10,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,791.0
+USR_213,Anand Hegde,47.0,Male,Hyderabad,Telangana,Telugu,2023-01-11,Audiobook Subscription,2023-01-16,2023-02-15,dataset_2,2.0,1.0,7.0,1.7,1246.0
+USR_214,Nandhini Kulkarni,51.0,Female,Thiruvananthapuram,Kerala,Malayalam,2025-07-26,Audiobook Subscription,2025-07-29,2025-08-28,dataset_2,4.0,3.0,29.0,3.6999999999999997,319.0
+USR_215,Sanjay Singh,51.0,Male,Warangal,Telangana,Telugu,2024-03-11,Annual Ebook,2024-03-17,2025-03-17,dataset_2,5.0,4.0,369.0,4.7,821.0
+USR_216,Amit Rao,42.0,Male,Kochi,Kerala,English,2024-12-18,Audiobook Subscription,2024-12-21,2025-01-20,dataset_2,5.0,3.0,369.0,4.4,539.0
+USR_217,  Adithya Deshmukh ,59.0,Male,Kanpur,Uttar Pradesh,Hindi,2024-04-15,Annual Ebook,0,0,dataset_2,4.0,4.0,604.0,4.0,786.0
+USR_218,Sneha Kulkarni,33.0,Female,Thrissur,Kerala,Malayalam,2025-12-10,Annual Ebook,0,0,dataset_2,0.0,0.0,0.0,0.0,182.0
+USR_219,  Gautham Raman ,55.0,Male,Chennai,Tamil Nadu,Tamil,2025-10-18,Quarterly Ebook,2025-10-20,2026-01-18,dataset_2,6.0,6.0,206.0,5.999999999999999,235.0
+USR_220,Priya Gowda,29.0,Female,Lucknow,Uttar Pradesh,Tamil,2024-02-06,Annual Ebook,0,0,dataset_2,3.0,3.0,449.0,2.9999999999999996,855.0
+USR_221,Ritu Gowda,42.0,Female,Warangal,Telangana,Telugu,2023-02-08,Annual Ebook,0,0,dataset_2,5.0,5.0,1045.0,5.0,1218.0
+USR_222,Keerthi Iyer,63.0,Male,Nellore,Andhra Pradesh,Telugu,2025-03-20,Annual Ebook,0,0,dataset_2,6.0,6.0,252.0,5.999999999999999,447.0
+USR_223,Prakash Swamy,43.0,Male,Chennai,Tamil Nadu,Malayalam,2025-10-03,Annual Ebook,0,0,dataset_2,29.0,13.0,238.0,24.199999999999996,250.0
+USR_224,Jyothi Murthy,30.0,Female,Warangal,Telangana,Malayalam,2025-09-05,Annual Ebook,0,0,dataset_2,3.0,3.0,177.0,2.9999999999999996,278.0
+USR_225,Sneha Singh,22.0,Female,Mysore,Karnataka,Kannada,2025-12-29,Annual Ebook,2025-12-30,2026-12-30,dataset_2,4.0,4.0,137.0,4.0,163.0
+USR_226,Shruti Reddy,34.0,Female,Nizamabad,Telangana,Telugu,2025-08-07,Annual Ebook,0,0,dataset_2,2.0,2.0,10.0,2.0,307.0
+USR_227,Eswar Banerjee,36.0,Male,Tirupati,Andhra Pradesh,Telugu,2025-11-10,Annual Ebook,0,0,dataset_2,5.0,3.0,139.0,4.4,212.0
+USR_228,Balaji Iyer,18.0,Male,Warangal,Telangana,Telugu,2024-10-19,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,599.0
+USR_229,Ramya Shetty,41.0,Male,Hyderabad,Telangana,Hindi,2023-01-15,Annual Ebook,0,0,dataset_2,4.0,4.0,827.0,4.0,1242.0
+USR_230,Jagadish Shetty,38.0,Male,Karimnagar,Telangana,Telugu,2023-05-09,Quarterly Ebook,2023-05-21,2023-08-19,dataset_2,4.0,3.0,857.0,3.6999999999999997,1128.0
+USR_231,Chitra Sharma,27.0,Female,Karimnagar,Telangana,Telugu,2023-06-25,Quarterly Ebook,2023-06-29,2023-09-27,dataset_2,1.0,1.0,0.0,1.0,1081.0
+USR_232,Malini Shetty,47.0,Male,Nagpur,Maharashtra,English,2026-03-13,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,89.0
+USR_233,Priya Gupta,18.0,Female,Thrissur,Kerala,Malayalam,2023-08-05,Annual Ebook,2023-08-18,2024-08-17,dataset_2,6.0,6.0,834.0,5.999999999999999,1040.0
+USR_234,Vikram Gowda,33.0,Male,Guntur,Andhra Pradesh,Telugu,2024-02-20,Audiobook Subscription,2024-02-28,2024-03-29,dataset_2,7.0,5.0,665.0,6.3999999999999995,841.0
+USR_235,Pranav Nair,46.0,Non-Binary,New Delhi,Delhi,English,2024-01-20,Annual Ebook,2024-01-30,0,dataset_2,5.0,2.0,281.0,4.1,872.0
+USR_236,Rajesh Gowda,45.0,Male,Chennai,Tamil Nadu,Tamil,2026-03-10,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,92.0
+USR_237,Malini Gupta,51.0,Female,Salem,Tamil Nadu,Tamil,2025-12-19,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,173.0
+USR_238,Raghav Singh,27.0,Male,Guntur,Andhra Pradesh,Hindi,2024-06-08,Quarterly Ebook,2024-06-10,2024-09-08,dataset_2,6.0,4.0,545.0,5.3999999999999995,732.0
+USR_239,Pooja Kulkarni,27.0,Female,Salem,Tamil Nadu,Tamil,2023-09-03,Annual Ebook,0,0,dataset_2,4.0,4.0,543.0,4.0,1011.0
+USR_240,Nithin Rao,49.0,Male,Kolkata,West Bengal,English,2024-01-24,Annual Ebook,0,0,dataset_2,4.0,3.0,475.0,3.6999999999999997,868.0
+USR_241,Deepika Sharma,34.0,Female,Hubli,Karnataka,Kannada,2025-12-29,Annual Ebook,0,0,dataset_2,6.0,6.0,114.0,5.999999999999999,163.0
+USR_242,Vivek Nair,42.0,Male,Madurai,Tamil Nadu,Kannada,2024-10-18,Quarterly Ebook,2024-10-25,2025-01-23,dataset_2,1.0,1.0,0.0,1.0,600.0
+USR_243,Jagadish Patel,43.0,Male,Vijayawada,Andhra Pradesh,Telugu,2026-03-15,Audiobook Subscription,2026-03-25,2026-04-24,dataset_2,6.0,4.0,83.0,5.3999999999999995,87.0
+USR_244,Adithya Patel,38.0,Non-Binary,Nizamabad,Telangana,Telugu,2025-09-02,Annual Ebook,2025-09-16,2026-09-16,dataset_2,1.0,1.0,0.0,1.0,281.0
+USR_245,Prakash Banerjee,29.0,Male,Kolkata,West Bengal,Hindi,2023-08-06,Annual Ebook,0,0,dataset_2,0.0,0.0,0.0,0.0,1039.0
+USR_246,Jyothi Shetty,45.0,Female,Madurai,Tamil Nadu,Tamil,2025-07-31,Quarterly Ebook,2025-08-11,2025-11-09,dataset_2,4.0,4.0,223.0,4.0,314.0
+USR_247,Vikram Kulkarni,37.0,Male,Kochi,Kerala,Malayalam,2023-01-19,Audiobook Subscription,2023-02-02,2023-03-04,dataset_2,5.0,4.0,1117.0,4.7,1238.0
+USR_248,Jagadish Banerjee,50.0,Male,Hubli,Karnataka,English,2026-04-11,Annual Ebook,0,0,dataset_2,4.0,4.0,33.0,4.0,60.0
+USR_249,Aditi Menon,53.0,Female,Thrissur,Kerala,Malayalam,2024-09-16,Annual Ebook,0,0,dataset_2,3.0,3.0,466.0,2.9999999999999996,632.0
+USR_250,Sowmya Menon,27.0,Female,Madurai,Tamil Nadu,Tamil,2026-02-07,Audiobook Subscription,2026-02-10,2026-03-12,dataset_2,27.0,15.0,113.0,23.4,123.0
+USR_251,Keerthi Bose,35.0,Male,Vijayawada,Andhra Pradesh,Telugu,2026-01-04,Annual Ebook,0,0,dataset_2,3.0,2.0,77.0,2.6999999999999997,157.0
+USR_252,Vignesh Joshi,40.0,Male,New Delhi,Delhi,Hindi,2026-04-28,Audiobook Subscription,2026-05-09,2026-06-08,dataset_2,1.0,1.0,0.0,1.0,43.0
+USR_253,Ananya Bhat,46.0,Female,Kochi,Kerala,Malayalam,2025-03-04,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,463.0
+USR_254,Anjali Reddy,34.0,Female,Kolkata,Kerala,Malayalam,2025-03-01,Annual Ebook,0,0,dataset_2,6.0,5.0,375.0,5.699999999999999,466.0
+USR_255,Aditi Hegde,23.0,Female,New Delhi,Delhi,English,2026-01-14,Annual Ebook,2026-01-20,2027-01-20,dataset_2,2.0,1.0,66.0,1.7,147.0
+USR_256,Vijay Verma,50.0,Male,Ahmedabad,Gujarat,Hindi,2025-11-11,Audiobook Subscription,2025-11-13,2025-12-13,dataset_2,4.0,3.0,80.0,3.6999999999999997,211.0
+USR_257,Siddharth Sharma,41.0,Male,Kolkata,West Bengal,English,2023-01-13,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,1244.0
+USR_258,Balaji Swamy,42.0,Male,Warangal,Telangana,Telugu,2025-04-29,Annual Ebook,2025-05-02,2026-05-02,dataset_2,2.0,2.0,43.0,2.0,407.0
+USR_259,Manoj Kumar,29.0,Male,Pune,Maharashtra,Tamil,2025-10-18,Annual Ebook,0,0,dataset_2,3.0,2.0,84.0,2.6999999999999997,235.0
+USR_260,Gayathri Iyer,18.0,Female,New Delhi,Delhi,Hindi,2023-12-26,Audiobook Subscription,2024-01-03,2024-02-02,dataset_2,2.0,2.0,94.0,2.0,897.0
+USR_261,Gautham Gupta,40.0,Male,New Delhi,Delhi,Hindi,2024-05-04,Audiobook Subscription,2024-05-10,2024-06-09,dataset_2,6.0,6.0,392.0,5.999999999999999,767.0
+USR_262,Harini Bhat,36.0,Female,New Delhi,Delhi,Telugu,2023-09-13,Annual Ebook,0,0,dataset_2,2.0,2.0,442.0,2.0,1001.0
+USR_263,Abhinav Shetty,25.0,Male,Nizamabad,Telangana,Hindi,2023-05-21,Annual Ebook,0,0,dataset_2,4.0,4.0,847.0,4.0,1116.0
+USR_264,Priya Rao,48.0,Female,Mangalore,Karnataka,Kannada,2023-03-18,Quarterly Ebook,2023-03-22,2023-06-20,dataset_2,2.0,2.0,718.0,2.0,1180.0
+USR_265,Ramya Kumar,40.0,Female,Coimbatore,Tamil Nadu,Tamil,2023-04-06,Annual Ebook,2023-04-09,2024-04-08,dataset_2,5.0,4.0,1006.0,4.7,1161.0
+USR_266,  Madhavan Joshi ,18.0,Male,Mumbai,Maharashtra,English,2023-11-04,Audiobook Subscription,2023-11-11,2023-12-11,dataset_2,3.0,2.0,866.0,2.6999999999999997,949.0
+USR_267,Lakshmi Choudhury,33.0,Female,Karimnagar,Telangana,Telugu,2023-11-30,Audiobook Subscription,2023-12-04,2024-01-03,dataset_2,1.0,1.0,0.0,1.0,923.0
+USR_268,Rajesh Sharma,44.0,Male,Karimnagar,Telangana,Hindi,2025-01-14,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,512.0
+USR_269,Harish Verma,39.0,Male,Pune,Maharashtra,English,2024-07-11,Annual Ebook,0,0,dataset_2,5.0,4.0,519.0,4.7,699.0
+USR_270,Kalyani Bose,39.0,Female,Madurai,Tamil Nadu,Tamil,2023-02-15,Audiobook Subscription,2023-02-27,2023-03-29,dataset_2,1.0,1.0,0.0,1.0,1211.0
+USR_271,Saravanan Murthy,30.0,Male,Bangalore,Karnataka,Kannada,2024-01-10,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,882.0
+USR_272,Divya Acharya,19.0,Female,New Delhi,Delhi,English,2026-02-20,Quarterly Ebook,2026-03-06,2026-06-04,dataset_2,1.0,1.0,0.0,1.0,110.0
+USR_273,Kalyani Gowda,40.0,Female,Nizamabad,Telangana,Telugu,2023-02-28,Annual Ebook,0,0,dataset_2,3.0,3.0,330.0,2.9999999999999996,1198.0
+USR_274,Suresh Kumar,38.0,Male,New Delhi,Delhi,Hindi,2023-10-03,Audiobook Subscription,2023-10-16,2023-11-15,dataset_2,0.0,0.0,0.0,0.0,981.0
+USR_275,Divya Kumar,18.0,Female,Trichy,Tamil Nadu,Hindi,2023-04-23,Annual Ebook,0,0,dataset_2,4.0,3.0,840.0,3.6999999999999997,1144.0
+USR_276,Pavithra Gowda,26.0,Female,Hubli,Karnataka,Malayalam,2025-01-26,Quarterly Ebook,2025-01-28,2025-04-28,dataset_2,4.0,3.0,347.0,3.6999999999999997,500.0
+USR_277,Ritu Raman,58.0,Female,Thiruvananthapuram,Kerala,Malayalam,2026-02-14,Quarterly Ebook,2026-02-16,2026-05-17,dataset_2,4.0,4.0,85.0,4.0,116.0
+USR_278,Aarav Raman,53.0,Male,Kolkata,Gujarat,Hindi,2024-05-09,Audiobook Subscription,2024-05-18,2024-06-17,dataset_2,6.0,6.0,672.0,5.999999999999999,762.0
+USR_279,Amit Iyer,44.0,Male,New Delhi,Delhi,English,2025-11-06,Quarterly Ebook,2025-11-20,2026-02-18,dataset_2,3.0,2.0,84.0,2.6999999999999997,216.0
+USR_280,Aarav Menon,18.0,Male,Chennai,Tamil Nadu,Tamil,2024-11-11,Annual Ebook,2024-11-13,2025-11-13,dataset_2,5.0,5.0,424.0,5.0,576.0
+USR_281,Pooja Choudhury,32.0,Female,Warangal,Telangana,Telugu,2023-04-25,Annual Ebook,0,2024-04-24,dataset_2,6.0,5.0,1058.0,5.699999999999999,1142.0
+USR_282,Chandran Menon,27.0,Male,Ahmedabad,Gujarat,Hindi,2025-08-11,Audiobook Subscription,2025-08-22,2025-09-21,dataset_2,5.0,5.0,214.0,5.0,303.0
+USR_283,Karthik Naidu,47.0,Male,Mysore,Karnataka,Kannada,2025-05-10,Annual Ebook,2025-05-21,2026-05-21,dataset_2,3.0,3.0,264.0,2.9999999999999996,396.0
+USR_284,Chitra Pillai,47.0,Female,Kolkata,Andhra Pradesh,Telugu,2024-04-02,Annual Ebook,2024-04-12,2025-04-12,dataset_2,6.0,4.0,433.0,5.3999999999999995,799.0
+USR_285,Shilpa Iyer,33.0,Female,Kolkata,West Bengal,Hindi,2025-10-23,Annual Ebook,0,0,dataset_2,6.0,6.0,166.0,5.999999999999999,230.0
+USR_286,Nandhini Reddy,33.0,Female,Madurai,Tamil Nadu,Tamil,2024-02-14,Annual Ebook,0,0,dataset_2,4.0,4.0,632.0,4.0,847.0
+USR_287,Vikram Nair,53.0,Male,Tirupati,Andhra Pradesh,Telugu,2026-03-21,Quarterly Ebook,2026-03-29,2026-06-27,dataset_2,4.0,2.0,48.0,3.4,81.0
+USR_288,Jagadish Deshmukh,51.0,Male,Warangal,Telangana,Telugu,2023-05-03,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,1134.0
+USR_289,Priya Murthy,41.0,Female,Kolkata,Kerala,Malayalam,2026-03-22,Annual Ebook,0,0,dataset_2,4.0,3.0,63.0,3.6999999999999997,80.0
+USR_290,Deepika Rao,45.0,Female,Warangal,Telangana,English,2025-09-01,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,282.0
+USR_291,Harini Bose,62.0,Female,Thrissur,Kerala,Malayalam,2024-03-05,Quarterly Ebook,2024-03-19,2024-06-17,dataset_2,2.0,2.0,261.0,2.0,827.0
+USR_292,Aishwarya Kulkarni,35.0,Female,Kollam,Kerala,Malayalam,2023-06-05,Audiobook Subscription,2023-06-14,2023-07-14,dataset_2,4.0,3.0,324.0,3.6999999999999997,1101.0
+USR_293,Chitra Banerjee,39.0,Female,Karimnagar,Telangana,Telugu,2025-01-04,Annual Ebook,0,0,dataset_2,3.0,3.0,396.0,2.9999999999999996,522.0
+USR_294,Rajesh Naidu,45.0,Male,Vijayawada,Andhra Pradesh,Telugu,2025-01-08,Audiobook Subscription,2025-01-22,2025-02-21,dataset_2,5.0,4.0,457.0,4.7,518.0
+USR_295,Dhanush Deshmukh,46.0,Male,Mumbai,Maharashtra,Hindi,2026-03-01,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,101.0
+USR_296,Bindu Swamy,33.0,Female,Hubli,Karnataka,Kannada,2026-03-25,Quarterly Ebook,2026-03-30,2026-06-28,dataset_2,3.0,3.0,55.0,2.9999999999999996,77.0
+USR_297,Neha Kulkarni,27.0,Female,Belgaum,Karnataka,Hindi,2023-02-14,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,1212.0
+USR_298,Shilpa Deshmukh,23.0,Female,Nellore,Andhra Pradesh,Telugu,2025-09-14,Audiobook Subscription,2025-09-24,2025-10-24,dataset_2,4.0,2.0,165.0,3.4,269.0
+USR_299,Gautham Das,40.0,Male,Ahmedabad,Gujarat,Hindi,2024-02-06,Annual Ebook,2024-02-17,2025-02-16,dataset_2,2.0,2.0,244.0,2.0,855.0
+USR_300,Arjun Singh,45.0,Male,Mysore,Karnataka,Kannada,2024-09-28,Quarterly Ebook,2024-10-11,2025-01-09,dataset_2,2.0,2.0,107.0,2.0,620.0
+USR_301,  Aditi Das ,62.0,Female,Coimbatore,Tamil Nadu,Tamil,2024-04-19,Annual Ebook,2024-04-30,2025-04-30,dataset_2,2.0,2.0,36.0,2.0,782.0
+USR_302,Sneha Choudhury,34.0,Female,Nizamabad,Telangana,Telugu,2025-08-26,Annual Ebook,0,0,dataset_2,4.0,4.0,177.0,4.0,288.0
+USR_303,Yuvaraj Krishnan,41.0,Male,Salem,Tamil Nadu,Tamil,2024-03-05,Quarterly Ebook,2024-03-18,2024-06-16,dataset_2,5.0,5.0,647.0,5.0,827.0
+USR_304,Balaji Rao,53.0,Male,Bangalore,Karnataka,Kannada,2024-04-04,Annual Ebook,0,0,dataset_2,3.0,3.0,460.0,2.9999999999999996,797.0
+USR_305,Jagadish Swamy,39.0,Male,New Delhi,Delhi,English,2025-11-09,Annual Ebook,0,0,dataset_2,5.0,4.0,137.0,4.7,213.0
+USR_306,Karthik Deshmukh,45.0,Male,Warangal,Telangana,Telugu,2026-01-31,Annual Ebook,2026-02-12,2027-02-12,dataset_2,5.0,5.0,126.0,5.0,130.0
+USR_307,Indhu Chawla,24.0,Female,Kolkata,West Bengal,English,2024-05-29,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,742.0
+USR_308,Vaishnavi Banerjee,41.0,Female,Warangal,Telangana,Telugu,2025-11-23,Annual Ebook,0,0,dataset_2,5.0,5.0,125.0,5.0,199.0
+USR_309,Vikram Banerjee,46.0,Male,Karimnagar,Telangana,Telugu,2026-01-16,Annual Ebook,0,0,dataset_2,4.0,4.0,61.0,4.0,145.0
+USR_310,Dhanush Chawla,52.0,Male,Nizamabad,Telangana,Telugu,2026-04-16,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,55.0
+USR_311,Pooja Kulkarni,43.0,Female,Karimnagar,Telangana,Telugu,2025-01-11,Annual Ebook,0,0,dataset_2,5.0,5.0,379.0,5.0,515.0
+USR_312,Pranav Swamy,35.0,Male,Thiruvananthapuram,Kerala,Tamil,2023-01-07,Quarterly Ebook,2023-01-10,2023-04-10,dataset_2,5.0,5.0,881.0,5.0,1250.0
+USR_313,Eswar Pillai,25.0,Male,Bangalore,Karnataka,Hindi,2024-04-08,Audiobook Subscription,2024-04-15,2024-05-15,dataset_2,4.0,2.0,246.0,3.4,793.0
+USR_314,Aishwarya Bhat,33.0,Female,Nizamabad,Telangana,Telugu,2023-09-14,Audiobook Subscription,2023-09-28,2023-10-28,dataset_2,1.0,1.0,0.0,1.0,1000.0
+USR_315,Ananya Hegde,38.0,Female,Pune,Maharashtra,English,2024-02-02,Annual Ebook,2024-02-11,2025-02-10,dataset_2,5.0,2.0,824.0,4.1,859.0
+USR_316,Vikram Krishnan,36.0,Male,Mysore,Karnataka,Kannada,2025-09-06,Annual Ebook,0,0,dataset_2,4.0,4.0,207.0,4.0,277.0
+USR_317,Ramesh Krishnan,39.0,Male,Lucknow,Uttar Pradesh,Hindi,2025-08-17,Annual Ebook,0,0,dataset_2,6.0,6.0,181.0,5.999999999999999,297.0
+USR_318,Ramesh Das,30.0,Male,Thiruvananthapuram,Kerala,Malayalam,2024-09-28,Annual Ebook,0,0,dataset_2,3.0,1.0,83.0,2.3999999999999995,620.0
+USR_319,Vignesh Bose,58.0,Male,Trichy,Tamil Nadu,Tamil,2026-01-29,Annual Ebook,0,0,dataset_2,3.0,3.0,127.0,2.9999999999999996,132.0
+USR_320,Suresh Gupta,37.0,Male,Madurai,Tamil Nadu,Tamil,2025-11-17,Annual Ebook,0,0,dataset_2,4.0,4.0,62.0,4.0,205.0
+USR_321,Sandhya Banerjee,59.0,Female,Nellore,Andhra Pradesh,English,2024-02-21,Audiobook Subscription,2024-02-22,2024-03-23,dataset_2,1.0,1.0,0.0,1.0,840.0
+USR_322,Dhanush Reddy,24.0,Male,Karimnagar,Telangana,Malayalam,2025-10-04,Audiobook Subscription,2025-10-06,2025-11-05,dataset_2,4.0,4.0,145.0,4.0,249.0
+USR_323,Vikram Banerjee,25.0,Male,Thrissur,Kerala,Telugu,2024-08-12,Annual Ebook,2024-08-21,2025-08-21,dataset_2,4.0,4.0,464.0,4.0,667.0
+USR_324,Harish Das,36.0,Male,Visakhapatnam,Andhra Pradesh,Telugu,2025-11-19,Quarterly Ebook,2025-11-30,2026-02-28,dataset_2,2.0,2.0,75.0,2.0,203.0
+USR_325,Anjali Hegde,31.0,Female,Pune,Maharashtra,English,2024-01-22,Annual Ebook,0,0,dataset_2,4.0,3.0,568.0,3.6999999999999997,870.0
+USR_326,Nandhini Nair,53.0,Female,Mumbai,Maharashtra,English,2023-09-01,Quarterly Ebook,0,2023-12-07,dataset_2,1.0,1.0,0.0,1.0,1013.0
+USR_327,Deepika Patel,45.0,Female,Visakhapatnam,Andhra Pradesh,Telugu,2025-05-05,Quarterly Ebook,2025-05-11,2025-08-09,dataset_2,24.0,19.0,399.0,22.499999999999996,401.0
+USR_328,Lakshmi Gupta,35.0,Female,Karimnagar,Telangana,Telugu,2025-02-11,Annual Ebook,2025-02-11,2026-02-11,dataset_2,3.0,3.0,44.0,2.9999999999999996,484.0
+USR_329,Manoj Sharma,18.0,Male,Tirupati,Andhra Pradesh,Telugu,2025-10-13,Quarterly Ebook,2025-10-18,2026-01-16,dataset_2,3.0,3.0,131.0,2.9999999999999996,240.0
+USR_330,  Vikram Deshmukh ,27.0,Male,Kollam,Kerala,Malayalam,2025-10-17,Annual Ebook,0,0,dataset_2,3.0,3.0,127.0,2.9999999999999996,236.0
+USR_331,Ramesh Acharya,29.0,Male,Ahmedabad,Gujarat,English,2023-03-13,Audiobook Subscription,2023-03-20,2023-04-19,dataset_2,1.0,1.0,0.0,1.0,1185.0
+USR_332,Manoj Iyer,31.0,Male,Warangal,Telangana,Telugu,2026-04-28,Annual Ebook,0,0,dataset_2,4.0,4.0,22.0,4.0,43.0
+USR_333,Manoj Sharma,46.0,Male,Kollam,Kerala,Malayalam,2025-02-13,Annual Ebook,0,0,dataset_2,4.0,4.0,192.0,4.0,482.0
+USR_334,Ritu Bose,34.0,Female,New Delhi,Delhi,English,2023-07-19,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,1057.0
+USR_335,Harini Murthy,51.0,Female,Mangalore,Karnataka,Kannada,2024-06-16,Audiobook Subscription,2024-06-23,2024-07-23,dataset_2,6.0,4.0,598.0,5.3999999999999995,724.0
+USR_336,Anitha Verma,56.0,Female,Kozhikode,Kerala,Malayalam,2025-05-09,Quarterly Ebook,2025-05-12,2025-08-10,dataset_2,1.0,1.0,0.0,1.0,397.0
+USR_337,Adithya Krishnan,28.0,Male,New Delhi,Delhi,English,2026-03-27,Annual Ebook,0,0,dataset_2,5.0,3.0,53.0,4.4,75.0
+USR_338,Anjali Krishnan,51.0,Female,Ahmedabad,Gujarat,English,2024-10-18,Annual Ebook,2024-10-26,2025-10-26,dataset_2,5.0,3.0,410.0,4.4,600.0
+USR_339,Jagadish Nair,41.0,Male,Kolkata,West Bengal,English,2025-12-08,Annual Ebook,2025-12-11,2026-12-11,dataset_2,4.0,2.0,117.0,3.4,184.0
+USR_340,Priya Joshi,45.0,Female,Ahmedabad,Gujarat,English,2025-05-21,Annual Ebook,0,0,dataset_2,3.0,3.0,280.0,2.9999999999999996,385.0
+USR_341,Chitra Raman,52.0,Male,Madurai,Tamil Nadu,Tamil,2026-04-28,Audiobook Subscription,2026-05-05,2026-06-04,dataset_2,1.0,1.0,0.0,1.0,43.0
+USR_342,Malini Acharya,44.0,Female,Mangalore,Karnataka,Kannada,2025-11-26,Annual Ebook,0,0,dataset_2,5.0,5.0,129.0,5.0,196.0
+USR_343,Sneha Iyer,33.0,Non-Binary,Mysore,Karnataka,Kannada,2024-02-01,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,860.0
+USR_344,Rajesh Sharma,27.0,Male,Kozhikode,Kerala,Malayalam,2025-06-08,Quarterly Ebook,2025-06-09,2025-09-07,dataset_2,5.0,5.0,274.0,5.0,367.0
+USR_345,Harini Murthy,30.0,Female,Thiruvananthapuram,Kerala,Malayalam,2025-04-14,Annual Ebook,0,0,dataset_2,3.0,3.0,355.0,2.9999999999999996,422.0
+USR_346,Naveen Krishnan,32.0,Male,Kollam,Kerala,Malayalam,2025-05-22,Annual Ebook,2025-06-01,2026-06-01,dataset_2,3.0,3.0,292.0,2.9999999999999996,384.0
+USR_347,Eswar Gupta,23.0,Male,New Delhi,Delhi,English,2024-05-13,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,758.0
+USR_348,Meera Singh,19.0,Female,Kozhikode,Kerala,Malayalam,2025-03-01,Annual Ebook,0,0,dataset_2,4.0,4.0,404.0,4.0,466.0
+USR_349,Pranav Bhat,43.0,Male,Kollam,Kerala,Tamil,2023-04-12,Annual Ebook,0,0,dataset_2,4.0,4.0,737.0,4.0,1155.0
+USR_350,Swathi Banerjee,61.0,Female,Kolkata,Telangana,Telugu,2023-08-27,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,1018.0
+USR_351,Priya Patel,32.0,Female,Kolkata,West Bengal,Hindi,2025-09-06,Annual Ebook,0,0,dataset_2,6.0,6.0,256.0,5.999999999999999,277.0
+USR_352,Jagadish Krishnan,42.0,Male,Nagpur,Maharashtra,English,2024-07-09,Audiobook Subscription,2024-07-10,2024-08-09,dataset_2,4.0,3.0,384.0,3.6999999999999997,701.0
+USR_353,Balaji Naidu,35.0,Male,Warangal,Telangana,Telugu,2023-07-31,Annual Ebook,2023-08-12,0,dataset_2,5.0,5.0,546.0,5.0,1045.0
+USR_354,Shruti Pillai,60.0,Female,Trichy,Tamil Nadu,Hindi,2023-08-08,Annual Ebook,0,0,dataset_2,2.0,2.0,127.0,2.0,1037.0
+USR_355,Madhavan Shetty,39.0,Male,Vijayawada,Andhra Pradesh,Telugu,2025-09-30,Audiobook Subscription,2025-10-02,2025-11-01,dataset_2,2.0,2.0,204.0,2.0,253.0
+USR_356,Suresh Naidu,46.0,Male,Kochi,Kerala,Hindi,2025-05-02,Annual Ebook,0,0,dataset_2,5.0,4.0,144.0,4.7,404.0
+USR_357,Chitra Krishnan,47.0,Female,Mysore,Karnataka,Kannada,2025-08-20,Annual Ebook,0,0,dataset_2,5.0,5.0,126.0,5.0,294.0
+USR_358,Vignesh Gupta,27.0,Male,Belgaum,Karnataka,Kannada,,Audiobook Subscription,2024-05-08,2024-06-07,dataset_2,4.0,3.0,317.0,3.6999999999999997,0.0
+USR_359,Vijay Kulkarni,18.0,Male,Vijayawada,Andhra Pradesh,Telugu,2024-05-30,Audiobook Subscription,2024-06-06,2024-07-06,dataset_2,4.0,2.0,383.0,3.4,741.0
+USR_360,Balaji Das,39.0,Male,Vijayawada,Andhra Pradesh,Telugu,2023-11-02,Annual Ebook,0,0,dataset_2,4.0,4.0,730.0,4.0,951.0
+USR_361,Kavitha Swamy,38.0,Female,Kolkata,Telangana,English,2025-05-06,Annual Ebook,0,0,dataset_2,4.0,3.0,156.0,3.6999999999999997,400.0
+USR_362,  Shruti Das ,41.0,Female,Kozhikode,Kerala,Malayalam,2025-02-17,Quarterly Ebook,2025-02-23,2025-05-24,dataset_2,6.0,5.0,313.0,5.699999999999999,478.0
+USR_363,Aarav Krishnan,44.0,Male,Kollam,Kerala,Malayalam,2023-08-16,Annual Ebook,2023-08-23,2024-08-22,dataset_2,5.0,4.0,896.0,4.7,1029.0
+USR_364,Priya Hegde,45.0,Female,Bangalore,Karnataka,Kannada,2025-03-15,Audiobook Subscription,2025-03-20,2025-04-19,dataset_2,6.0,5.0,384.0,5.699999999999999,452.0
+USR_365,  Ranganath Choudhury ,25.0,Male,Guntur,Andhra Pradesh,Telugu,2025-06-04,Annual Ebook,0,0,dataset_2,7.0,7.0,271.0,7.0,371.0
+USR_366,Malini Gowda,57.0,Female,Warangal,Telangana,Telugu,2024-07-02,Annual Ebook,2024-07-07,2025-07-07,dataset_2,7.0,6.0,642.0,6.699999999999999,708.0
+USR_367,Yamini Choudhury,42.0,Female,Mysore,Karnataka,Kannada,2025-09-26,Annual Ebook,0,0,dataset_2,5.0,5.0,188.0,5.0,257.0
+USR_368,Karthik Joshi,49.0,Male,Nizamabad,Telangana,Telugu,2025-01-18,Quarterly Ebook,2025-01-25,2025-04-25,dataset_2,6.0,6.0,361.0,5.999999999999999,508.0
+USR_369,Karthik Chawla,18.0,Male,Kochi,Kerala,Hindi,2023-08-17,Annual Ebook,0,0,dataset_2,6.0,6.0,643.0,5.999999999999999,1028.0
+USR_370,Sanjay Murthy,39.0,Male,Kolkata,West Bengal,Hindi,2025-07-31,Audiobook Subscription,2025-08-13,2025-09-12,dataset_2,3.0,3.0,150.0,2.9999999999999996,314.0
+USR_371,Preethi Deshmukh,35.0,Female,Belgaum,Karnataka,Kannada,2024-02-15,Annual Ebook,0,0,dataset_2,6.0,6.0,785.0,5.999999999999999,846.0
+USR_372,Vaishnavi Naidu,40.0,Female,Chennai,Tamil Nadu,Tamil,2025-02-22,Quarterly Ebook,2025-03-07,2025-06-05,dataset_2,3.0,3.0,192.0,2.9999999999999996,473.0
+USR_373,Ramesh Reddy,36.0,Male,Kolkata,Kerala,Telugu,2023-05-25,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,1112.0
+USR_374,Raghav Deshmukh,44.0,Male,Trichy,Tamil Nadu,Tamil,2025-01-18,Annual Ebook,2025-01-24,2026-01-24,dataset_2,1.0,1.0,0.0,1.0,508.0
+USR_375,Amit Iyer,35.0,Male,Pune,Maharashtra,English,2025-04-24,Annual Ebook,0,0,dataset_2,5.0,5.0,246.0,5.0,412.0
+USR_376,Aarav Gowda,38.0,Male,Mangalore,Karnataka,Kannada,2023-06-15,Annual Ebook,0,0,dataset_2,7.0,6.0,757.0,6.699999999999999,1091.0
+USR_377,Akshara Menon,50.0,Female,Nellore,Andhra Pradesh,Telugu,2024-10-03,Quarterly Ebook,2024-10-11,2025-01-09,dataset_2,7.0,7.0,362.0,7.0,615.0
+USR_378,Malini Shetty,39.0,Female,Nellore,Andhra Pradesh,Telugu,2025-10-21,Annual Ebook,0,0,dataset_2,0.0,0.0,0.0,0.0,232.0
+USR_379,Karthik Iyer,28.0,Male,Kollam,Kerala,Malayalam,2026-01-02,Annual Ebook,0,0,dataset_2,4.0,3.0,88.0,3.6999999999999997,159.0
+USR_380,Aarav Kulkarni,53.0,Male,Mangalore,Karnataka,Kannada,2023-02-28,Annual Ebook,2023-03-14,2024-03-13,dataset_2,7.0,7.0,1049.0,7.0,1198.0
+USR_381,Uma Pillai,48.0,Non-Binary,New Delhi,Delhi,Hindi,2023-11-10,Audiobook Subscription,2023-11-24,0,dataset_2,5.0,4.0,748.0,4.7,943.0
+USR_382,Chitra Rao,38.0,Female,Madurai,Tamil Nadu,Tamil,2023-01-01,Audiobook Subscription,2023-01-02,2023-02-01,dataset_2,1.0,1.0,0.0,1.0,1256.0
+USR_383,Swathi Joshi,43.0,Non-Binary,Chennai,Tamil Nadu,English,2025-05-03,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,403.0
+USR_384,Kalyani Joshi,41.0,Female,Hubli,Karnataka,English,,Annual Ebook,0,0,dataset_2,3.0,2.0,120.0,2.6999999999999997,0.0
+USR_385,Yuvaraj Iyer,40.0,Male,Trichy,Tamil Nadu,English,2025-04-15,Annual Ebook,2025-04-24,2026-04-24,dataset_2,26.0,4.0,372.0,19.4,421.0
+USR_386,Prakash Singh,43.0,Male,Kanpur,Uttar Pradesh,English,2023-02-12,Annual Ebook,0,0,dataset_2,4.0,4.0,729.0,4.0,1214.0
+USR_387,Jagadish Chawla,45.0,Male,Kolkata,West Bengal,English,2025-03-13,Quarterly Ebook,2025-03-24,2025-06-22,dataset_2,4.0,2.0,234.0,3.4,454.0
+USR_388,Jyothi Pillai,54.0,Female,Kozhikode,Kerala,Malayalam,2026-03-05,Quarterly Ebook,2026-03-19,2026-06-17,dataset_2,2.0,2.0,19.0,2.0,97.0
+USR_389,Pranav Hegde,30.0,Male,Kozhikode,Kerala,Malayalam,2023-06-15,Annual Ebook,0,0,dataset_2,5.0,5.0,594.0,5.0,1091.0
+USR_390,Vignesh Naidu,34.0,Male,Ahmedabad,Gujarat,Hindi,2026-04-02,Audiobook Subscription,2026-04-06,2026-05-06,dataset_2,7.0,5.0,48.0,6.3999999999999995,69.0
+USR_391,Amit Nair,37.0,Male,Warangal,Telangana,Telugu,2023-07-06,Quarterly Ebook,2023-07-13,2023-10-11,dataset_2,1.0,1.0,0.0,1.0,1070.0
+USR_392,Aarav Kumar,43.0,Male,Tirupati,Andhra Pradesh,Hindi,2023-10-18,Quarterly Ebook,2023-10-21,0,dataset_2,1.0,1.0,0.0,1.0,966.0
+USR_393,Dhanush Joshi,41.0,Male,Guntur,Andhra Pradesh,Hindi,2024-03-10,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,822.0
+USR_394,Anjali Krishnan,31.0,Female,Belgaum,Karnataka,Kannada,2024-08-14,Annual Ebook,0,0,dataset_2,5.0,5.0,611.0,5.0,665.0
+USR_395,  Sowmya Das ,45.0,Female,Kollam,Kerala,Malayalam,2025-01-25,Annual Ebook,0,0,dataset_2,5.0,3.0,376.0,4.4,501.0
+USR_396,Anjali Sharma,31.0,Female,Nellore,Andhra Pradesh,Hindi,2023-05-30,Annual Ebook,0,0,dataset_2,5.0,5.0,979.0,5.0,1107.0
+USR_397,Gautham Joshi,56.0,Male,Salem,Tamil Nadu,Tamil,2025-11-21,Audiobook Subscription,2025-11-24,2025-12-24,dataset_2,20.0,14.0,171.0,18.2,201.0
+USR_398,Shruti Reddy,51.0,Female,Thrissur,Kerala,Malayalam,2024-11-25,Audiobook Subscription,2024-12-01,2024-12-31,dataset_2,5.0,5.0,233.0,5.0,562.0
+USR_399,Vaishnavi Chawla,33.0,Female,Chennai,Tamil Nadu,Tamil,2023-12-21,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,902.0
+USR_400,Bindu Naidu,42.0,Female,Tirupati,Andhra Pradesh,Telugu,2024-11-30,Annual Ebook,0,0,dataset_2,6.0,6.0,382.0,5.999999999999999,557.0
+USR_401,Arjun Nair,51.0,Male,Mumbai,Maharashtra,Hindi,2023-06-10,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,1096.0
+USR_402,Yamini Shetty,18.0,Female,Nizamabad,Telangana,Telugu,2026-02-19,Annual Ebook,0,0,dataset_2,3.0,3.0,25.0,2.9999999999999996,111.0
+USR_403,Anitha Murthy,62.0,Female,Kolkata,Telangana,English,2025-04-19,Audiobook Subscription,2025-04-27,2025-05-27,dataset_2,5.0,3.0,180.0,4.4,417.0
+USR_404,Raghav Reddy,41.0,Male,Ahmedabad,Gujarat,Hindi,2025-09-20,Quarterly Ebook,2025-10-04,2026-01-02,dataset_2,6.0,5.0,175.0,5.699999999999999,263.0
+USR_405,Raghav Hegde,49.0,Male,Vijayawada,Andhra Pradesh,Telugu,2023-01-01,Quarterly Ebook,2023-01-13,2023-04-13,dataset_2,3.0,3.0,709.0,2.9999999999999996,1256.0
+USR_406,Kalyani Pillai,37.0,Female,Kanpur,Uttar Pradesh,Tamil,2024-10-30,Annual Ebook,2024-11-08,2025-11-08,dataset_2,6.0,6.0,315.0,5.999999999999999,588.0
+USR_407,Aarav Shetty,33.0,Male,Warangal,Telangana,Telugu,2026-02-19,Quarterly Ebook,2026-03-04,2026-06-02,dataset_2,5.0,4.0,94.0,4.7,111.0
+USR_408,Anand Patel,35.0,Male,Ahmedabad,Gujarat,Hindi,2026-02-28,Quarterly Ebook,2026-03-04,2026-06-02,dataset_2,4.0,4.0,77.0,4.0,102.0
+USR_409,Vivek Reddy,36.0,Male,Lucknow,Uttar Pradesh,Hindi,2023-08-25,Annual Ebook,0,0,dataset_2,2.0,2.0,594.0,2.0,1020.0
+USR_410,Ramya Iyer,32.0,Female,Coimbatore,Tamil Nadu,Tamil,2023-01-23,Annual Ebook,0,0,dataset_2,2.0,2.0,101.0,2.0,1234.0
+USR_411,Balaji Kulkarni,34.0,Male,Bangalore,Karnataka,Kannada,2024-09-01,Annual Ebook,0,0,dataset_2,6.0,6.0,606.0,5.999999999999999,647.0
+USR_412,Pranav Choudhury,45.0,Male,New Delhi,Delhi,English,2024-11-19,Annual Ebook,0,0,dataset_2,4.0,3.0,494.0,3.6999999999999997,568.0
+USR_413,Madhavan Gupta,43.0,Non-Binary,Hubli,Karnataka,Kannada,2024-04-29,Audiobook Subscription,2024-05-01,2024-05-31,dataset_2,5.0,4.0,538.0,4.7,772.0
+USR_414,Priya Swamy,56.0,Female,Vijayawada,Andhra Pradesh,Telugu,2023-03-22,Audiobook Subscription,2023-03-25,2023-04-24,dataset_2,4.0,3.0,1005.0,3.6999999999999997,1176.0
+USR_415,Saravanan Chawla,36.0,Non-Binary,Ahmedabad,Gujarat,Hindi,2024-01-13,Annual Ebook,0,0,dataset_2,0.0,0.0,0.0,0.0,879.0
+USR_416,Saravanan Raman,41.0,Male,Kolkata,Karnataka,Kannada,2025-08-19,Annual Ebook,0,0,dataset_2,2.0,2.0,229.0,2.0,295.0
+USR_417,Abhinav Sharma,41.0,Non-Binary,Coimbatore,Tamil Nadu,Tamil,2024-05-07,Audiobook Subscription,2024-05-19,2024-06-18,dataset_2,1.0,1.0,0.0,1.0,764.0
+USR_418,Kalyani Kulkarni,22.0,Female,Kolkata,West Bengal,Hindi,2024-11-10,Quarterly Ebook,2024-11-18,2025-02-16,dataset_2,6.0,6.0,255.0,5.999999999999999,577.0
+USR_419,Shilpa Gowda,28.0,Female,Kolkata,West Bengal,Malayalam,2023-08-29,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,1016.0
+USR_420,Shruti Joshi,33.0,Female,Bangalore,Karnataka,Kannada,2024-07-19,Annual Ebook,2024-07-22,2025-07-22,dataset_2,4.0,4.0,589.0,4.0,691.0
+USR_421,Vivek Krishnan,18.0,Male,New Delhi,Delhi,Hindi,2025-09-22,Annual Ebook,0,0,dataset_2,2.0,2.0,90.0,2.0,261.0
+USR_422,Vivek Sharma,45.0,Male,New Delhi,Delhi,Hindi,2023-06-03,Annual Ebook,0,0,dataset_2,3.0,3.0,850.0,2.9999999999999996,1103.0
+USR_423,Nandhini Krishnan,37.0,Female,Madurai,Tamil Nadu,Tamil,2026-01-20,Annual Ebook,0,0,dataset_2,7.0,7.0,92.0,7.0,141.0
+USR_424,Swathi Chawla,36.0,Female,Madurai,Tamil Nadu,Tamil,2024-10-08,Annual Ebook,2024-10-20,2025-10-20,dataset_2,3.0,3.0,498.0,2.9999999999999996,610.0
+USR_425,  Bindu Murthy ,47.0,Female,Thiruvananthapuram,Kerala,Malayalam,2023-10-05,Quarterly Ebook,2023-10-13,2024-01-11,dataset_2,6.0,6.0,835.0,5.999999999999999,979.0
+USR_426,Ramesh Acharya,42.0,Male,Hyderabad,Telangana,Telugu,2023-10-08,Quarterly Ebook,2023-10-16,2024-01-14,dataset_2,2.0,2.0,109.0,2.0,976.0
+USR_427,Karthik Shetty,33.0,Male,Kolkata,West Bengal,Hindi,2025-09-10,Annual Ebook,0,0,dataset_2,4.0,4.0,262.0,4.0,273.0
+USR_428,Jyothi Gowda,39.0,Female,Guntur,Andhra Pradesh,English,2024-11-26,Audiobook Subscription,2024-11-26,2024-12-26,dataset_2,2.0,2.0,135.0,2.0,561.0
+USR_429,Chitra Naidu,21.0,Female,Kolkata,West Bengal,Hindi,2024-12-16,Annual Ebook,0,0,dataset_2,3.0,2.0,212.0,2.6999999999999997,541.0
+USR_430,Gautham Choudhury,40.0,Male,Nagpur,Maharashtra,Hindi,2023-12-04,Annual Ebook,2023-12-15,2024-12-14,dataset_2,1.0,1.0,0.0,1.0,919.0
+USR_431,Saravanan Reddy,35.0,Male,Nagpur,Maharashtra,English,2023-02-28,Annual Ebook,2023-03-09,2024-03-08,dataset_2,1.0,1.0,0.0,1.0,1198.0
+USR_432,Vikram Bose,46.0,Male,Lucknow,Uttar Pradesh,English,2023-12-19,Annual Ebook,2024-01-01,2024-12-31,dataset_2,4.0,4.0,704.0,4.0,904.0
+USR_433,Aditi Chawla,47.0,Female,Madurai,Tamil Nadu,Tamil,2023-08-21,Annual Ebook,0,0,dataset_2,6.0,6.0,418.0,5.999999999999999,1024.0
+USR_434,Sowmya Sharma,39.0,Female,Warangal,Telangana,Telugu,2023-05-09,Annual Ebook,0,0,dataset_2,8.0,6.0,861.0,7.3999999999999995,1128.0
+USR_435,Ritu Singh,29.0,Female,Mysore,Karnataka,Kannada,2023-11-04,Annual Ebook,0,0,dataset_2,5.0,4.0,479.0,4.7,949.0
+USR_436,Shilpa Shetty,47.0,Female,Kolkata,Tamil Nadu,Tamil,2024-05-17,Quarterly Ebook,2024-05-26,2024-08-24,dataset_2,3.0,3.0,193.0,2.9999999999999996,754.0
+USR_437,Manoj Verma,34.0,Male,Madurai,Tamil Nadu,Tamil,2024-06-27,Quarterly Ebook,2024-07-09,2024-10-07,dataset_2,6.0,6.0,486.0,5.999999999999999,713.0
+USR_438,Rajesh Gupta,28.0,Male,Mumbai,Maharashtra,English,2024-01-13,Audiobook Subscription,2024-01-27,2024-02-26,dataset_2,4.0,4.0,386.0,4.0,879.0
+USR_439,Adithya Kumar,21.0,Male,Hyderabad,Telangana,Telugu,2026-02-23,Quarterly Ebook,2026-02-26,2026-05-27,dataset_2,6.0,6.0,99.0,5.999999999999999,107.0
+USR_440,Akshara Shetty,36.0,Female,Salem,Tamil Nadu,Tamil,2025-10-27,Quarterly Ebook,2025-10-31,2026-01-29,dataset_2,1.0,1.0,0.0,1.0,226.0
+USR_441,Adithya Rao,53.0,Male,Chennai,Tamil Nadu,Tamil,2024-02-26,Quarterly Ebook,2024-03-11,2024-06-09,dataset_2,3.0,3.0,471.0,2.9999999999999996,835.0
+USR_442,Sandhya Kumar,38.0,Male,Lucknow,Uttar Pradesh,Hindi,2025-02-16,Audiobook Subscription,2025-02-24,2025-03-26,dataset_2,5.0,4.0,365.0,4.7,479.0
+USR_443,Ananya Sharma,26.0,Female,Warangal,Telangana,Tamil,2025-11-29,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,193.0
+USR_444,Jyothi Murthy,33.0,Female,Hyderabad,Telangana,English,2024-03-11,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,821.0
+USR_445,Madhavan Krishnan,39.0,Male,New Delhi,Delhi,Hindi,2023-08-26,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,1019.0
+USR_446,Dhanush Gupta,39.0,Male,Thiruvananthapuram,Kerala,Hindi,2024-04-25,Quarterly Ebook,2024-05-09,2024-08-07,dataset_2,6.0,4.0,196.0,5.3999999999999995,776.0
+USR_447,Anitha Verma,50.0,Female,Coimbatore,Tamil Nadu,Tamil,2023-08-15,Annual Ebook,2023-08-27,2024-08-26,dataset_2,3.0,3.0,447.0,2.9999999999999996,1030.0
+USR_448,Manoj Verma,22.0,Male,Kolkata,West Bengal,English,2023-06-15,Annual Ebook,0,0,dataset_2,5.0,3.0,514.0,4.4,1091.0
+USR_449,  Hari Naidu ,39.0,Male,Madurai,Tamil Nadu,Tamil,2026-04-26,Annual Ebook,0,0,dataset_2,6.0,6.0,30.0,5.999999999999999,45.0
+USR_450,Yamini Raman,41.0,Female,Warangal,Telangana,Telugu,2023-12-18,Annual Ebook,0,0,dataset_2,3.0,3.0,616.0,2.9999999999999996,905.0
+USR_451,Aditi Bose,29.0,Female,New Delhi,Delhi,Malayalam,2024-11-13,Audiobook Subscription,2024-11-20,2024-12-20,dataset_2,2.0,2.0,121.0,2.0,574.0
+USR_452,Vaishnavi Choudhury,29.0,Female,Nizamabad,Telangana,Telugu,2026-02-27,Quarterly Ebook,2026-03-07,2026-06-05,dataset_2,4.0,3.0,47.0,3.6999999999999997,103.0
+USR_453,Priya Murthy,23.0,Female,New Delhi,Delhi,English,2023-03-02,Quarterly Ebook,2023-03-10,2023-06-08,dataset_2,1.0,1.0,0.0,1.0,1196.0
+USR_454,Divya Rao,30.0,Male,Nellore,Andhra Pradesh,Telugu,2024-04-02,Quarterly Ebook,2024-04-02,2024-07-01,dataset_2,5.0,5.0,756.0,5.0,799.0
+USR_455,Sowmya Gupta,50.0,Female,Mumbai,Maharashtra,Telugu,2025-12-17,Quarterly Ebook,2025-12-23,2026-03-23,dataset_2,7.0,7.0,147.0,7.0,175.0
+USR_456,Prakash Kumar,21.0,Male,New Delhi,Delhi,Hindi,2024-05-18,Quarterly Ebook,2024-06-01,2024-08-30,dataset_2,4.0,4.0,229.0,4.0,753.0
+USR_457,Deepika Raman,43.0,Female,Kolkata,West Bengal,Hindi,2024-08-19,Annual Ebook,2024-08-27,2025-08-27,dataset_2,1.0,1.0,0.0,1.0,660.0
+USR_458,Deepika Singh,39.0,Female,Tirupati,Andhra Pradesh,Hindi,2023-08-22,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,1023.0
+USR_459,Vikram Verma,23.0,Male,Kolkata,West Bengal,Hindi,2023-07-24,Audiobook Subscription,2023-07-24,2023-08-23,dataset_2,2.0,2.0,781.0,2.0,1052.0
+USR_460,Akshara Kumar,32.0,Female,Trichy,Tamil Nadu,Hindi,2024-01-05,Annual Ebook,0,0,dataset_2,6.0,6.0,549.0,5.999999999999999,887.0
+USR_461,Vaishnavi Verma,34.0,Female,Kozhikode,Kerala,Malayalam,2025-05-16,Annual Ebook,2025-05-19,2026-05-19,dataset_2,2.0,2.0,216.0,2.0,390.0
+USR_462,  Rajesh Sharma ,41.0,Male,Ahmedabad,Gujarat,Hindi,2023-05-17,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,1120.0
+USR_463,Sanjay Reddy,47.0,Male,Kollam,Kerala,Malayalam,2023-10-03,Audiobook Subscription,2023-10-14,2023-11-13,dataset_2,2.0,2.0,530.0,2.0,981.0
+USR_464,Priya Patel,46.0,Female,Pune,Maharashtra,English,2023-04-11,Annual Ebook,0,0,dataset_2,5.0,3.0,853.0,4.4,1156.0
+USR_465,Hari Bhat,39.0,Male,Kochi,Kerala,Malayalam,2026-02-07,Audiobook Subscription,2026-02-15,2026-03-17,dataset_2,2.0,2.0,76.0,2.0,123.0
+USR_466,  Malini Swamy ,41.0,Non-Binary,Kozhikode,Kerala,English,2025-08-12,Quarterly Ebook,2025-08-20,2025-11-18,dataset_2,1.0,1.0,0.0,1.0,302.0
+USR_467,Pooja Das,30.0,Female,Chennai,Tamil Nadu,Tamil,2023-07-03,Annual Ebook,2023-07-06,2024-07-05,dataset_2,3.0,3.0,569.0,2.9999999999999996,1073.0
+USR_468,Radhika Verma,23.0,Female,New Delhi,Delhi,English,2025-12-07,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,185.0
+USR_469,Gayathri Pillai,38.0,Male,Guntur,Andhra Pradesh,Telugu,2025-06-02,Quarterly Ebook,2025-06-02,2025-08-31,dataset_2,3.0,3.0,165.0,2.9999999999999996,373.0
+USR_470,  Shilpa Bhat ,37.0,Female,Hubli,Karnataka,Kannada,2024-12-16,Audiobook Subscription,2024-12-24,2025-01-23,dataset_2,1.0,1.0,0.0,1.0,541.0
+USR_471,Vaishnavi Kulkarni,18.0,Female,Tirupati,Andhra Pradesh,Telugu,2023-11-20,Quarterly Ebook,2023-11-25,2024-02-23,dataset_2,5.0,4.0,387.0,4.7,933.0
+USR_472,Kalyani Patel,51.0,Female,Warangal,Telangana,Telugu,2024-08-28,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,651.0
+USR_473,Balaji Raman,63.0,Male,Salem,Tamil Nadu,Hindi,2024-07-31,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,679.0
+USR_474,Swathi Murthy,33.0,Female,Kolkata,Delhi,Hindi,2023-02-08,Annual Ebook,2023-02-22,2024-02-22,dataset_2,3.0,2.0,755.0,2.6999999999999997,1218.0
+USR_475,Shilpa Bhat,40.0,Female,Trichy,Tamil Nadu,Tamil,2023-07-26,Annual Ebook,0,0,dataset_2,3.0,3.0,575.0,2.9999999999999996,1050.0
+USR_476,Jagadish Raman,33.0,Male,Pune,Maharashtra,Hindi,2023-03-13,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,1185.0
+USR_477,Gayathri Kumar,40.0,Female,Kolkata,West Bengal,Hindi,,Quarterly Ebook,2024-03-17,2024-06-15,dataset_2,1.0,1.0,0.0,1.0,0.0
+USR_478,Abhinav Menon,28.0,Male,Kollam,Kerala,Malayalam,2023-11-17,Quarterly Ebook,2023-11-25,0,dataset_2,1.0,1.0,0.0,1.0,936.0
+USR_479,Rajesh Raman,41.0,Male,Tirupati,Andhra Pradesh,Hindi,2025-04-19,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,417.0
+USR_480,Saravanan Choudhury,42.0,Male,Karimnagar,Telangana,Telugu,2025-07-15,Audiobook Subscription,2025-07-25,2025-08-24,dataset_2,3.0,3.0,48.0,2.9999999999999996,330.0
+USR_481,Uma Naidu,33.0,Female,Kochi,Kerala,English,2026-03-20,Annual Ebook,2026-03-29,2027-03-29,dataset_2,1.0,1.0,0.0,1.0,82.0
+USR_482,Ranganath Iyer,35.0,Male,Kanpur,Uttar Pradesh,Hindi,2023-12-14,Annual Ebook,0,0,dataset_2,5.0,5.0,756.0,5.0,909.0
+USR_483,Akshara Bose,34.0,Female,Kolkata,West Bengal,Hindi,2023-02-17,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,1209.0
+USR_484,Saravanan Gupta,47.0,Male,Thiruvananthapuram,Kerala,Malayalam,2024-09-22,Annual Ebook,2024-10-04,2025-10-04,dataset_2,4.0,4.0,403.0,4.0,626.0
+USR_485,Rohan Chawla,25.0,Male,Thrissur,Kerala,Malayalam,2024-01-14,Quarterly Ebook,2024-01-21,2024-04-20,dataset_2,4.0,3.0,704.0,3.6999999999999997,878.0
+USR_486,Dhanush Rao,53.0,Male,Kanpur,Uttar Pradesh,Hindi,2024-01-02,Annual Ebook,0,0,dataset_2,4.0,4.0,538.0,4.0,890.0
+USR_487,Anjali Deshmukh,37.0,Female,Kochi,Kerala,Malayalam,2023-10-01,Annual Ebook,0,0,dataset_2,5.0,3.0,669.0,4.4,983.0
+USR_488,Ramesh Krishnan,66.0,Male,Hyderabad,Telangana,Telugu,2023-08-04,Audiobook Subscription,2023-08-18,2023-09-17,dataset_2,1.0,1.0,0.0,1.0,1041.0
+USR_489,Aditi Acharya,29.0,Female,Karimnagar,Telangana,Telugu,2025-11-24,Audiobook Subscription,0,2025-12-28,dataset_2,1.0,1.0,0.0,1.0,198.0
+USR_490,Gayathri Bose,54.0,Female,Kolkata,West Bengal,English,2025-08-07,Audiobook Subscription,2025-08-13,0,dataset_2,3.0,2.0,214.0,2.6999999999999997,307.0
+USR_491,Chitra Sharma,32.0,Male,Kozhikode,Kerala,Malayalam,2024-03-14,Audiobook Subscription,2024-03-17,2024-04-16,dataset_2,5.0,4.0,802.0,4.7,818.0
+USR_492,Kiran Singh,46.0,Male,Warangal,Telangana,Telugu,2025-01-07,Annual Ebook,0,0,dataset_2,3.0,3.0,115.0,2.9999999999999996,519.0
+USR_493,Malini Deshmukh,35.0,Female,New Delhi,Delhi,Tamil,2025-10-04,Annual Ebook,0,0,dataset_2,3.0,3.0,117.0,2.9999999999999996,249.0
+USR_494,Pooja Krishnan,18.0,Female,Karimnagar,Telangana,Telugu,2024-12-06,Quarterly Ebook,2024-12-14,2025-03-14,dataset_2,4.0,4.0,451.0,4.0,551.0
+USR_495,Nandhini Joshi,28.0,Female,Warangal,Telangana,Telugu,2024-02-23,Annual Ebook,0,0,dataset_2,1.0,1.0,0.0,1.0,838.0
+USR_496,Malini Sharma,42.0,Female,Coimbatore,Tamil Nadu,Tamil,2025-03-28,Audiobook Subscription,2025-04-09,2025-05-09,dataset_2,0.0,0.0,0.0,0.0,439.0
+USR_497,Vaishnavi Murthy,21.0,Female,Nagpur,Maharashtra,English,2025-06-19,Annual Ebook,0,0,dataset_2,2.0,2.0,98.0,2.0,356.0
+USR_498,Dhanush Shetty,48.0,Male,Nizamabad,Telangana,Telugu,2024-04-02,Annual Ebook,0,0,dataset_2,4.0,4.0,491.0,4.0,799.0
+USR_499,  Balaji Swamy ,45.0,Male,Thiruvananthapuram,Kerala,Malayalam,2025-10-16,Audiobook Subscription,2025-10-28,2025-11-27,dataset_2,3.0,3.0,132.0,2.9999999999999996,237.0
+USR_500,Ananya Pillai,37.0,Female,Guntur,Andhra Pradesh,Telugu,2024-03-12,Annual Ebook,0,0,dataset_2,6.0,6.0,733.0,5.999999999999999,820.0
